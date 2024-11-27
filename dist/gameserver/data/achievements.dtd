@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT achievements (category|achievement)*>
+<!ATTLIST achievements
+        enabled CDATA #REQUIRED
+        voice_commands CDATA #IMPLIED>
+<!ELEMENT category (#PCDATA)>
+<!ATTLIST category
+        name CDATA #REQUIRED
+        title_address CDATA #REQUIRED>
+<!ELEMENT achievement (conds|stage)*>
+<!ATTLIST achievement
+        id CDATA #REQUIRED
+        name_address CDATA #REQUIRED
+        category CDATA #REQUIRED
+        icon CDATA #IMPLIED
+        type CDATA #REQUIRED
+        expire_cron CDATA #IMPLIED
+        metric_stage_notify_delay CDATA #IMPLIED>
+<!ELEMENT conds (cond)*>
+<!ELEMENT cond (#PCDATA)>
+<!ATTLIST cond
+        name CDATA #REQUIRED
+        value CDATA #REQUIRED>
+<!ELEMENT stage (conds|rewards)*>
+<!ATTLIST stage
+        desc_address CDATA #REQUIRED
+        level CDATA #REQUIRED
+        reset_metric CDATA #IMPLIED
+        value CDATA #REQUIRED>
+<!ELEMENT rewards (reward)*>
+<!ELEMENT reward (#PCDATA)>
+<!ATTLIST reward
+        chance CDATA #REQUIRED
+        item_id CDATA #REQUIRED
+        max CDATA #REQUIRED
+        min CDATA #REQUIRED>

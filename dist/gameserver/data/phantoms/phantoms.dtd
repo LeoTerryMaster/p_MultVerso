@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+        <!ELEMENT list (phantom)*>
+        <!ELEMENT phantom (set)*>
+        <!ATTLIST phantom
+                type CDATA #REQUIRED
+                name CDATA #REQUIRED
+                title CDATA #IMPLIED
+                grade CDATA #REQUIRED>
+        <!ELEMENT set (#PCDATA)>
+        <!ATTLIST set
+                name CDATA #REQUIRED
+                value CDATA #REQUIRED>

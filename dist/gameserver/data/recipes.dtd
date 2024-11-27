@@ -1,0 +1,18 @@
+<!ELEMENT list (recipe)*>
+        <!ELEMENT recipe (materials|products|npc_fee)*>
+        <!ATTLIST recipe
+                id CDATA #REQUIRED
+                item_id CDATA #REQUIRED
+                level CDATA #REQUIRED
+                mp_consume CDATA #REQUIRED
+                success_rate CDATA #REQUIRED
+                is_common CDATA #REQUIRED
+                name CDATA #IMPLIED>
+        <!ELEMENT item (#PCDATA)>
+        <!ATTLIST item
+                id CDATA #REQUIRED
+                count CDATA #REQUIRED
+                name CDATA #IMPLIED>
+        <!ELEMENT materials (item)*>
+        <!ELEMENT products (item)*>
+        <!ELEMENT npc_fee (item)*>

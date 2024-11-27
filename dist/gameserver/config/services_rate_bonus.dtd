@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT list (rate_bonus)*>
+<!ELEMENT rate_bonus (exp|sp|quest_reward|quest_drop|drop_adena|drop_items|drop_spoil|enchant_item_mul|drop_raid_item|bonus_days|reward|name_color)*>
+<!ATTLIST rate_bonus
+        id CDATA #REQUIRED
+        consume_item_id CDATA #REQUIRED
+        consume_item_amount CDATA #REQUIRED>
+<!ELEMENT exp (#PCDATA)>
+<!ATTLIST exp
+        value CDATA #REQUIRED>
+<!ELEMENT sp (#PCDATA)>
+<!ATTLIST sp
+        value CDATA #REQUIRED>
+<!ELEMENT quest_reward (#PCDATA)>
+<!ATTLIST quest_reward
+        value CDATA #REQUIRED>
+<!ELEMENT quest_drop (#PCDATA)>
+<!ATTLIST quest_drop
+        value CDATA #REQUIRED>
+<!ELEMENT drop_adena (#PCDATA)>
+<!ATTLIST drop_adena
+        value CDATA #REQUIRED>
+<!ELEMENT drop_items (#PCDATA)>
+<!ATTLIST drop_items
+        value CDATA #REQUIRED>
+<!ELEMENT drop_spoil (#PCDATA)>
+<!ATTLIST drop_spoil
+        value CDATA #REQUIRED>
+<!ELEMENT drop_raid_item (#PCDATA)>
+<!ATTLIST drop_raid_item
+                value CDATA #REQUIRED>
+<!ELEMENT enchant_item_mul (#PCDATA)>
+<!ATTLIST enchant_item_mul
+        value CDATA #REQUIRED>
+<!ELEMENT name_color (#PCDATA)>
+<!ATTLIST name_color
+        value CDATA #REQUIRED>
+<!ELEMENT bonus_days (#PCDATA)>
+<!ATTLIST bonus_days
+        value CDATA #REQUIRED>
+<!ELEMENT reward (#PCDATA)>
+<!ATTLIST reward
+        item_id CDATA #REQUIRED
+        item_count CDATA #REQUIRED>

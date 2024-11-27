@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Release the S-grade accessory seal." -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="false" notax="true" keepenchanted="true" npcid="31126" />
+
+    <!-- Sealed Tateossian Necklace -->
+    <item>
+        <ingredient id="6726" count="1"/>
+        <ingredient id="5575" count="975255"/>
+        <production id="920" count="1"/>
+    </item>
+
+    <!-- Sealed Tateossian Earring -->
+    <item>
+        <ingredient id="6724" count="1"/>
+        <ingredient id="5575" count="731441"/>
+        <production id="858" count="1"/>
+    </item>
+
+    <!-- Sealed Tateossian Ring -->
+    <item>
+        <ingredient id="6725" count="1"/>
+        <ingredient id="5575" count="487627"/>
+        <production id="889" count="1"/>
+    </item>
+
+</list>

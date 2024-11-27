@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Teleporter scroll multisell -->
+
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- SoE: Talking Island -->
+  <item id="1">
+    <ingredient id="7562" count="5"/>
+    <production id="7117" count="1"/>
+  </item>
+
+  <!-- SoE: Elven Village -->
+  <item id="2">
+    <ingredient id="7562" count="5"/>
+    <production id="7118" count="1"/>
+  </item>
+
+  <!-- SoE: Dark Elven Village -->
+  <item id="3">
+    <ingredient id="7562" count="5"/>
+    <production id="7119" count="1"/>
+  </item>
+
+  <!-- SoE: Orc Village -->
+  <item id="4">
+    <ingredient id="7562" count="5"/>
+    <production id="7120" count="1"/>
+  </item>
+
+  <!-- SoE: Dwarven Village -->
+  <item id="5">
+    <ingredient id="7562" count="5"/>
+    <production id="7121" count="1"/>
+  </item>
+
+  <!-- SoE: Gludin -->
+  <item id="6">
+    <ingredient id="7562" count="8"/>
+    <production id="7122" count="1"/>
+  </item>
+
+  <!-- SoE: Gludio -->
+  <item id="7">
+    <ingredient id="7562" count="8"/>
+    <production id="7123" count="1"/>
+  </item>
+
+  <!-- SoE: Dion -->
+  <item id="8">
+    <ingredient id="7562" count="8"/>
+    <production id="7124" count="1"/>
+  </item>
+
+  <!-- SoE: Floran -->
+  <item id="9">
+    <ingredient id="7562" count="8"/>
+    <production id="7125" count="1"/>
+  </item>
+
+  <!-- SoE: Giran -->
+  <item id="10">
+    <ingredient id="7562" count="8"/>
+    <production id="7126" count="1"/>
+  </item>
+
+  <!-- SoE: Hardin's Private Academy -->
+  <item id="11">
+    <ingredient id="7562" count="8"/>
+    <production id="7127" count="1"/>
+  </item>
+
+  <!-- SoE: Heine -->
+  <item id="12">
+    <ingredient id="7562" count="8"/>
+    <production id="7128" count="1"/>
+  </item>
+
+  <!-- SoE: Oren -->
+  <item id="13">
+    <ingredient id="7562" count="8"/>
+    <production id="7129" count="1"/>
+  </item>
+
+  <!-- SoE: Ivory Tower -->
+  <item id="14">
+    <ingredient id="7562" count="8"/>
+    <production id="7130" count="1"/>
+  </item>
+
+  <!-- SoE: Hunters Village -->
+  <item id="15">
+    <ingredient id="7562" count="8"/>
+    <production id="7131" count="1"/>
+  </item>
+
+  <!-- SoE: Aden -->
+  <item id="16">
+    <ingredient id="7562" count="8"/>
+    <production id="7132" count="1"/>
+  </item>
+
+  <!-- SoE: Goddard -->
+  <item id="17">
+    <ingredient id="7562" count="8"/>
+    <production id="7133" count="1"/>
+  </item>
+
+  <!-- SoE: Rune -->
+  <item id="18">
+    <ingredient id="7562" count="8"/>
+    <production id="7134" count="1"/>
+  </item>
+
+  <!-- SoE: Schuttgart -->
+  <item id="19">
+    <ingredient id="7562" count="8"/>
+    <production id="7135" count="1"/>
+  </item>
+
+</list>

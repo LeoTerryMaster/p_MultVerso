@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "domains.dtd">
+<list>
+    <!-- 장원
+    // 2009-04-10	39913.59603
+    // none=0; gludio=1; dion=2; giran=3; oren=4; aden=5; innadrile=6; godard=7; rune=8;schuttgart=9; -->
+    <domain id="1" name="Gludio"> <!-- [글루디오장원] -->
+        <polygon>
+            <coords loc="-121528 98344"/>
+            <coords loc="-98372 98344"/>
+            <coords loc="-98340 131032"/>
+            <coords loc="-122216 131420"/>
+        </polygon>
+        <polygon>
+            <coords loc="-131056 196736"/>
+            <coords loc="-98380 196648"/>
+            <coords loc="-98428 229188"/>
+            <coords loc="-130988 229224"/>
+        </polygon>
+        <polygon>
+            <coords loc="-131020 229516"/>
+            <coords loc="-98484 229588"/>
+            <coords loc="-98396 262080"/>
+            <coords loc="-131064 261872"/>
+        </polygon>
+        <polygon>
+            <coords loc="-97868 65836"/>
+            <coords loc="-76324 65972"/>
+            <coords loc="-77528 77712"/>
+            <coords loc="-98100 87216"/>
+        </polygon>
+        <polygon>
+            <coords loc="-98172 87344"/>
+            <coords loc="-80156 79000"/>
+            <coords loc="-78324 86876"/>
+            <coords loc="-80152 98052"/>
+            <coords loc="-98256 98092"/>
+        </polygon>
+        <polygon>
+            <coords loc="-78308 87376"/>
+            <coords loc="-70516 89252"/>
+            <coords loc="-65788 93912"/>
+            <coords loc="-65736 98076"/>
+            <coords loc="-80084 98040"/>
+        </polygon>
+        <polygon>
+            <coords loc="-86388 79308"/>
+            <coords loc="-82064 78388"/>
+            <coords loc="-80872 84576"/>
+            <coords loc="-88852 84796"/>
+            <coords loc="-88992 82552"/>
+        </polygon>
+        <polygon>
+            <coords loc="-98388 98168"/>
+            <coords loc="-65688 98296"/>
+            <coords loc="-65600 131076"/>
+            <coords loc="-98300 131356"/>
+        </polygon>
+        <polygon>
+            <coords loc="-98272 131164"/>
+            <coords loc="-65828 131248"/>
+            <coords loc="-65764 163676"/>
+            <coords loc="-98732 165048"/>
+        </polygon>
+        <polygon>
+            <coords loc="-98236 163948"/>
+            <coords loc="-65724 163856"/>
+            <coords loc="-65880 195756"/>
+            <coords loc="-98388 196880"/>
+        </polygon>
+        <polygon>
+            <coords loc="-98320 229472"/>
+            <coords loc="-65752 229436"/>
+            <coords loc="-65468 261984"/>
+            <coords loc="-98200 261776"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65488 93628"/>
+            <coords loc="-33092 89240"/>
+            <coords loc="-32964 98112"/>
+            <coords loc="-65476 98100"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65484 98340"/>
+            <coords loc="-33068 98676"/>
+            <coords loc="-33020 130852"/>
+            <coords loc="-65528 131016"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65484 131176"/>
+            <coords loc="-32972 131168"/>
+            <coords loc="-33024 163632"/>
+            <coords loc="-65388 163568"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65440 163896"/>
+            <coords loc="-32844 163852"/>
+            <coords loc="-32996 196452"/>
+            <coords loc="-65532 196488"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65368 196732"/>
+            <coords loc="-33032 196776"/>
+            <coords loc="-33076 229244"/>
+            <coords loc="-65012 229212"/>
+        </polygon>
+        <polygon>
+            <coords loc="-5032 72868"/>
+            <coords loc="-24 79252"/>
+            <coords loc="108 98528"/>
+            <coords loc="-21568 98404"/>
+            <coords loc="-22548 90904"/>
+            <coords loc="-20236 76952"/>
+            <coords loc="-12260 70068"/>
+        </polygon>
+        <polygon>
+            <coords loc="-22232 77188"/>
+            <coords loc="-10864 77036"/>
+            <coords loc="-11192 88548"/>
+            <coords loc="-21852 88044"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32480 98448"/>
+            <coords loc="-192 98440"/>
+            <coords loc="388 131392"/>
+            <coords loc="-32692 130880"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32744 131188"/>
+            <coords loc="-252 131164"/>
+            <coords loc="-124 163732"/>
+            <coords loc="-32696 163648"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32644 163916"/>
+            <coords loc="-148 163948"/>
+            <coords loc="132 196496"/>
+            <coords loc="-32716 196364"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32720 196704"/>
+            <coords loc="-64 196664"/>
+            <coords loc="-216 229148"/>
+            <coords loc="-33140 229576"/>
+        </polygon>
+        <polygon>
+            <coords loc="33600 229712"/>
+            <coords loc="65364 230072"/>
+            <coords loc="65324 262096"/>
+            <coords loc="31612 262128"/>
+        </polygon>
+    </domain>
+    <domain id="2" name="Dion"> <!-- [디온장원] -->
+        <polygon>
+            <coords loc="-57777 -253194"/>
+            <coords loc="-40997 -252692"/>
+            <coords loc="-41305 -237750"/>
+            <coords loc="-58125 -237445"/>
+        </polygon>
+        <polygon>
+            <coords loc="3236 98380"/>
+            <coords loc="31976 98800"/>
+            <coords loc="31880 117524"/>
+            <coords loc="2496 112880"/>
+        </polygon>
+        <polygon>
+            <coords loc="32082 117581"/>
+            <coords loc="32546 130836"/>
+            <coords loc="9062 131116"/>
+            <coords loc="862 127172"/>
+            <coords loc="2410 113013"/>
+        </polygon>
+        <polygon>
+            <coords loc="2876 155112"/>
+            <coords loc="5860 131136"/>
+            <coords loc="32588 131428"/>
+            <coords loc="32496 163624"/>
+            <coords loc="5600 163816"/>
+        </polygon>
+        <polygon>
+            <coords loc="92 164016"/>
+            <coords loc="32620 163960"/>
+            <coords loc="32596 196456"/>
+            <coords loc="-8 196608"/>
+        </polygon>
+        <polygon>
+            <coords loc="56516 99872"/>
+            <coords loc="62188 111928"/>
+            <coords loc="61972 130772"/>
+            <coords loc="32864 130916"/>
+            <coords loc="32824 98272"/>
+        </polygon>
+        <polygon>
+            <coords loc="32872 131188"/>
+            <coords loc="65324 131368"/>
+            <coords loc="65280 163608"/>
+            <coords loc="33000 163656"/>
+        </polygon>
+    </domain>
+    <domain id="3" name="Giran"> <!-- [기란장원] -->
+        <polygon>
+            <coords loc="32884 163952"/>
+            <coords loc="33084 196400"/>
+            <coords loc="65244 194620"/>
+            <coords loc="65324 163764"/>
+        </polygon>
+        <polygon>
+            <coords loc="65740 98480"/>
+            <coords loc="97976 98536"/>
+            <coords loc="97900 130712"/>
+            <coords loc="65604 130920"/>
+        </polygon>
+        <polygon>
+            <coords loc="65668 131208"/>
+            <coords loc="98012 131164"/>
+            <coords loc="80700 163712"/>
+            <coords loc="65716 163616"/>
+        </polygon>
+        <polygon>
+            <coords loc="83796 157680"/>
+            <coords loc="98044 131208"/>
+            <coords loc="98212 154536"/>
+        </polygon>
+        <polygon>
+            <coords loc="65896 163996"/>
+            <coords loc="80060 164232"/>
+            <coords loc="70212 180176"/>
+            <coords loc="65880 184172"/>
+        </polygon>
+        <polygon>
+            <coords loc="98544 98724"/>
+            <coords loc="130904 98396"/>
+            <coords loc="130624 130740"/>
+            <coords loc="98384 130748"/>
+        </polygon>
+        <polygon>
+            <coords loc="130912 131104"/>
+            <coords loc="130976 138376"/>
+            <coords loc="118944 150588"/>
+            <coords loc="98332 153328"/>
+            <coords loc="98412 131148"/>
+        </polygon>
+        <polygon>
+            <coords loc="33479 197223"/>
+            <coords loc="65148 197187"/>
+            <coords loc="64952 228627"/>
+            <coords loc="33478 228629"/>
+        </polygon>
+        <polygon>
+            <coords loc="131379 98612"/>
+            <coords loc="163514 98612"/>
+            <coords loc="163514 130860"/>
+            <coords loc="128820 130972"/>
+        </polygon>
+    </domain>
+    <domain id="4" name="Oren"> <!-- [오렌장원] -->
+        <polygon>
+            <coords loc="-74709 66788"/>
+            <coords loc="-64139 68684"/>
+            <coords loc="-63819 78993"/>
+            <coords loc="-77276 77514"/>
+        </polygon>
+        <polygon>
+            <coords loc="-77466 77648"/>
+            <coords loc="-64154 79077"/>
+            <coords loc="-64722 93562"/>
+            <coords loc="-77571 86723"/>
+            <coords loc="-79893 79185"/>
+        </polygon>
+        <polygon>
+            <coords loc="-64361 32992"/>
+            <coords loc="-32575 33002"/>
+            <coords loc="-32889 65436"/>
+            <coords loc="-64348 65380"/>
+        </polygon>
+        <polygon>
+            <coords loc="-65494 65591"/>
+            <coords loc="-32918 65544"/>
+            <coords loc="-32918 86639"/>
+            <coords loc="-65420 93116"/>
+        </polygon>
+        <polygon>
+            <coords loc="-50272 84060"/>
+            <coords loc="-39573 83914"/>
+            <coords loc="-40871 90354"/>
+            <coords loc="-46801 90150"/>
+        </polygon>
+        <polygon>
+            <coords loc="-25242 -252548"/>
+            <coords loc="-8974 -253262"/>
+            <coords loc="-8741 -239057"/>
+            <coords loc="-24943 -239075"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32872 786"/>
+            <coords loc="-179 806"/>
+            <coords loc="-113 32576"/>
+            <coords loc="-32681 32592"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32712 32869"/>
+            <coords loc="-130 32869"/>
+            <coords loc="-227 65280"/>
+            <coords loc="-32663 65329"/>
+        </polygon>
+        <polygon>
+            <coords loc="-7240 65392"/>
+            <coords loc="12 65520"/>
+            <coords loc="172 78196"/>
+            <coords loc="-4140 72496"/>
+            <coords loc="-10404 69532"/>
+            <coords loc="-10208 67056"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32884 65624"/>
+            <coords loc="-11460 65548"/>
+            <coords loc="-11340 68448"/>
+            <coords loc="-21064 77080"/>
+            <coords loc="-23036 98260"/>
+            <coords loc="-32716 98248"/>
+        </polygon>
+        <polygon>
+            <coords loc="79 751"/>
+            <coords loc="32586 2079"/>
+            <coords loc="32566 32564"/>
+            <coords loc="99 32605"/>
+        </polygon>
+        <polygon>
+            <coords loc="20 32842"/>
+            <coords loc="32689 32979"/>
+            <coords loc="32611 65413"/>
+            <coords loc="99 65276"/>
+        </polygon>
+        <polygon>
+            <coords loc="49 65664"/>
+            <coords loc="32525 65566"/>
+            <coords loc="32446 95418"/>
+            <coords loc="147 96601"/>
+        </polygon>
+        <polygon>
+            <coords loc="32830 77"/>
+            <coords loc="65375 40"/>
+            <coords loc="65375 32548"/>
+            <coords loc="32867 32548"/>
+        </polygon>
+        <polygon>
+            <coords loc="32834 32786"/>
+            <coords loc="65336 32832"/>
+            <coords loc="65284 65301"/>
+            <coords loc="32834 65308"/>
+        </polygon>
+        <polygon>
+            <coords loc="32858 65602"/>
+            <coords loc="62709 65636"/>
+            <coords loc="62590 95846"/>
+            <coords loc="32875 95744"/>
+        </polygon>
+        <polygon>
+            <coords loc="91399 -28759"/>
+            <coords loc="97984 -25491"/>
+            <coords loc="97984 -403"/>
+            <coords loc="66008 -252"/>
+            <coords loc="75435 -17296"/>
+        </polygon>
+        <polygon>
+            <coords loc="65639 120"/>
+            <coords loc="98015 194"/>
+            <coords loc="98039 32470"/>
+            <coords loc="65713 32520"/>
+        </polygon>
+        <polygon>
+            <coords loc="65649 32791"/>
+            <coords loc="98049 32844"/>
+            <coords loc="98085 65280"/>
+            <coords loc="65738 65209"/>
+        </polygon>
+        <polygon>
+            <coords loc="65637 65628"/>
+            <coords loc="98094 65666"/>
+            <coords loc="98131 98048"/>
+            <coords loc="65656 97993"/>
+        </polygon>
+        <polygon>
+            <coords loc="117258 -17696"/>
+            <coords loc="111573 -6727"/>
+            <coords loc="104357 -204"/>
+            <coords loc="98363 -186"/>
+            <coords loc="98372 -24720"/>
+        </polygon>
+        <polygon>
+            <coords loc="104257 187"/>
+            <coords loc="105033 14228"/>
+            <coords loc="102443 19127"/>
+            <coords loc="98426 18974"/>
+            <coords loc="98392 134"/>
+        </polygon>
+        <polygon>
+            <coords loc="102566 19193"/>
+            <coords loc="105394 24621"/>
+            <coords loc="103476 30460"/>
+            <coords loc="98404 30671"/>
+            <coords loc="98446 19158"/>
+        </polygon>
+    </domain>
+    <domain id="5" name="Aden"> <!-- [아덴장원] -->
+        <polygon>
+            <coords loc="8251 -249650"/>
+            <coords loc="24608 -249430"/>
+            <coords loc="24109 -242790"/>
+            <coords loc="8316 -242767"/>
+        </polygon>
+        <polygon>
+            <coords loc="130704 -21362"/>
+            <coords loc="130886 -209"/>
+            <coords loc="112747 -173"/>
+            <coords loc="108637 -3399"/>
+            <coords loc="115372 -13695"/>
+        </polygon>
+        <polygon>
+            <coords loc="112124 -2649"/>
+            <coords loc="112704 -240"/>
+            <coords loc="104663 -310"/>
+            <coords loc="109835 -5034"/>
+        </polygon>
+        <polygon>
+            <coords loc="130874 104"/>
+            <coords loc="130895 32580"/>
+            <coords loc="118078 32572"/>
+            <coords loc="105114 14306"/>
+            <coords loc="104370 262"/>
+        </polygon>
+        <polygon>
+            <coords loc="105074 14348"/>
+            <coords loc="112125 24353"/>
+            <coords loc="105677 24686"/>
+            <coords loc="102702 19097"/>
+        </polygon>
+        <polygon>
+            <coords loc="112187 24432"/>
+            <coords loc="116529 30516"/>
+            <coords loc="103552 30665"/>
+            <coords loc="105525 24829"/>
+        </polygon>
+        <polygon>
+            <coords loc="116613 30668"/>
+            <coords loc="117915 32552"/>
+            <coords loc="98368 32578"/>
+            <coords loc="98390 30871"/>
+        </polygon>
+        <polygon>
+            <coords loc="98397 32855"/>
+            <coords loc="130761 32911"/>
+            <coords loc="130836 65313"/>
+            <coords loc="98434 65275"/>
+        </polygon>
+        <polygon>
+            <coords loc="98414 65631"/>
+            <coords loc="130803 65693"/>
+            <coords loc="130741 95120"/>
+            <coords loc="106991 95326"/>
+            <coords loc="98493 85703"/>
+        </polygon>
+        <polygon>
+            <coords loc="145791 -31156"/>
+            <coords loc="163475 -24637"/>
+            <coords loc="163695 -232"/>
+            <coords loc="131228 -287"/>
+            <coords loc="131292 -22737"/>
+        </polygon>
+        <polygon>
+            <coords loc="131177 105"/>
+            <coords loc="163636 105"/>
+            <coords loc="163614 32477"/>
+            <coords loc="131263 32564"/>
+        </polygon>
+        <polygon>
+            <coords loc="131166 32940"/>
+            <coords loc="163536 32963"/>
+            <coords loc="163582 65242"/>
+            <coords loc="131280 65310"/>
+        </polygon>
+        <polygon>
+            <coords loc="131191 65584"/>
+            <coords loc="163732 65563"/>
+            <coords loc="163523 96577"/>
+            <coords loc="131212 95385"/>
+        </polygon>
+        <polygon>
+            <coords loc="187258 -29967"/>
+            <coords loc="192441 -23330"/>
+            <coords loc="191839 -267"/>
+            <coords loc="163944 -286"/>
+            <coords loc="163913 -26539"/>
+        </polygon>
+        <polygon>
+            <coords loc="163936 95"/>
+            <coords loc="196353 176"/>
+            <coords loc="196374 32533"/>
+            <coords loc="164037 32492"/>
+        </polygon>
+        <polygon>
+            <coords loc="163940 32880"/>
+            <coords loc="195847 32880"/>
+            <coords loc="196311 65211"/>
+            <coords loc="163900 65393"/>
+        </polygon>
+        <polygon>
+            <coords loc="163899 65633"/>
+            <coords loc="179801 65681"/>
+            <coords loc="180399 98025"/>
+            <coords loc="164067 97953"/>
+        </polygon>
+        <polygon>
+            <coords loc="-131203 32850"/>
+            <coords loc="-65502 32696"/>
+            <coords loc="-65513 65526"/>
+            <coords loc="-98290 65555"/>
+            <coords loc="-98301 98318"/>
+            <coords loc="-131108 98373"/>
+        </polygon>
+    </domain>
+    <domain id="6" name="Innadril"> <!-- [인나드릴장원] -->
+        <polygon>
+            <coords loc="81820 164026"/>
+            <coords loc="98102 163884"/>
+            <coords loc="98119 196406"/>
+            <coords loc="65650 196335"/>
+            <coords loc="65626 185662"/>
+        </polygon>
+        <polygon>
+            <coords loc="65632 196740"/>
+            <coords loc="98138 196802"/>
+            <coords loc="98014 229061"/>
+            <coords loc="65787 228999"/>
+        </polygon>
+        <polygon>
+            <coords loc="98423 163931"/>
+            <coords loc="130913 163949"/>
+            <coords loc="130895 196457"/>
+            <coords loc="98476 196280"/>
+        </polygon>
+        <polygon>
+            <coords loc="98489 196660"/>
+            <coords loc="130904 196721"/>
+            <coords loc="130863 229074"/>
+            <coords loc="98387 229135"/>
+        </polygon>
+        <polygon>
+            <coords loc="98837 229539"/>
+            <coords loc="130899 229455"/>
+            <coords loc="130543 261161"/>
+            <coords loc="98565 261329"/>
+        </polygon>
+        <polygon>
+            <coords loc="66747 229569"/>
+            <coords loc="97926 229569"/>
+            <coords loc="97926 261775"/>
+            <coords loc="65879 261776"/>
+        </polygon>
+    </domain>
+    <domain id="7" name="Goddard"> <!-- [고다드장원] -->
+        <polygon>
+            <coords loc="124536 -76584"/>
+            <coords loc="131060 -73112"/>
+            <coords loc="131096 -65444"/>
+            <coords loc="117620 -65588"/>
+            <coords loc="120316 -69304"/>
+            <coords loc="120156 -77072"/>
+        </polygon>
+        <polygon>
+            <coords loc="98715 -65295"/>
+            <coords loc="130562 -64884"/>
+            <coords loc="130973 -32833"/>
+            <coords loc="98184 -32828"/>
+        </polygon>
+        <polygon>
+            <coords loc="97820 -33007"/>
+            <coords loc="130600 -33101"/>
+            <coords loc="131029 -19205"/>
+            <coords loc="114478 -17118"/>
+            <coords loc="113183 -18971"/>
+            <coords loc="97723 -24594"/>
+        </polygon>
+        <polygon>
+            <coords loc="152216 -33320"/>
+            <coords loc="164125 -33132"/>
+            <coords loc="164256 -26895"/>
+            <coords loc="154928 -24300"/>
+        </polygon>
+        <polygon>
+            <coords loc="130947 -65660"/>
+            <coords loc="164514 -65899"/>
+            <coords loc="164312 -32038"/>
+            <coords loc="131005 -33178"/>
+        </polygon>
+        <polygon>
+            <coords loc="130485 -99472"/>
+            <coords loc="164233 -98903"/>
+            <coords loc="164375 -65581"/>
+            <coords loc="130980 -65588"/>
+        </polygon>
+        <polygon>
+            <coords loc="130996 -131394"/>
+            <coords loc="164233 -131294"/>
+            <coords loc="164153 -98357"/>
+            <coords loc="130996 -98392"/>
+        </polygon>
+        <polygon>
+            <coords loc="163523 -131490"/>
+            <coords loc="196824 -131490"/>
+            <coords loc="196824 -98295"/>
+            <coords loc="163551 -98320"/>
+        </polygon>
+        <polygon>
+            <coords loc="197022 -64539"/>
+            <coords loc="196540 -98372"/>
+            <coords loc="163683 -98327"/>
+            <coords loc="163633 -64788"/>
+        </polygon>
+        <polygon>
+            <coords loc="163779 -65828"/>
+            <coords loc="196772 -65651"/>
+            <coords loc="196772 -32747"/>
+            <coords loc="163732 -32768"/>
+        </polygon>
+    </domain>
+    <domain id="8" name="Rune"> <!-- [루운 장원] -->
+        <polygon>
+            <coords loc="-33117 -65301"/>
+            <coords loc="238 -65577"/>
+            <coords loc="123 -32757"/>
+            <coords loc="-33117 -32724"/>
+        </polygon>
+        <polygon>
+            <coords loc="-99 -65791"/>
+            <coords loc="32848 -65540"/>
+            <coords loc="32887 -32804"/>
+            <coords loc="-204 -32700"/>
+        </polygon>
+        <polygon>
+            <coords loc="32672 -98312"/>
+            <coords loc="65566 -98283"/>
+            <coords loc="65664 -65455"/>
+            <coords loc="32737 -65455"/>
+        </polygon>
+        <polygon>
+            <coords loc="32784 -65592"/>
+            <coords loc="65470 -65487"/>
+            <coords loc="65483 -32751"/>
+            <coords loc="32784 -32696"/>
+        </polygon>
+        <polygon>
+            <coords loc="65514 -189"/>
+            <coords loc="65548 -32784"/>
+            <coords loc="32682 -32835"/>
+            <coords loc="32890 -128"/>
+        </polygon>
+        <polygon>
+            <coords loc="98265 -65434"/>
+            <coords loc="98216 -98202"/>
+            <coords loc="65496 -98309"/>
+            <coords loc="65506 -65445"/>
+        </polygon>
+        <polygon>
+            <coords loc="65268 -65603"/>
+            <coords loc="98231 -65611"/>
+            <coords loc="98487 -32852"/>
+            <coords loc="65268 -32735"/>
+        </polygon>
+        <polygon>
+            <coords loc="98394 -72893"/>
+            <coords loc="98277 -98511"/>
+            <coords loc="131243 -98624"/>
+            <coords loc="131021 -75702"/>
+            <coords loc="116196 -69438"/>
+        </polygon>
+    </domain>
+    <domain id="9" name="Schuttgart"> <!-- [슈트가르트 장원] -->
+        <polygon>
+            <coords loc="-65564 -131112"/>
+            <coords loc="-32670 -131240"/>
+            <coords loc="-32361 -98152"/>
+            <coords loc="-65999 -97945"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32893 -164337"/>
+            <coords loc="-32850 -131216"/>
+            <coords loc="101 -130978"/>
+            <coords loc="125 -164233"/>
+        </polygon>
+        <polygon>
+            <coords loc="-33218 -131357"/>
+            <coords loc="-33370 -97951"/>
+            <coords loc="122 -97809"/>
+            <coords loc="70 -131388"/>
+        </polygon>
+        <polygon>
+            <coords loc="-32987 -98820"/>
+            <coords loc="730 -99021"/>
+            <coords loc="525 -65412"/>
+            <coords loc="-33196 -65308"/>
+        </polygon>
+        <polygon>
+            <coords loc="32678 -130763"/>
+            <coords loc="32684 -163872"/>
+            <coords loc="-197 -163909"/>
+            <coords loc="-262 -130698"/>
+        </polygon>
+        <polygon>
+            <coords loc="-416 -131216"/>
+            <coords loc="-433 -98319"/>
+            <coords loc="32729 -98279"/>
+            <coords loc="32806 -131124"/>
+        </polygon>
+        <polygon>
+            <coords loc="96 -98466"/>
+            <coords loc="32948 -98171"/>
+            <coords loc="32952 -65391"/>
+            <coords loc="-24 -65496"/>
+        </polygon>
+        <polygon>
+            <coords loc="32698 -131311"/>
+            <coords loc="65641 -131311"/>
+            <coords loc="65361 -98088"/>
+            <coords loc="32558 -98088"/>
+        </polygon>
+        <polygon>
+            <coords loc="65088 -164063"/>
+            <coords loc="98600 -164186"/>
+            <coords loc="98651 -130884"/>
+            <coords loc="65082 -130918"/>
+        </polygon>
+        <polygon>
+            <coords loc="65403 -131193"/>
+            <coords loc="98553 -131190"/>
+            <coords loc="98674 -98156"/>
+            <coords loc="65760 -98156"/>
+        </polygon>
+        <polygon>
+            <coords loc="96598 -229453"/>
+            <coords loc="130768 -229322"/>
+            <coords loc="131096 -196656"/>
+            <coords loc="96466 -196336"/>
+        </polygon>
+        <polygon>
+            <coords loc="97017 -196828"/>
+            <coords loc="131481 -197001"/>
+            <coords loc="131506 -163900"/>
+            <coords loc="96901 -163540"/>
+        </polygon>
+        <polygon>
+            <coords loc="97971 -130638"/>
+            <coords loc="98055 -163865"/>
+            <coords loc="131048 -163925"/>
+            <coords loc="131239 -130762"/>
+        </polygon>
+        <polygon>
+            <coords loc="98191 -131348"/>
+            <coords loc="131368 -131440"/>
+            <coords loc="131368 -97802"/>
+            <coords loc="98191 -98078"/>
+        </polygon>
+        <polygon>
+            <coords loc="130923 -229607"/>
+            <coords loc="163792 -229607"/>
+            <coords loc="163686 -196844"/>
+            <coords loc="131052 -196712"/>
+        </polygon>
+        <polygon>
+            <coords loc="131104 -196675"/>
+            <coords loc="163713 -196681"/>
+            <coords loc="163713 -163915"/>
+            <coords loc="130947 -163915"/>
+        </polygon>
+        <polygon>
+            <coords loc="163883 -229498"/>
+            <coords loc="196513 -229498"/>
+            <coords loc="197118 -196506"/>
+            <coords loc="163795 -196583"/>
+        </polygon>
+        <polygon>
+            <coords loc="163896 -196927"/>
+            <coords loc="196879 -196737"/>
+            <coords loc="196804 -163821"/>
+            <coords loc="163881 -163870"/>
+        </polygon>
+    </domain>
+</list>

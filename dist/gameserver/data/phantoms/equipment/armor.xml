@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "armor.dtd">
+<list>
+    <!-- Major Arcana Robe S -->
+    <set set_id="1">
+        <item id="6383"/>
+        <item id="6386"/>
+        <item id="6384"/>
+        <item id="6385"/>
+    </set>
+    <!-- Draconic Leather S -->
+    <set set_id="2">
+        <item id="6379"/>
+        <item id="6382"/>
+        <item id="6380"/>
+        <item id="6381"/>
+    </set>
+    <!-- Imperial Crusader Heavy S-->
+    <set set_id="3">
+        <item id="6373"/>
+        <item id="6374"/>
+        <item id="6378"/>
+        <item id="6375"/>
+        <item id="6376"/>
+    </set>
+    <!-- Majestic Robe A -->
+    <set set_id="4">
+        <item id="2409"/>
+        <item id="2419"/>
+        <item id="5776"/>
+        <item id="5788"/>
+    </set>
+    <!-- Majestic Leather A -->
+    <set set_id="5">
+        <item id="2395"/>
+        <item id="2419"/>
+        <item id="5775"/>
+        <item id="5787"/>
+    </set>
+    <!-- Majestic Plate Heavy A -->
+    <set set_id="6">
+        <item id="2383"/>
+        <item id="2419"/>
+        <item id="5774"/>
+        <item id="5786"/>
+    </set>
+    <!-- Robe of Nightmare A -->
+    <set set_id="7">
+        <item id="2408"/>
+        <item id="2418"/>
+        <item id="5773"/>
+        <item id="5785"/>
+    </set>
+    <!-- Leather Armor of Nightmare A -->
+    <set set_id="8">
+        <item id="2394"/>
+        <item id="2418"/>
+        <item id="5772"/>
+        <item id="5784"/>
+    </set>
+    <!-- Armor of Nightmare Heavy A -->
+    <set set_id="9">
+        <item id="374"/>
+        <item id="2418"/>
+        <item id="5771"/>
+        <item id="5783"/>
+    </set>
+    <!-- Tallum Tunic A -->
+    <set set_id="10">
+        <item id="2400"/>
+        <item id="2405"/>
+        <item id="547"/>
+        <item id="5770"/>
+        <item id="5782"/>
+    </set>
+    <!-- Tallum Leather Armor A -->
+    <set set_id="11">
+        <item id="2393"/>
+        <item id="547"/>
+        <item id="5769"/>
+        <item id="5781"/>
+    </set>
+    <!-- Tallum Plate Armor Heavy A -->
+    <set set_id="12">
+        <item id="2382"/>
+        <item id="547"/>
+        <item id="5768"/>
+        <item id="5780"/>
+    </set>
+    <!-- Dark Crystal Robe A -->
+    <set set_id="13">
+        <item id="2407"/>
+        <item id="512"/>
+        <item id="5767"/>
+        <item id="5779"/>
+    </set>
+    <!-- Dark Crystal Leather Armor A -->
+    <set set_id="14">
+        <item id="2385"/>
+        <item id="2389"/>
+        <item id="512"/>
+        <item id="5766"/>
+        <item id="5778"/>
+    </set>
+    <!-- Dark Crystal Breastplate Heavy A -->
+    <set set_id="15">
+        <item id="365"/>
+        <item id="388"/>
+        <item id="512"/>
+        <item id="5765"/>
+        <item id="5777"/>
+    </set>
+    <!-- Tunic of Doom B -->
+    <set set_id="16">
+        <item id="2399"/>
+        <item id="2404"/>
+        <item id="2417"/>
+        <item id="5724"/>
+        <item id="5740"/>
+    </set>
+    <!-- Leather Armor of Doom B -->
+    <set set_id="17">
+        <item id="2392"/>
+        <item id="2417"/>
+        <item id="5723"/>
+        <item id="5739"/>
+    </set>
+    <!-- Doom Plate Armor Heavy B -->
+    <set set_id="18">
+        <item id="2381"/>
+        <item id="2417"/>
+        <item id="5722"/>
+        <item id="5738"/>
+    </set>
+    <!-- Blue Wolf Tunic  B -->
+    <set set_id="19">
+        <item id="2398"/>
+        <item id="2403"/>
+        <item id="2416"/>
+        <item id="5720"/>
+        <item id="5736"/>
+    </set>
+    <!-- Blue Wolf Leather Armor B -->
+    <set set_id="20">
+        <item id="2391"/>
+        <item id="2416"/>
+        <item id="5719"/>
+        <item id="5735"/>
+    </set>
+    <!-- Blue Wolf Breastplate B -->
+    <set set_id="21">
+        <item id="358"/>
+        <item id="2380"/>
+        <item id="2416"/>
+        <item id="5718"/>
+        <item id="5734"/>
+    </set>
+    <!-- Avadon Robe B -->
+    <set set_id="22">
+        <item id="2406"/>
+        <item id="2415"/>
+        <item id="5716"/>
+        <item id="5732"/>
+    </set>
+    <!-- Avadon Leather Armor B -->
+    <set set_id="23">
+        <item id="2390"/>
+        <item id="2415"/>
+        <item id="5715"/>
+        <item id="5731"/>
+    </set>
+    <!-- Avadon Breastplate Heavy B -->
+    <set set_id="24">
+        <item id="2376"/>
+        <item id="2379"/>
+        <item id="2415"/>
+        <item id="5714"/>
+        <item id="5730"/>
+    </set>
+    <!-- Tunic of Zubei B -->
+    <set set_id="25">
+        <item id="2397"/>
+        <item id="2402"/>
+        <item id="503"/>
+        <item id="5712"/>
+        <item id="5728"/>
+    </set>
+    <!-- Zubei's Leather Shirt B -->
+    <set set_id="26">
+        <item id="2384"/>
+        <item id="2388"/>
+        <item id="503"/>
+        <item id="5711"/>
+        <item id="5727"/>
+    </set>
+    <!-- Zubei's Breastplate B -->
+    <set set_id="27">
+        <item id="357"/>
+        <item id="383"/>
+        <item id="503"/>
+        <item id="5710"/>
+        <item id="5726"/>
+    </set>
+    <!-- Divine Tunic C -->
+    <set set_id="28">
+        <item id="442"/>
+        <item id="473"/>
+        <item id="2463"/>
+    </set>
+    <!-- Demon's Tunic C -->
+    <set set_id="29">
+        <item id="441"/>
+        <item id="472"/>
+        <item id="2459"/>
+    </set>
+    <!-- Karmian Tunic C -->
+    <set set_id="30">
+        <item id="439"/>
+        <item id="471"/>
+        <item id="2454"/>
+    </set>
+    <!-- Drake Leather Armor C -->
+    <set set_id="31">
+        <item id="401"/>
+        <item id="2437"/>
+        <item id="2454"/>
+    </set>
+    <!-- Theca Leather Armor C -->
+    <set set_id="32">
+        <item id="400"/>
+        <item id="420"/>
+        <item id="2436"/>
+    </set>
+    <!-- Plated Leather C -->
+    <set set_id="33">
+        <item id="398"/>
+        <item id="418"/>
+        <item id="2431"/>
+    </set>
+    <!-- Mithril Shirt C -->
+    <set set_id="34">
+        <item id="397"/>
+        <item id="2387"/>
+        <item id="62"/>
+    </set>
+    <!-- Full Plate Armor C -->
+    <set set_id="35">
+        <item id="356"/>
+        <item id="2414"/>
+    </set>
+    <!-- Composite Armor C -->
+    <set set_id="36">
+        <item id="60"/>
+        <item id="517"/>
+    </set>
+    <!-- Chain Mail Shirt C -->
+    <set set_id="37">
+        <item id="354"/>
+        <item id="381"/>
+        <item id="2413"/>
+    </set>
+    <!-- Mithril Tunic C -->
+    <set set_id="38">
+        <item id="437"/>
+        <item id="470"/>
+        <item id="2450"/>
+    </set>
+    <!-- Tunic of Knowledge D -->
+    <set set_id="39">
+        <item id="436"/>
+        <item id="469"/>
+        <item id="2447"/>
+    </set>
+    <!-- Manticore Skin Leather D -->
+    <set set_id="40">
+        <item id="395"/>
+        <item id="417"/>
+        <item id="2424"/>
+    </set>
+    <!-- Reinforced Leather Shirt D -->
+    <set set_id="41">
+        <item id="394"/>
+        <item id="416"/>
+        <item id="2422"/>
+    </set>
+    <!-- Brigandine Tunic D -->
+    <set set_id="42">
+        <item id="352"/>
+        <item id="2378"/>
+        <item id="2411"/>
+    </set>
+    <!-- Mithril Breastplate D -->
+    <set set_id="43">
+        <item id="58"/>
+        <item id="59"/>
+        <item id="47"/>
+    </set>
+    <!-- Start Set Fighter-->
+    <set set_id="45">
+        <item id="1146"/>
+        <item id="1147"/>
+    </set>
+    <!-- Start Set Mage -->
+    <set set_id="46">
+        <item id="1146"/>
+        <item id="1147"/>
+    </set>
+</list>

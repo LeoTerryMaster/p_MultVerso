@@ -1,0 +1,8 @@
+*[Обменять Камни Печати]*
+
+Сейчас у вас всего %stoneCount% %stoneColor% камней печати. Сколько бы вы хотели обменять? Я дам вам %stoneValue% древних аден за каждый %stoneColor% камень печати.
+
+[Введите количество.]
+
+<edit var="Amount" width="80">
+<button value="Обменять" action="bypass -h npc_%objectId%_SevenSigns 18 %stoneItemId% $Amount" width="60" height="15" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2">

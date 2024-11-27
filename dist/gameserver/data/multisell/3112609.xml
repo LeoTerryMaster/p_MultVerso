@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Manufacture an A-grade sword." -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="true" notax="true" keepenchanted="false" npcid="31126" />
+
+    <!-- Keshanberk*Keshanberk -->
+    <item id="1">
+        <ingredient id="142" count="2"/>
+        <ingredient id="5126" count="1"/>
+        <ingredient id="5575" count="1953000"/>
+        <production id="5233" count="1"/>
+    </item>
+
+    <!-- Keshanberk*Sword of Damascus -->
+    <item id="2">
+        <ingredient id="142" count="1"/>
+        <ingredient id="79" count="1"/>
+        <ingredient id="5126" count="1"/>
+        <ingredient id="5575" count="3989000"/>
+        <production id="5705" count="1"/>
+    </item>
+
+    <!-- Sword of Damascus*Sword of Damascus -->
+    <item id="3">
+        <ingredient id="79" count="2"/>
+        <ingredient id="5126" count="1"/>
+        <ingredient id="5575" count="2310000"/>
+        <production id="5706" count="1"/>
+    </item>
+
+    <!-- Sword of Damascus*Tallum Blade -->
+    <item id="4">
+        <ingredient id="80" count="1"/>
+        <ingredient id="79" count="1"/>
+        <ingredient id="5126" count="1"/>
+        <ingredient id="5575" count="5000000"/>
+        <production id="8938" count="1"/>
+    </item>
+
+</list>

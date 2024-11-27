@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+        <!ELEMENT list (phrase)*>
+        <!ELEMENT phrase (#PCDATA)*>
+        <!ATTLIST phrase
+                text CDATA #REQUIRED
+                type CDATA #REQUIRED
+                chance CDATA #IMPLIED>

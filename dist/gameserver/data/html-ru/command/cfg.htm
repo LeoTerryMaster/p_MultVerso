@@ -1,0 +1,111 @@
+<html x=100 y=100 TEXTANI=on NOSCROLLBAR=yes>
+<body DEFFON=1>
+<center>
+	<table fixwidth=270 border=0 cellspacing=0 cellpadding=0>
+		<tr><td>
+			<table fixwidth=270 height=29 border=0 cellspacing=0 cellpadding=0>
+			<tr>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab" fore="L2UI_CH3.normal_tab" value="Cfg"></td>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab_on" fore="L2UI_CH3.normal_tab_on" value="Password" action="bypass -h user_password"></td>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab_on" fore="L2UI_CH3.normal_tab_on" value="Repir" action="bypass -h user_repair"></td>
+			</tr>
+			</table>
+		</td></tr>
+		<tr><td>
+			<center>
+				<table fixwidth=270 height=280 border=0 cellspacing=0 cellpadding=5 bgcolor="333333">
+					<tr>
+						<td>
+							<table width=260 height=270 border=0 cellspacing=0 cellpadding=0 bgcolor="000000">
+								<tr>
+									<td width=260 height=270 valign="top" align="left">
+										
+										
+<table width=260>
+<tr>
+<td width=140>Транслит:</td>
+<td width=30>%translit%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit of" value="Off"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit la" value="Lt"></td>
+</tr>
+<tr>
+<td width=140>Блок Exp:</td>
+<td width=30>%noe%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noe on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noe of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Не показывать трейд:</td>
+<td width=30>%notraders%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg notraders on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg notraders of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Бафф анимация(0-100%):</td>
+<td width=30>%buffAnimRange%</td>
+<td width=30><edit var="ani" width=30 height=12></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg buffAnimRange $ani" value="Set"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg buffAnimRange -1" value="Off"></td>
+</tr>
+<tr>
+<td width=140>Классик Шифт:</td>
+<td width=30>%noShift%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noShift on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noShift of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Обрыв соединения:</td>
+<td width=30>%noCarrier%</td>
+<td width=30><edit var="set" width=30 height=12></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noCarrier $set" value="Set"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=130>Автолут:</td>
+<td width=40>%autoloot%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot on" value="All"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot ad" value="Ad"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot of" value="Off"></td>
+</tr>
+<tr>
+<td width=140>Язык:</td>
+<td width=30>%lang%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg lang en" value="En"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg lang ru" value="Ru"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Блок HWID:</td>
+<td width=30>%hwidlock%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg hwidlock on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg hwidlock of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Блок IP:</td>
+<td width=30>%iplock%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg iplock on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg iplock of" value="Off"></td>
+<td width=30></td>
+</tr>
+</table>
+										
+										
+										
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</center>
+		</td></tr>
+	</table>
+</center>
+
+</body>
+</html>

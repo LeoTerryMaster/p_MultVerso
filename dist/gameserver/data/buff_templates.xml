@@ -1,0 +1,1940 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "buff_templates.dtd">
+<list>
+    <template menuId="124" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="600000"/>
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+            <skill id="1035" level="4" />
+            <skill id="1036" level="2" />
+            <skill id="1045" level="6" />
+            <skill id="1388" level="3" />
+            <skill id="1363" level="1" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="274" level="1" />
+            <skill id="269" level="1" />
+            <skill id="264" level="1" />
+            <skill id="304" level="1" />
+            <skill id="364" level="1" />
+            <skill id="4699" level="1" />
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="125" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="400000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+            <skill id="1035" level="4" />
+            <skill id="1036" level="2" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="274" level="1" />
+            <skill id="269" level="1" />
+            <skill id="264" level="1" />
+        </produce>
+    </template>
+    <template menuId="126" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="200000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+        </produce>
+    </template>
+    <template menuId="120" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="600000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+            <skill id="1035" level="4" />
+            <skill id="1062" level="2" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="4703" level="13" />
+            <skill id="349" level="1" />
+            <skill id="363" level="1" />
+            <skill id="365" level="1" />
+            <skill id="1413" level="1" />
+            <skill id="1036" level="2" />
+            <skill id="1389" level="3" />
+        </produce>
+    </template>
+    <template menuId="121" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="400000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+            <skill id="1035" level="4" />
+            <skill id="1062" level="2" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="4703" level="13" />
+            <skill id="349" level="1" />
+        </produce>
+    </template>
+    <template menuId="122" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="200000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+        </produce>
+    </template>
+    <template menuId="130" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="100000" />
+        </consume>
+        <produce>
+            <skill id="267" level="1" />
+            <skill id="270" level="1" />
+            <skill id="268" level="1" />
+            <skill id="269" level="1" />
+            <skill id="265" level="1" />
+            <skill id="264" level="1" />
+            <skill id="266" level="1" />
+            <skill id="306" level="1" />
+            <skill id="304" level="1" />
+            <skill id="308" level="1" />
+            <skill id="363" level="1" />
+            <skill id="349" level="1" />
+            <skill id="364" level="1" />
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="131" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="100000" />
+        </consume>
+        <produce>
+            <skill id="274" level="1" />
+            <skill id="277" level="1" />
+            <skill id="272" level="1" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="309" level="1" />
+            <skill id="311" level="1" />
+            <skill id="307" level="1" />
+            <skill id="310" level="1" />
+            <skill id="365" level="1" />
+        </produce>
+    </template>
+    <template menuId="2" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+        </produce>
+    </template>
+    <template menuId="3" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1040" level="3" />
+        </produce>
+    </template>
+    <template menuId="4" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+        </produce>
+    </template>
+    <template menuId="5" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1078" level="6" />
+        </produce>
+    </template>
+    <template menuId="6" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1073" level="2" />
+        </produce>
+    </template>
+    <template menuId="7" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1204" level="2" />
+        </produce>
+    </template>
+    <template menuId="8" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1077" level="3" />
+        </produce>
+    </template>
+    <template menuId="9" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1043" level="1" />
+        </produce>
+    </template>
+    <template menuId="10" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1035" level="4" />
+        </produce>
+    </template>
+    <template menuId="11" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1191" level="3" />
+        </produce>
+    </template>
+    <template menuId="12" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1062" level="2" />
+        </produce>
+    </template>
+    <template menuId="13" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1044" level="3" />
+        </produce>
+    </template>
+    <template menuId="14" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1243" level="6" />
+        </produce>
+    </template>
+    <template menuId="15" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1242" level="2" />
+        </produce>
+    </template>
+    <template menuId="16" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1240" level="3" />
+        </produce>
+    </template>
+    <template menuId="17" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1032" level="3" />
+        </produce>
+    </template>
+    <template menuId="18" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1045" level="6" />
+        </produce>
+    </template>
+    <template menuId="19" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1048" level="6" />
+        </produce>
+    </template>
+    <template menuId="20" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1086" level="2" />
+        </produce>
+    </template>
+    <template menuId="21" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1036" level="2" />
+        </produce>
+    </template>
+    <template menuId="22" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1388" level="3" />
+        </produce>
+    </template>
+    <template menuId="23" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1389" level="3" />
+        </produce>
+    </template>
+    <template menuId="24" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1392" level="3" />
+        </produce>
+    </template>
+    <template menuId="25" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" from_level="20" />
+        </consume>
+        <produce>
+            <skill id="1182" level="3" />
+        </produce>
+    </template>
+    <template menuId="26" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1189" level="3" />
+        </produce>
+    </template>
+    <template menuId="27" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1393" level="3" />
+        </produce>
+    </template>
+    <template menuId="28" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1033" level="3" />
+        </produce>
+    </template>
+    <template menuId="29" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1352" level="1" />
+        </produce>
+    </template>
+    <template menuId="30" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1356" level="1" />
+        </produce>
+    </template>
+    <template menuId="31" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1087" level="3" />
+        </produce>
+    </template>
+    <template menuId="32" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1257" level="3" />
+        </produce>
+    </template>
+    <template menuId="33" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1259" level="4" />
+        </produce>
+    </template>
+    <template menuId="34" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1304" level="3" />
+        </produce>
+    </template>
+    <template menuId="35" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1397" level="3" />
+        </produce>
+    </template>
+    <template menuId="36" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1303" level="2" />
+        </produce>
+    </template>
+    <template menuId="37" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1354" level="1" />
+        </produce>
+    </template>
+    <template menuId="38" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1353" level="1" />
+        </produce>
+    </template>
+    <template menuId="39" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1355" level="1" />
+        </produce>
+    </template>
+    <template menuId="40" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1059" level="3" />
+        </produce>
+    </template>
+    <template menuId="41" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1268" level="4" />
+        </produce>
+    </template>
+    <template menuId="42" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1357" level="1" />
+        </produce>
+    </template>
+    <template menuId="43" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1006" level="3" />
+        </produce>
+    </template>
+    <template menuId="44" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1009" level="3" />
+        </produce>
+    </template>
+    <template menuId="45" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1007" level="3" />
+        </produce>
+    </template>
+    <template menuId="46" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1002" level="3" />
+        </produce>
+    </template>
+    <template menuId="47" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1003" level="3" />
+        </produce>
+    </template>
+    <template menuId="48" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1005" level="3" />
+        </produce>
+    </template>
+    <template menuId="49" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1008" level="3" />
+        </produce>
+    </template>
+    <template menuId="50" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1260" level="3" />
+        </produce>
+    </template>
+    <template menuId="51" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1004" level="3" />
+        </produce>
+    </template>
+    <template menuId="52" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1250" level="3" />
+        </produce>
+    </template>
+    <template menuId="53" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1261" level="2" />
+        </produce>
+    </template>
+    <template menuId="54" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1249" level="3" />
+        </produce>
+    </template>
+    <template menuId="55" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1282" level="2" />
+        </produce>
+    </template>
+    <template menuId="56" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1364" level="1" />
+        </produce>
+    </template>
+    <template menuId="57" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1365" level="1" />
+        </produce>
+    </template>
+    <template menuId="58" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1414" level="1" />
+        </produce>
+    </template>
+    <template menuId="59" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1252" level="3" />
+        </produce>
+    </template>
+    <template menuId="60" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1253" level="3" />
+        </produce>
+    </template>
+    <template menuId="61" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1309" level="3" />
+        </produce>
+    </template>
+    <template menuId="62" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1251" level="2" />
+        </produce>
+    </template>
+    <template menuId="63" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1308" level="3" />
+        </produce>
+    </template>
+    <template menuId="64" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1391" level="3" />
+        </produce>
+    </template>
+    <template menuId="65" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1310" level="4" />
+        </produce>
+    </template>
+    <template menuId="66" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1390" level="3" />
+        </produce>
+    </template>
+    <template menuId="67" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1284" level="3" />
+        </produce>
+    </template>
+    <template menuId="68" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1362" level="1" />
+        </produce>
+    </template>
+    <template menuId="69" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1363" level="1" />
+        </produce>
+    </template>
+    <template menuId="70" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1413" level="1" />
+        </produce>
+    </template>
+    <template menuId="71" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="267" level="1" />
+        </produce>
+    </template>
+    <template menuId="72" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="270" level="1" />
+        </produce>
+    </template>
+    <template menuId="73" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="268" level="1" />
+        </produce>
+    </template>
+    <template menuId="74" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="269" level="1" />
+        </produce>
+    </template>
+    <template menuId="75" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="265" level="1" />
+        </produce>
+    </template>
+    <template menuId="76" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="264" level="1" />
+        </produce>
+    </template>
+    <template menuId="77" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="266" level="1" />
+        </produce>
+    </template>
+    <template menuId="78" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="306" level="1" />
+        </produce>
+    </template>
+    <template menuId="79" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="304" level="1" />
+        </produce>
+    </template>
+    <template menuId="80" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="308" level="1" />
+        </produce>
+    </template>
+    <template menuId="81" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="82" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="363" level="1" />
+        </produce>
+    </template>
+    <template menuId="83" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="349" level="1" />
+        </produce>
+    </template>
+    <template menuId="84" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="364" level="1" />
+        </produce>
+    </template>
+    <template menuId="85" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="274" level="1" />
+        </produce>
+    </template>
+    <template menuId="86" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="277" level="1" />
+        </produce>
+    </template>
+    <template menuId="87" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="272" level="1" />
+        </produce>
+    </template>
+    <template menuId="88" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="273" level="1" />
+        </produce>
+    </template>
+    <template menuId="89" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="276" level="1" />
+        </produce>
+    </template>
+    <template menuId="90" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="271" level="1" />
+        </produce>
+    </template>
+    <template menuId="91" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="275" level="1" />
+        </produce>
+    </template>
+    <template menuId="92" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="309" level="1" />
+        </produce>
+    </template>
+    <template menuId="93" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="311" level="1" />
+        </produce>
+    </template>
+    <template menuId="94" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="307" level="1" />
+        </produce>
+    </template>
+    <template menuId="95" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="310" level="1" />
+        </produce>
+    </template>
+    <template menuId="96" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="365" level="1" />
+        </produce>
+    </template>
+    <template menuId="103" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4702" level="13" />
+        </produce>
+    </template>
+    <template menuId="104" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4703" level="13" />
+        </produce>
+    </template>
+    <template menuId="105" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4699" level="1" />
+        </produce>
+    </template>
+    <template menuId="106" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4700" level="13" />
+        </produce>
+    </template>
+    <template menuId="41124" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="600000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+            <skill id="1035" level="4" />
+            <skill id="1036" level="2" />
+            <skill id="1045" level="6" />
+            <skill id="1388" level="3" />
+            <skill id="1363" level="1" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="274" level="1" />
+            <skill id="269" level="1" />
+            <skill id="264" level="1" />
+            <skill id="304" level="1" />
+            <skill id="364" level="1" />
+            <skill id="4699" level="13" />
+        </produce>
+    </template>
+    <template menuId="41125" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="400000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+            <skill id="1035" level="4" />
+            <skill id="1036" level="2" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="274" level="1" />
+            <skill id="269" level="1" />
+            <skill id="264" level="1" />
+        </produce>
+    </template>
+    <template menuId="41126" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="200000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+            <skill id="1040" level="3" />
+            <skill id="1086" level="2" />
+            <skill id="1204" level="2" />
+            <skill id="1077" level="3" />
+            <skill id="1242" level="2" />
+            <skill id="1268" level="4" />
+        </produce>
+    </template>
+    <template menuId="41120" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="600000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+            <skill id="1035" level="4" />
+            <skill id="1062" level="2" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="4703" level="13" />
+            <skill id="349" level="1" />
+            <skill id="363" level="1" />
+            <skill id="365" level="1" />
+            <skill id="1413" level="1" />
+            <skill id="1036" level="2" />
+            <skill id="1389" level="3" />
+        </produce>
+    </template>
+    <template menuId="41121" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="400000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+            <skill id="1035" level="4" />
+            <skill id="1062" level="2" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="4703" level="13" />
+            <skill id="349" level="1" />
+        </produce>
+    </template>
+    <template menuId="41122" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="200000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+            <skill id="1059" level="3" />
+            <skill id="1078" level="6" />
+            <skill id="1204" level="2" />
+            <skill id="1048" level="6" />
+            <skill id="1397" level="3" />
+            <skill id="1303" level="2" />
+            <skill id="1040" level="3" />
+        </produce>
+    </template>
+    <template menuId="41130" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="100000" />
+        </consume>
+        <produce>
+            <skill id="267" level="1" />
+            <skill id="270" level="1" />
+            <skill id="268" level="1" />
+            <skill id="269" level="1" />
+            <skill id="265" level="1" />
+            <skill id="264" level="1" />
+            <skill id="266" level="1" />
+            <skill id="306" level="1" />
+            <skill id="304" level="1" />
+            <skill id="308" level="1" />
+            <skill id="363" level="1" />
+            <skill id="349" level="1" />
+            <skill id="364" level="1" />
+        </produce>
+    </template>
+    <template menuId="41131" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="100000" />
+        </consume>
+        <produce>
+            <skill id="274" level="1" />
+            <skill id="277" level="1" />
+            <skill id="272" level="1" />
+            <skill id="273" level="1" />
+            <skill id="276" level="1" />
+            <skill id="271" level="1" />
+            <skill id="275" level="1" />
+            <skill id="309" level="1" />
+            <skill id="311" level="1" />
+            <skill id="307" level="1" />
+            <skill id="310" level="1" />
+            <skill id="365" level="1" />
+        </produce>
+    </template>
+    <template menuId="412" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1068" level="3" />
+        </produce>
+    </template>
+    <template menuId="413" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1040" level="3" />
+        </produce>
+    </template>
+    <template menuId="414" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1085" level="3" />
+        </produce>
+    </template>
+    <template menuId="415" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1078" level="6" />
+        </produce>
+    </template>
+    <template menuId="416" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1073" level="2" />
+        </produce>
+    </template>
+    <template menuId="417" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1204" level="2" />
+        </produce>
+    </template>
+    <template menuId="418" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1077" level="3" />
+        </produce>
+    </template>
+    <template menuId="419" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1043" level="1" />
+        </produce>
+    </template>
+    <template menuId="4110" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1035" level="4" />
+        </produce>
+    </template>
+    <template menuId="4111" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1191" level="3" />
+        </produce>
+    </template>
+    <template menuId="4112" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1062" level="2" />
+        </produce>
+    </template>
+    <template menuId="4113" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1044" level="3" />
+        </produce>
+    </template>
+    <template menuId="4114" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1243" level="6" />
+        </produce>
+    </template>
+    <template menuId="4115" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1242" level="2" />
+        </produce>
+    </template>
+    <template menuId="4116" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1240" level="3" />
+        </produce>
+    </template>
+    <template menuId="4117" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1032" level="3" />
+        </produce>
+    </template>
+    <template menuId="4118" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1045" level="6" />
+        </produce>
+    </template>
+    <template menuId="4119" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1048" level="6" />
+        </produce>
+    </template>
+    <template menuId="4120" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1086" level="2" />
+        </produce>
+    </template>
+    <template menuId="4121" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1036" level="2" />
+        </produce>
+    </template>
+    <template menuId="4122" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1388" level="3" />
+        </produce>
+    </template>
+    <template menuId="4123" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1389" level="3" />
+        </produce>
+    </template>
+    <template menuId="4124" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1392" level="3" />
+        </produce>
+    </template>
+    <template menuId="4125" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1182" level="3" />
+        </produce>
+    </template>
+    <template menuId="4126" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1189" level="3" />
+        </produce>
+    </template>
+    <template menuId="4127" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1393" level="3" />
+        </produce>
+    </template>
+    <template menuId="4128" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1033" level="3" />
+        </produce>
+    </template>
+    <template menuId="4129" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1352" level="1" />
+        </produce>
+    </template>
+    <template menuId="4130" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1356" level="1" />
+        </produce>
+    </template>
+    <template menuId="4131" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1087" level="3" />
+        </produce>
+    </template>
+    <template menuId="4132" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1257" level="3" />
+        </produce>
+    </template>
+    <template menuId="4133" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1259" level="4" />
+        </produce>
+    </template>
+    <template menuId="4134" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1304" level="3" />
+        </produce>
+    </template>
+    <template menuId="4135" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1397" level="3" />
+        </produce>
+    </template>
+    <template menuId="4136" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1303" level="2" />
+        </produce>
+    </template>
+    <template menuId="4137" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1354" level="1" />
+        </produce>
+    </template>
+    <template menuId="4138" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1353" level="1" />
+        </produce>
+    </template>
+    <template menuId="4139" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1355" level="1" />
+        </produce>
+    </template>
+    <template menuId="4140" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1059" level="3" />
+        </produce>
+    </template>
+    <template menuId="4141" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1268" level="4" />
+        </produce>
+    </template>
+    <template menuId="4142" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1357" level="1" />
+        </produce>
+    </template>
+    <template menuId="4143" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1006" level="3" />
+        </produce>
+    </template>
+    <template menuId="4144" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1009" level="3" />
+        </produce>
+    </template>
+    <template menuId="4145" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1007" level="3" />
+        </produce>
+    </template>
+    <template menuId="4146" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1002" level="3" />
+        </produce>
+    </template>
+    <template menuId="4147" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1003" level="3" />
+        </produce>
+    </template>
+    <template menuId="4148" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1005" level="3" />
+        </produce>
+    </template>
+    <template menuId="4149" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1008" level="3" />
+        </produce>
+    </template>
+    <template menuId="4150" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1260" level="3" />
+        </produce>
+    </template>
+    <template menuId="4151" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1004" level="3" />
+        </produce>
+    </template>
+    <template menuId="4152" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1250" level="3" />
+        </produce>
+    </template>
+    <template menuId="4153" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1261" level="2" />
+        </produce>
+    </template>
+    <template menuId="4154" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1249" level="3" />
+        </produce>
+    </template>
+    <template menuId="4155" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1282" level="2" />
+        </produce>
+    </template>
+    <template menuId="4156" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1364" level="1" />
+        </produce>
+    </template>
+    <template menuId="4157" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1365" level="1" />
+        </produce>
+    </template>
+    <template menuId="4158" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1414" level="1" />
+        </produce>
+    </template>
+    <template menuId="4159" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1252" level="3" />
+        </produce>
+    </template>
+    <template menuId="4160" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1253" level="3" />
+        </produce>
+    </template>
+    <template menuId="4161" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1309" level="3" />
+        </produce>
+    </template>
+    <template menuId="4162" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1251" level="2" />
+        </produce>
+    </template>
+    <template menuId="4163" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1308" level="3" />
+        </produce>
+    </template>
+    <template menuId="4164" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1391" level="3" />
+        </produce>
+    </template>
+    <template menuId="4165" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1310" level="4" />
+        </produce>
+    </template>
+    <template menuId="4166" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1390" level="3" />
+        </produce>
+    </template>
+    <template menuId="4167" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1284" level="3" />
+        </produce>
+    </template>
+    <template menuId="4168" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1362" level="1" />
+        </produce>
+    </template>
+    <template menuId="4169" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1363" level="1" />
+        </produce>
+    </template>
+    <template menuId="4170" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="1413" level="1" />
+        </produce>
+    </template>
+    <template menuId="4171" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="267" level="1" />
+        </produce>
+    </template>
+    <template menuId="4172" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="270" level="1" />
+        </produce>
+    </template>
+    <template menuId="4173" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="268" level="1" />
+        </produce>
+    </template>
+    <template menuId="4174" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="269" level="1" />
+        </produce>
+    </template>
+    <template menuId="4175" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="265" level="1" />
+        </produce>
+    </template>
+    <template menuId="4176" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="264" level="1" />
+        </produce>
+    </template>
+    <template menuId="4177" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="266" level="1" />
+        </produce>
+    </template>
+    <template menuId="4178" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="306" level="1" />
+        </produce>
+    </template>
+    <template menuId="4179" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="304" level="1" />
+        </produce>
+    </template>
+    <template menuId="4180" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="308" level="1" />
+        </produce>
+    </template>
+    <template menuId="4181" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="4182" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="363" level="1" />
+        </produce>
+    </template>
+    <template menuId="4183" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="349" level="1" />
+        </produce>
+    </template>
+    <template menuId="4184" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="364" level="1" />
+        </produce>
+    </template>
+    <template menuId="4185" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="274" level="1" />
+        </produce>
+    </template>
+    <template menuId="4186" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="277" level="1" />
+        </produce>
+    </template>
+    <template menuId="4187" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="272" level="1" />
+        </produce>
+    </template>
+    <template menuId="4188" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="273" level="1" />
+        </produce>
+    </template>
+    <template menuId="4189" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="276" level="1" />
+        </produce>
+    </template>
+    <template menuId="4190" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="271" level="1" />
+        </produce>
+    </template>
+    <template menuId="4191" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="275" level="1" />
+        </produce>
+    </template>
+    <template menuId="4192" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="309" level="1" />
+        </produce>
+    </template>
+    <template menuId="4193" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="311" level="1" />
+        </produce>
+    </template>
+    <template menuId="4194" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="307" level="1" />
+        </produce>
+    </template>
+    <template menuId="4195" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="310" level="1" />
+        </produce>
+    </template>
+    <template menuId="4196" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="365" level="1" />
+        </produce>
+    </template>
+    <template menuId="41103" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4702" level="13" />
+        </produce>
+    </template>
+    <template menuId="41104" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4703" level="13" />
+        </produce>
+    </template>
+    <template menuId="41105" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4699" level="13" />
+        </produce>
+    </template>
+    <template menuId="41106" target="BUFF_PET">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="4700" level="13" />
+        </produce>
+    </template>
+    <template menuId="99923" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="305" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+    <template menuId="99924" target="BUFF_PLAYER">
+        <consume>
+            <item id="57" amount="25000" />
+        </consume>
+        <produce>
+            <skill id="305" level="1" />
+        </produce>
+    </template>
+</list>

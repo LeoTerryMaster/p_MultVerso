@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+    <!-- Aden -->
+    <spawn type="TOWN" count="10" gradeMin="D" gradeMax="S">
+        <territory>
+            <add x="148344" y="28568" zmin="-2267" zmax="-2167"/>
+            <add x="148360" y="27608" zmin="-2267" zmax="-2167"/>
+            <add x="147736" y="27640" zmin="-2267" zmax="-2167"/>
+            <add x="147720" y="28536" zmin="-2267" zmax="-2167"/>
+        </territory>
+    </spawn>
+    <spawn type="TOWN" count="10" gradeMin="D" gradeMax="S">
+        <territory>
+            <add x="147176" y="28552" zmin="-2267" zmax="-2167"/>
+            <add x="147176" y="27624" zmin="-2267" zmax="-2167"/>
+            <add x="146456" y="27672" zmin="-2267" zmax="-2167"/>
+            <add x="146520" y="28536" zmin="-2267" zmax="-2167"/>
+        </territory>
+    </spawn>
+    <!-- Giran -->
+    <spawn type="TOWN" count="20" gradeMin="D" gradeMax="S">
+        <territory>
+            <add x="83656" y="147912" zmin="-3400" zmax="-3300"/>
+            <add x="83672" y="149224" zmin="-3400" zmax="-3300"/>
+            <add x="83256" y="149272" zmin="-3400" zmax="-3300"/>
+            <add x="83256" y="147960" zmin="-3400" zmax="-3300"/>
+        </territory>
+    </spawn>
+    <spawn type="TOWN" count="20" gradeMin="D" gradeMax="S">
+        <territory>
+            <add x="82952" y="147896" zmin="-3472" zmax="-3372"/>
+            <add x="82952" y="149336" zmin="-3472" zmax="-3372"/>
+            <add x="82152" y="149304" zmin="-3472" zmax="-3372"/>
+            <add x="82184" y="147880" zmin="-3472" zmax="-3372"/>
+        </territory>
+    </spawn>
+    <!-- Goddard -->
+    <spawn type="TOWN" count="20" gradeMin="D" gradeMax="S">
+        <territory>
+            <add x="147944" y="-55144" zmin="-2728" zmax="-2628"/>
+            <add x="147496" y="-55208" zmin="-2728" zmax="-2628"/>
+            <add x="147432" y="-57096" zmin="-2784" zmax="-2684"/>
+            <add x="148072" y="-57112" zmin="-2784" zmax="-2684"/>
+        </territory>
+    </spawn>
+</list>

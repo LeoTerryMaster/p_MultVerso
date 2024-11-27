@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Release the A-grade armor seal." + Clan Apella Armor -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="false" notax="true" keepenchanted="true" npcid="31126;70044" />
+
+    <!-- ******************** Gloves Begin ********************** -->
+
+    <!-- Dark Crystal Gloves -->
+    <!-- Sealed Dark Crystal Gloves -> Dark Crystal Gloves Heavy -->
+    <item>
+        <ingredient id="5290" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5765" count="1"/>
+    </item>
+    <!-- Sealed Dark Crystal Gloves -> Dark Crystal Gloves Light -->
+    <item>
+        <ingredient id="5290" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5766" count="1"/>
+    </item>
+    <!-- Sealed Dark Crystal Gloves -> Dark Crystal Gloves Robe -->
+    <item>
+        <ingredient id="5290" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5767" count="1"/>
+    </item>
+    <!-- Dark Crystal Gloves-->
+
+    <!-- Tallum Gloves -->
+    <!-- Sealed Tallum Gloves -> Tallum Gloves Heavy -->
+    <item>
+        <ingredient id="5295" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5768" count="1"/>
+    </item>
+    <!-- Sealed Tallum Gloves -> Tallum Gloves Light -->
+    <item>
+        <ingredient id="5295" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5769" count="1"/>
+    </item>
+    <!-- Sealed Tallum Gloves -> Tallum Gloves Robe -->
+    <item>
+        <ingredient id="5295" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5770" count="1"/>
+    </item>
+    <!-- Tallum Gloves -->
+
+    <!-- Nightmare Gloves -->
+    <!-- Sealed Nightmare Gloves -> Nightmare Gloves Heavy -->
+    <item>
+        <ingredient id="5313" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5771" count="1"/>
+    </item>
+    <!-- Sealed Nightmare Gloves*Nightmare Gloves Light -->
+    <item>
+        <ingredient id="5313" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5772" count="1"/>
+    </item>
+    <!-- Sealed Nightmare Gloves*Nightmare Gloves Robe -->
+    <item>
+        <ingredient id="5313" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5773" count="1"/>
+    </item>
+    <!-- Nightmare Gloves -->
+
+    <!-- Majestic Gloves -->
+    <!-- Sealed Majestic Gloves -> Majestic Gloves Heavy -->
+    <item>
+        <ingredient id="5318" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5774" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Gloves -> Majestic Gloves Light -->
+    <item>
+        <ingredient id="5318" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5775" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Gloves -> Majestic Gloves Robe -->
+    <item>
+        <ingredient id="5318" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5776" count="1"/>
+    </item>
+    <!-- Majestic Gloves -->
+
+    <!-- ******************** Boots Begin ********************** -->
+
+    <!-- Dark Crystal Boots -->
+    <!-- Sealed Dark Crystal Boots -> Dark Crystal Boots Heavy -->
+    <item>
+        <ingredient id="5291" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5777" count="1"/>
+    </item>
+    <!-- Sealed Dark Crystal Boots -> Dark Crystal Boots Light -->
+    <item>
+        <ingredient id="5291" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5778" count="1"/>
+    </item>
+    <!-- Sealed Dark Crystal Boots -> Dark Crystal Boots Robe -->
+    <item>
+        <ingredient id="5291" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5779" count="1"/>
+    </item>
+    <!-- Dark Crystal Boots -->
+
+    <!-- Tallum Boots -->
+    <!-- Sealed Tallum Boots -> Tallum Boots Heavy -->
+    <item>
+        <ingredient id="5296" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5780" count="1"/>
+    </item>
+    <!-- Sealed Tallum Boots -> Tallum Boots Light -->
+    <item>
+        <ingredient id="5296" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5781" count="1"/>
+    </item>
+    <!-- Sealed Tallum Boots -> Tallum Boots Robe -->
+    <item>
+        <ingredient id="5296" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="5782" count="1"/>
+    </item>
+    <!-- Tallum Boots -->
+
+    <!-- Nightmare Boots -->
+    <!-- Sealed Nightmare Boots -> Nightmare Boots Heavy -->
+    <item>
+        <ingredient id="5314" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5783" count="1"/>
+    </item>
+    <!-- Sealed Nightmare Boots -> Nightmare Boots Light -->
+    <item>
+        <ingredient id="5314" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5784" count="1"/>
+    </item>
+    <!-- Sealed Nightmare Boots -> Nightmare Boots Robe -->
+    <item>
+        <ingredient id="5314" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5785" count="1"/>
+    </item>
+    <!-- Nightmare Boots -->
+
+    <!-- Majestic Boots -->
+    <!-- Sealed Majestic Boots -> Majestic Boots Heavy -->
+    <item>
+        <ingredient id="5319" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5786" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Boots -> Majestic Boots Light -->
+    <item>
+        <ingredient id="5319" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5787" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Boots -> Majestic Boots Robe -->
+    <item>
+        <ingredient id="5319" count="1"/>
+        <ingredient id="5575" count="132000"/>
+        <production id="5788" count="1"/>
+    </item>
+    <!-- Majestic Boots -->
+
+    <!-- ******************** Helms Begin ********************** -->
+
+    <!-- Sealed Dark Crystal Helm -> Dark Crystal Helm -->
+    <item>
+        <ingredient id="5289" count="1"/>
+        <ingredient id="5575" count="130500"/>
+        <production id="512" count="1"/>
+    </item>
+
+    <!-- Sealed Tallum Helm -> Tallum Helm -->
+    <item>
+        <ingredient id="5294" count="1"/>
+        <ingredient id="5575" count="130500"/>
+        <production id="547" count="1"/>
+    </item>
+
+    <!-- Sealed Nightmare Helm -> Nightmare Helm -->
+    <item>
+        <ingredient id="5312" count="1"/>
+        <ingredient id="5575" count="198000"/>
+        <production id="2418" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Helm -> Majestic Helm -->
+    <item>
+        <ingredient id="5317" count="1"/>
+        <ingredient id="5575" count="198000"/>
+        <production id="2419" count="1"/>
+    </item>
+
+    <!-- ******************** Upper Body Begin ********************** -->
+
+    <!-- Sealed Dark Crystal Breast Plate -> Dark Crystal Breast Plate -->
+    <item>
+        <ingredient id="5287" count="1"/>
+        <ingredient id="5575" count="347250"/>
+        <production id="365" count="1"/>
+    </item>
+
+    <!-- Sealed Dark Crystal Leather Armor -> Dark Crystal Leather Armor -->
+    <item>
+        <ingredient id="5297" count="1"/>
+        <ingredient id="5575" count="260250"/>
+        <production id="2385" count="1"/>
+    </item>
+
+    <!-- Sealed Dark Crystal Robe -> Dark Crystal Robe -->
+    <item>
+        <ingredient id="5308" count="1"/>
+        <ingredient id="5575" count="381000"/>
+        <production id="2407" count="1"/>
+    </item>
+
+    <!-- Sealed Tallum Plate Armor -> Tallum Plate Armor -->
+    <item>
+        <ingredient id="5293" count="1"/>
+        <ingredient id="5575" count="507750"/>
+        <production id="2382" count="1"/>
+    </item>
+
+    <!-- Sealed Tallum Leather Armor-> Tallum Leather Armor -->
+    <item>
+        <ingredient id="5301" count="1"/>
+        <ingredient id="5575" count="381000"/>
+        <production id="2393" count="1"/>
+    </item>
+
+    <!-- Sealed Tallum Tunic -> Tallum Tunic -->
+    <item>
+        <ingredient id="5304" count="1"/>
+        <ingredient id="5575" count="260250"/>
+        <production id="2400" count="1"/>
+    </item>
+
+    <!-- Sealed Nightmare Armor -> Nightmare Armor -->
+    <item>
+        <ingredient id="5311" count="1"/>
+        <ingredient id="5575" count="772500"/>
+        <production id="374" count="1"/>
+    </item>
+
+    <!-- Sealed Nightmare Leather Armor -> Nightmare Leather Armor -->
+    <item>
+        <ingredient id="5320" count="1"/>
+        <ingredient id="5575" count="579750"/>
+        <production id="2394" count="1"/>
+    </item>
+
+    <!-- Sealed Nightmare Robe -> Nightmare Robe -->
+    <item>
+        <ingredient id="5326" count="1"/>
+        <ingredient id="5575" count="579750"/>
+        <production id="2408" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Plate Armor -> Majestic Plate Armor -->
+    <item>
+        <ingredient id="5316" count="1"/>
+        <ingredient id="5575" count="772500"/>
+        <production id="2383" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Leather Armor -> Majestic Majestic Leather Armor -->
+    <item>
+        <ingredient id="5323" count="1"/>
+        <ingredient id="5575" count="579750"/>
+        <production id="2395" count="1"/>
+    </item>
+
+    <!-- Sealed Majestic Robe -> Majestic Robe -->
+    <item>
+        <ingredient id="5329" count="1"/>
+        <ingredient id="5575" count="579750"/>
+        <production id="2409" count="1"/>
+    </item>
+
+    <!-- ******************** Lower Body Begin ********************** -->
+
+    <!-- Sealed Dark Crystal Gaiters -> Dark Crystal Gaiters -->
+    <item>
+        <ingredient id="5288" count="1"/>
+        <ingredient id="5575" count="216750"/>
+        <production id="388" count="1"/>
+    </item>
+
+    <!-- Sealed Dark Crystal Leggings -> Dark Crystal Leggings -->
+    <item>
+        <ingredient id="5298" count="1"/>
+        <ingredient id="5575" count="162750"/>
+        <production id="2389" count="1"/>
+    </item>
+
+    <!-- Sealed Tallum Stockings -> Tallum Stockings -->
+    <item>
+        <ingredient id="5305" count="1"/>
+        <ingredient id="5575" count="162750"/>
+        <production id="2405" count="1"/>
+    </item>
+
+    <!-- ******************** Shields Begin ********************** -->
+
+    <!-- Sealed Dark Crystal Shield -> Dark Crystal Shield -->
+    <item>
+        <ingredient id="5292" count="1"/>
+        <ingredient id="5575" count="91500"/>
+        <production id="641" count="1"/>
+    </item>
+
+    <!-- Sealed Shield of Nightmare -> Shield of Nightmare -->
+    <item>
+        <ingredient id="5315" count="1"/>
+        <ingredient id="5575" count="138750"/>
+        <production id="2498" count="1"/>
+    </item>
+
+    <!-- ******************** Clan Apella Armors ********************** -->
+
+    <!-- Apella Helmet -->
+    <item>
+        <ingredient id="7870" count="1"/>
+        <ingredient id="5575" count="130500"/>
+        <production id="7860" count="1"/>
+    </item>
+
+    <!-- Apella Plate Armor -->
+    <item>
+        <ingredient id="7871" count="1"/>
+        <ingredient id="5575" count="507750"/>
+        <production id="7861" count="1"/>
+    </item>
+
+    <!-- Apella Gauntlet -->
+    <item>
+        <ingredient id="7872" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7862" count="1"/>
+    </item>
+
+    <!-- Apella Solleret -->
+    <item>
+        <ingredient id="7873" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7863" count="1"/>
+    </item>
+
+    <!-- Apella Brigandine (fullbody light) -->
+    <item>
+        <ingredient id="7874" count="1"/>
+        <ingredient id="5575" count="1"/>
+        <production id="7864" count="1"/>
+    </item>
+
+    <!-- Apella Leather Gloves -->
+    <item>
+        <ingredient id="7875" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7865" count="1"/>
+    </item>
+
+    <!-- Apella Boots -->
+    <item>
+        <ingredient id="7876" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7866" count="1"/>
+    </item>
+
+    <!-- Apella Doublet (fullbody robe) -->
+    <item>
+        <ingredient id="7877" count="1"/>
+        <ingredient id="5575" count="381000"/>
+        <production id="7867" count="1"/>
+    </item>
+
+    <!-- Apella Silk Gloves -->
+    <item>
+        <ingredient id="7878" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7868" count="1"/>
+    </item>
+
+    <!-- Apella Sandals Robe -->
+    <item>
+        <ingredient id="7879" count="1"/>
+        <ingredient id="5575" count="87000"/>
+        <production id="7869" count="1"/>
+    </item>
+
+</list>

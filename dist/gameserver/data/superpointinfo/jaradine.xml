@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="treekeeper_jaradine" type="CIRCLE">
+		<node x="44964" y="50568" z="-3056" />
+		<node x="44435" y="50025" z="-3056" />
+		<node x="44455" y="49078" z="-3056" />
+		<node x="45402" y="48437" z="-3056" chat_type="ALL" msg_addr="THE_MOTHER_TREE_IS_SLOWLY_DYING" delay="5000" />
+		<node x="46104" y="48788" z="-3056" chat_type="ALL" msg_addr="HOW_CAN_WE_SAVE_THE_MOTHER_TREE" delay="5000" />
+		<node x="46452" y="49743" z="-3056" />
+		<node x="45730" y="50590" z="-3056" delay="60" />
+	</moveroute>
+</list>

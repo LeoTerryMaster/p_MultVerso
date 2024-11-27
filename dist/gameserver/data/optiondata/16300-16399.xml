@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "optiondata.dtd">
+<list>
+	<optiondata id="16300">
+		<!-- Активное: Временно уменьшает расход MP умений песни и танца. -->
+		<skill id="3163" level="3" />
+	</optiondata>
+	<optiondata id="16301">
+		<!-- Активное: Временно уменьшает время отката магии. -->
+		<skill id="3200" level="3" />
+	</optiondata>
+	<optiondata id="16302">
+		<!-- Активное: Временно уменьшает расход MP магии. -->
+		<skill id="3162" level="3" />
+	</optiondata>
+	<optiondata id="16303">
+		<!-- Активное: Временно блокирует упреждающие атаки монстров. Пока длится эффект, боевые навыки значительно понижены. -->
+		<skill id="3159" level="3" />
+	</optiondata>
+	<optiondata id="16304">
+		<!-- Активное: Временно увеличивает количество поглощенных HP при повреждении цели (исключая урон от умений и дистанционных атак). -->
+		<skill id="3148" level="10" />
+	</optiondata>
+	<optiondata id="16305">
+		<!-- Шанс: Мгновенно блокирует все физические и магические умения цели при физической атаке. -->
+		<trigger id="3094" level="10" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="16306">
+		<!-- Шанс: Мгновенно сжигает MP цели при физической атаке. -->
+		<trigger id="3082" level="10" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="16307">
+		<!-- Шанс: Мгновенно парализует цель при физической атаке. -->
+		<skill id="3088" level="10" />
+	</optiondata>
+	<optiondata id="16308">
+		<!-- Шанс: Мгновенно блокирует магические умения цели при физической атаке. -->
+		<trigger id="3093" level="10" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="16309">
+		<!-- Шанс: Мгновенно усыпляет цель при физической атаке. Цель будет невосприимчива к дополнительным усыпляющим атакам, пока длится эффект. -->
+		<trigger id="3087" level="10" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="16310">
+		<!-- Шанс: Дает шанс оглушить цель при физической атаке. -->
+		<trigger id="3085" level="10" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="16311">
+		<!-- Шанс: Мгновенно блокирует все физические и магические умения цели при критической атаке. -->
+		<trigger id="3122" level="10" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="16312">
+		<!-- Шанс: Мгновенно сжигает MP цели при критической атаке. -->
+		<trigger id="3110" level="10" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="16313">
+		<!-- Шанс: Мгновенно парализует цель при критической атаке. -->
+		<skill id="3116" level="10"/>
+	</optiondata>
+	<optiondata id="16314">
+		<!-- Шанс: Мгновенно блокирует магические умения цели при критической атаке. -->
+		<trigger id="3121" level="10" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="16315">
+		<!-- Шанс: Мгновенно усыпляет цель при критической атаке. Цель будет невосприимчива к дополнительным усыпляющим атакам, пока длится эффект. -->
+		<trigger id="3115" level="10" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="16316">
+		<!-- Шанс: Мгновенно оглушает цель при критической атаке. -->
+		<trigger id="3113" level="10" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="16317">
+		<!-- Шанс: Дает шанс блокировать все физические и магические навыки цели при получении повреждений. -->
+		<skill id="3237" level="10" />
+	</optiondata>
+	<optiondata id="16318">
+		<!-- Шанс: Дает шанс напугать цель при получении повреждений. -->
+		<skill id="3233" level="10" />
+	</optiondata>
+	<optiondata id="16319">
+		<!-- Шанс: Дает шанс увеличить эффективность магии, восстанавливающей MP, когда Вы получаете повреждения. -->
+		<skill id="3212" level="10" />
+	</optiondata>
+	<optiondata id="16320">
+		<!-- Шанс: Дает шанс регенерировать MP, когда Вы получаете повреждения. -->
+		<skill id="3210" level="10" />
+	</optiondata>
+	<optiondata id="16321">
+		<!-- Шанс: Дает шанс парализовать цель при получении повреждений. -->
+		<skill id="3231" level="10" />
+	</optiondata>
+	<optiondata id="16322">
+		<!-- Шанс: Дает шанс блокировать все магические навыки цели при получении повреждений. -->
+		<skill id="3236" level="10" />
+	</optiondata>
+	<optiondata id="16323">
+		<!-- Шанс: Дает шанс оглушить цель при получении повреждений. -->
+		<skill id="3228" level="10" />
+	</optiondata>
+	<optiondata id="16324">
+		<!-- Шанс: Дает шанс превратить цель в камень при получении повреждений. -->
+		<skill id="3232" level="10" />
+	</optiondata>
+	<optiondata id="16325">
+		<!-- Шанс: Мгновенно блокирует все физические и магические умения цели при магической атаке. -->
+		<trigger id="3107" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="16326">
+		<!-- Шанс: Мгновенно сжигает MP цели при магической атаке. -->
+		<trigger id="3095" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="16327">
+		<!-- Шанс: Мгновенно парализует цель при магической атаке. -->
+		<skill id="3101" level="10" />
+	</optiondata>
+	<optiondata id="16328">
+		<!-- Шанс: Мгновенно блокирует магические умения цели при магической атаке. -->
+		<trigger id="3106" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="16329">
+		<!-- Шанс: Мгновенно усыпляет цель при магической атаке. Цель будет невосприимчива к дополнительным усыпляющим атакам, пока длится эффект. -->
+		<trigger id="3100" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="16330">
+		<!-- Шанс: Мгновенно оглушает цель при магической атаке. -->
+		<trigger id="3098" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="16331">
+		<!-- Предметное умение: Уменьшает расход MP всех навыков. -->
+		<skill id="3258" level="3" />
+	</optiondata>
+	<optiondata id="16332">
+		<!-- Предметное умение: Увеличивает Ваше Уклонение. -->
+		<skill id="3247" level="10" />
+	</optiondata>
+	<optiondata id="16333">
+		<!-- Предметное умение: Увеличивает Ваш шанс критической атаки. -->
+		<skill id="3249" level="10" />
+	</optiondata>
+	<optiondata id="16334">
+		<!-- Предметное умение: Улучшает способность отражать часть полученных повреждений обратно врагу (исключая урон от умений и дистанционных атак). -->
+		<skill id="3259" level="3" />
+	</optiondata>
+	<optiondata id="16335">
+		<!-- Предметное умение: Увеличивает Вашу Точность. -->
+		<skill id="3248" level="10" />
+	</optiondata>
+	<optiondata id="16336">
+		<!-- Предметное умение: Увеличивает шанс критической атаки для магических атак. -->
+		<skill id="3250" level="10" />
+	</optiondata>
+	<optiondata id="16337">
+		<!-- Предметное умение: Увеличивает количество восстанавливаемых MP. -->
+		<skill id="3239" level="10" />
+	</optiondata>
+	<optiondata id="16338">
+		<!-- Предметное умение: Уменьшает расход MP при использовании физических умений. -->
+		<skill id="3255" level="3" />
+	</optiondata>
+	<optiondata id="16339">
+		<!-- Предметное умение: Уменьшает расход MP при использовании песен/танцев. -->
+		<skill id="3257" level="3" />
+	</optiondata>
+	<optiondata id="16340">
+		<!-- Предметное умение: Уменьшает расход MP при использовании заклинаний. -->
+		<skill id="3256" level="3" />
+	</optiondata>
+	<optiondata id="16341">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16342">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16343">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16344">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16345">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16346">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16347">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16348">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16349">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16350">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16351">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16352">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16353">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16354">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16355">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16356">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16357">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16358">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16359">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16360">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16361">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16362">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16363">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16364">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16365">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16366">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16367">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16368">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16369">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16370">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16371">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16372">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16373">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16374">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16375">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16376">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16377">
+		<!-- 1) Str +1 -->
+		<for>
+			<add order="0x40" stat="STR" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16378">
+		<!-- 1) Con +1 -->
+		<for>
+			<add order="0x40" stat="CON" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16379">
+		<!-- 1) Int +1 -->
+		<for>
+			<add order="0x40" stat="INT" value="1.0" />
+		</for>
+	</optiondata>
+	<optiondata id="16380">
+		<!-- 1) Men +1 -->
+		<for>
+			<add order="0x40" stat="MEN" value="1.0" />
+		</for>
+	</optiondata>
+</list>

@@ -1,0 +1,496 @@
+[06.11.24 02:45:57:583] ERROR versioning.Version: Unable to get soft information
+File name 'C:\Users\Prog Jr TerryMaster\Desktop\Source\bin' isn't a valid jar
+java.io.FileNotFoundException: C:\Users\Prog Jr TerryMaster\Desktop\Source\bin (Acesso negado)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:346)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:260)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:214)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1326)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+	at l2.commons.versioning.Version.<init>(Version.java:25)
+	at l2.gameserver.GameServer.<init>(GameServer.java:84)
+	at l2.gameserver.GameServer.main(GameServer.java:236)
+[06.11.24 02:45:57:588]  INFO gameserver.GameServer: =================================================
+[06.11.24 02:45:57:588]  INFO gameserver.GameServer: Revision: ................ exported
+[06.11.24 02:45:57:588]  INFO gameserver.GameServer: Build date: .............. 
+[06.11.24 02:45:57:588]  INFO gameserver.GameServer: Compiler version: ........ 
+[06.11.24 02:45:57:589]  INFO gameserver.GameServer: =================================================
+[06.11.24 02:45:57:744]  INFO chat.ChatFilters: ChatFilters: loaded 3 filter(s).
+[06.11.24 02:45:58:110]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[06.11.24 02:45:58:118]  INFO idfactory.IdFactory: IdFactory: Extracted 1 used id's from characters
+[06.11.24 02:45:58:118]  INFO idfactory.IdFactory: IdFactory: Extracted 6 used id's from items
+[06.11.24 02:45:58:119]  INFO idfactory.IdFactory: IdFactory: Extracted total 7 used id's.
+[06.11.24 02:45:58:120]  INFO idfactory.BitSetIDFactory: IdFactory: 102912 id's available.
+[06.11.24 02:45:58:325]  INFO scripts.Scripts: Scripts: Loading...
+[06.11.24 02:45:58:928]  INFO scripts.Scripts: Scripts: Loaded 698 classes.
+[06.11.24 02:45:58:929]  INFO scripts.Scripts: Extensions: Loading...
+[06.11.24 02:45:58:932]  INFO scripts.Scripts: Extensions: Loaded 0 extension classes.
+[06.11.24 02:45:58:941]  INFO geodata.GeoEngine: GeoEngine: Loading Geodata...
+[06.11.24 02:45:58:955]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_10.l2g
+[06.11.24 02:45:59:098]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_11.l2g
+[06.11.24 02:45:59:122]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_12.l2g
+[06.11.24 02:45:59:138]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_13.l2g
+[06.11.24 02:45:59:143]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_14.l2g
+[06.11.24 02:45:59:148]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_15.l2g
+[06.11.24 02:45:59:153]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_16.l2g
+[06.11.24 02:45:59:158]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_17.l2g
+[06.11.24 02:45:59:162]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_18.l2g
+[06.11.24 02:45:59:167]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_19.l2g
+[06.11.24 02:45:59:172]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_20.l2g
+[06.11.24 02:45:59:178]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_21.l2g
+[06.11.24 02:45:59:187]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_22.l2g
+[06.11.24 02:45:59:192]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_23.l2g
+[06.11.24 02:45:59:197]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_24.l2g
+[06.11.24 02:45:59:210]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_25.l2g
+[06.11.24 02:45:59:229]  INFO geodata.GeoEngine: GeoEngine: Loading: 16_26.l2g
+[06.11.24 02:45:59:234]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_10.l2g
+[06.11.24 02:45:59:251]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_11.l2g
+[06.11.24 02:45:59:268]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_12.l2g
+[06.11.24 02:45:59:273]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_13.l2g
+[06.11.24 02:45:59:277]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_14.l2g
+[06.11.24 02:45:59:282]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_15.l2g
+[06.11.24 02:45:59:287]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_16.l2g
+[06.11.24 02:45:59:292]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_17.l2g
+[06.11.24 02:45:59:296]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_18.l2g
+[06.11.24 02:45:59:300]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_19.l2g
+[06.11.24 02:45:59:303]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_20.l2g
+[06.11.24 02:45:59:317]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_21.l2g
+[06.11.24 02:45:59:332]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_22.l2g
+[06.11.24 02:45:59:347]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_23.l2g
+[06.11.24 02:45:59:353]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_24.l2g
+[06.11.24 02:45:59:393]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_25.l2g
+[06.11.24 02:45:59:400]  INFO geodata.GeoEngine: GeoEngine: Loading: 17_26.l2g
+[06.11.24 02:45:59:402]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_10.l2g
+[06.11.24 02:45:59:407]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_11.l2g
+[06.11.24 02:45:59:408]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_12.l2g
+[06.11.24 02:45:59:409]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_13.l2g
+[06.11.24 02:45:59:411]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_14.l2g
+[06.11.24 02:45:59:422]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_15.l2g
+[06.11.24 02:45:59:424]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_16.l2g
+[06.11.24 02:45:59:425]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_17.l2g
+[06.11.24 02:45:59:427]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_18.l2g
+[06.11.24 02:45:59:428]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_19.l2g
+[06.11.24 02:45:59:449]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_20.l2g
+[06.11.24 02:45:59:461]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_21.l2g
+[06.11.24 02:45:59:476]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_22.l2g
+[06.11.24 02:45:59:491]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_23.l2g
+[06.11.24 02:45:59:512]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_24.l2g
+[06.11.24 02:45:59:523]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_25.l2g
+[06.11.24 02:45:59:525]  INFO geodata.GeoEngine: GeoEngine: Loading: 18_26.l2g
+[06.11.24 02:45:59:526]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_10.l2g
+[06.11.24 02:45:59:531]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_11.l2g
+[06.11.24 02:45:59:533]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_12.l2g
+[06.11.24 02:45:59:534]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_13.l2g
+[06.11.24 02:45:59:554]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_14.l2g
+[06.11.24 02:45:59:565]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_15.l2g
+[06.11.24 02:45:59:575]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_16.l2g
+[06.11.24 02:45:59:592]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_17.l2g
+[06.11.24 02:45:59:596]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_18.l2g
+[06.11.24 02:45:59:616]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_19.l2g
+[06.11.24 02:45:59:626]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_20.l2g
+[06.11.24 02:45:59:640]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_21.l2g
+[06.11.24 02:45:59:651]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_22.l2g
+[06.11.24 02:45:59:664]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_23.l2g
+[06.11.24 02:45:59:680]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_24.l2g
+[06.11.24 02:45:59:689]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_25.l2g
+[06.11.24 02:45:59:691]  INFO geodata.GeoEngine: GeoEngine: Loading: 19_26.l2g
+[06.11.24 02:45:59:694]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_10.l2g
+[06.11.24 02:45:59:699]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_11.l2g
+[06.11.24 02:45:59:701]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_12.l2g
+[06.11.24 02:45:59:704]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_13.l2g
+[06.11.24 02:45:59:715]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_14.l2g
+[06.11.24 02:45:59:737]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_15.l2g
+[06.11.24 02:45:59:748]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_16.l2g
+[06.11.24 02:45:59:757]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_17.l2g
+[06.11.24 02:45:59:773]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_18.l2g
+[06.11.24 02:45:59:784]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_19.l2g
+[06.11.24 02:45:59:793]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_20.l2g
+[06.11.24 02:45:59:830]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_21.l2g
+[06.11.24 02:45:59:859]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_22.l2g
+[06.11.24 02:45:59:873]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_23.l2g
+[06.11.24 02:45:59:889]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_24.l2g
+[06.11.24 02:45:59:891]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_25.l2g
+[06.11.24 02:45:59:893]  INFO geodata.GeoEngine: GeoEngine: Loading: 20_26.l2g
+[06.11.24 02:45:59:894]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_10.l2g
+[06.11.24 02:45:59:896]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_11.l2g
+[06.11.24 02:45:59:897]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_12.l2g
+[06.11.24 02:45:59:899]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_13.l2g
+[06.11.24 02:45:59:901]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_14.l2g
+[06.11.24 02:45:59:921]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_15.l2g
+[06.11.24 02:45:59:940]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_16.l2g
+[06.11.24 02:45:59:961]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_17.l2g
+[06.11.24 02:45:59:966]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_18.l2g
+[06.11.24 02:45:59:983]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_19.l2g
+[06.11.24 02:45:59:992]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_20.l2g
+[06.11.24 02:46:00:001]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_21.l2g
+[06.11.24 02:46:00:022]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_22.l2g
+[06.11.24 02:46:00:037]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_23.l2g
+[06.11.24 02:46:00:052]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_24.l2g
+[06.11.24 02:46:00:070]  INFO geodata.GeoEngine: GeoEngine: Loading: 21_25.l2g
+[06.11.24 02:46:00:074]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_10.l2g
+[06.11.24 02:46:00:077]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_13.l2g
+[06.11.24 02:46:00:096]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_14.l2g
+[06.11.24 02:46:00:121]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_15.l2g
+[06.11.24 02:46:00:176]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_16.l2g
+[06.11.24 02:46:00:197]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_17.l2g
+[06.11.24 02:46:00:208]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_18.l2g
+[06.11.24 02:46:00:219]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_19.l2g
+[06.11.24 02:46:00:229]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_20.l2g
+[06.11.24 02:46:00:239]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_21.l2g
+[06.11.24 02:46:00:252]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_22.l2g
+[06.11.24 02:46:00:277]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_23.l2g
+[06.11.24 02:46:00:301]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_24.l2g
+[06.11.24 02:46:00:314]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_25.l2g
+[06.11.24 02:46:00:333]  INFO geodata.GeoEngine: GeoEngine: Loading: 22_26.l2g
+[06.11.24 02:46:00:336]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_10.l2g
+[06.11.24 02:46:00:338]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_11.l2g
+[06.11.24 02:46:00:349]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_12.l2g
+[06.11.24 02:46:00:370]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_13.l2g
+[06.11.24 02:46:00:389]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_14.l2g
+[06.11.24 02:46:00:413]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_15.l2g
+[06.11.24 02:46:00:449]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_16.l2g
+[06.11.24 02:46:00:469]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_17.l2g
+[06.11.24 02:46:00:489]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_18.l2g
+[06.11.24 02:46:00:514]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_19.l2g
+[06.11.24 02:46:00:536]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_20.l2g
+[06.11.24 02:46:00:557]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_21.l2g
+[06.11.24 02:46:00:577]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_22.l2g
+[06.11.24 02:46:00:592]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_23.l2g
+[06.11.24 02:46:00:607]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_24.l2g
+[06.11.24 02:46:00:622]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_25.l2g
+[06.11.24 02:46:00:632]  INFO geodata.GeoEngine: GeoEngine: Loading: 23_26.l2g
+[06.11.24 02:46:00:635]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_10.l2g
+[06.11.24 02:46:00:638]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_11.l2g
+[06.11.24 02:46:00:648]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_12.l2g
+[06.11.24 02:46:00:679]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_13.l2g
+[06.11.24 02:46:00:689]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_14.l2g
+[06.11.24 02:46:00:707]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_15.l2g
+[06.11.24 02:46:00:725]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_16.l2g
+[06.11.24 02:46:00:744]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_17.l2g
+[06.11.24 02:46:00:762]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_18.l2g
+[06.11.24 02:46:00:775]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_19.l2g
+[06.11.24 02:46:00:784]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_20.l2g
+[06.11.24 02:46:00:808]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_21.l2g
+[06.11.24 02:46:00:821]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_22.l2g
+[06.11.24 02:46:00:829]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_23.l2g
+[06.11.24 02:46:00:833]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_24.l2g
+[06.11.24 02:46:00:836]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_25.l2g
+[06.11.24 02:46:00:839]  INFO geodata.GeoEngine: GeoEngine: Loading: 24_26.l2g
+[06.11.24 02:46:00:841]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_10.l2g
+[06.11.24 02:46:00:844]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_11.l2g
+[06.11.24 02:46:00:854]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_12.l2g
+[06.11.24 02:46:00:893]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_14.l2g
+[06.11.24 02:46:00:993]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_15.l2g
+[06.11.24 02:46:01:035]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_16.l2g
+[06.11.24 02:46:01:052]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_17.l2g
+[06.11.24 02:46:01:076]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_18.l2g
+[06.11.24 02:46:01:087]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_19.l2g
+[06.11.24 02:46:01:116]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_20.l2g
+[06.11.24 02:46:01:124]  INFO geodata.GeoEngine: GeoEngine: Loading: 25_21.l2g
+[06.11.24 02:46:01:129]  INFO geodata.GeoEngine: GeoEngine: Loading: 26_11.l2g
+[06.11.24 02:46:01:132]  INFO geodata.GeoEngine: GeoEngine: Loading: 26_12.l2g
+[06.11.24 02:46:01:136]  INFO geodata.GeoEngine: GeoEngine: Loading: 26_14.l2g
+[06.11.24 02:46:01:144]  INFO geodata.GeoEngine: GeoEngine: Loading: 26_15.l2g
+[06.11.24 02:46:01:146]  INFO geodata.GeoEngine: GeoEngine: Loading: 26_16.l2g
+[06.11.24 02:46:01:153]  INFO geodata.GeoEngine: GeoEngine: Loaded 166 map(s), max layers: 21
+[06.11.24 02:46:01:166]  INFO utils.Strings: Loaded 418 translit entries.
+[06.11.24 02:46:01:171]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 10:36 in the day.
+[06.11.24 02:46:01:176]  INFO model.World: World Build: Creating regions: [192][272][32].
+[06.11.24 02:46:01:179]  INFO htm.HtmCache: HtmCache: lazy cache mode.
+[06.11.24 02:46:01:199]  INFO data.StringHolder: StringHolder: load strings: 1548 for lang: ENGLISH
+[06.11.24 02:46:01:199]  INFO data.StringHolder: StringHolder: load strings: 1527 for lang: RUSSIAN
+[06.11.24 02:46:01:498]  INFO holder.EnchantSkillHolder: EnchantSkillHolder: loaded 258 enchant skill(s) count.
+[06.11.24 02:46:01:506]  INFO skills.SkillsEngine: Loading skills from 1-99.xml ...
+[06.11.24 02:46:02:050]  INFO skills.SkillsEngine: Loading skills from 100-199.xml ...
+[06.11.24 02:46:02:147]  INFO skills.SkillsEngine: Loading skills from 200-299.xml ...
+[06.11.24 02:46:02:244]  INFO skills.SkillsEngine: Loading skills from 300-399.xml ...
+[06.11.24 02:46:02:306]  INFO skills.SkillsEngine: Loading skills from 400-499.xml ...
+[06.11.24 02:46:02:359]  INFO skills.SkillsEngine: Loading skills from 1000-1099.xml ...
+[06.11.24 02:46:02:440]  INFO skills.SkillsEngine: Loading skills from 1100-1199.xml ...
+[06.11.24 02:46:02:487]  INFO skills.SkillsEngine: Loading skills from 1200-1299.xml ...
+[06.11.24 02:46:02:605]  INFO skills.SkillsEngine: Loading skills from 1300-1399.xml ...
+[06.11.24 02:46:02:649]  INFO skills.SkillsEngine: Loading skills from 1400-1499.xml ...
+[06.11.24 02:46:02:674]  INFO skills.SkillsEngine: Loading skills from 2000-2099.xml ...
+[06.11.24 02:46:02:685]  INFO skills.SkillsEngine: Loading skills from 2100-2199.xml ...
+[06.11.24 02:46:02:697]  INFO skills.SkillsEngine: Loading skills from 2200-2299.xml ...
+[06.11.24 02:46:02:714]  INFO skills.SkillsEngine: Loading skills from 2300-2399.xml ...
+[06.11.24 02:46:02:725]  INFO skills.SkillsEngine: Loading skills from 2500-2599.xml ...
+[06.11.24 02:46:02:736]  INFO skills.SkillsEngine: Loading skills from 3000-3099.xml ...
+[06.11.24 02:46:02:753]  INFO skills.SkillsEngine: Loading skills from 3100-3199.xml ...
+[06.11.24 02:46:02:778]  INFO skills.SkillsEngine: Loading skills from 3200-3299.xml ...
+[06.11.24 02:46:02:797]  INFO skills.SkillsEngine: Loading skills from 3400-3499.xml ...
+[06.11.24 02:46:02:807]  INFO skills.SkillsEngine: Loading skills from 3500-3599.xml ...
+[06.11.24 02:46:02:815]  INFO skills.SkillsEngine: Loading skills from 3600-3699.xml ...
+[06.11.24 02:46:02:821]  INFO skills.SkillsEngine: Loading skills from 3700-3799.xml ...
+[06.11.24 02:46:02:830]  INFO skills.SkillsEngine: Loading skills from 3800-3899.xml ...
+[06.11.24 02:46:02:839]  INFO skills.SkillsEngine: Loading skills from 3900-3999.xml ...
+[06.11.24 02:46:02:846]  INFO skills.SkillsEngine: Loading skills from 4000-4099.xml ...
+[06.11.24 02:46:02:862]  INFO skills.SkillsEngine: Loading skills from 4100-4199.xml ...
+[06.11.24 02:46:02:883]  INFO skills.SkillsEngine: Loading skills from 4200-4299.xml ...
+[06.11.24 02:46:02:897]  INFO skills.SkillsEngine: Loading skills from 4300-4399.xml ...
+[06.11.24 02:46:02:908]  INFO skills.SkillsEngine: Loading skills from 4400-4499.xml ...
+[06.11.24 02:46:02:922]  INFO skills.SkillsEngine: Loading skills from 4500-4599.xml ...
+[06.11.24 02:46:02:937]  INFO skills.SkillsEngine: Loading skills from 4600-4699.xml ...
+[06.11.24 02:46:02:954]  INFO skills.SkillsEngine: Loading skills from 4700-4799.xml ...
+[06.11.24 02:46:02:974]  INFO skills.SkillsEngine: Loading skills from 4800-4899.xml ...
+[06.11.24 02:46:02:981]  INFO skills.SkillsEngine: Loading skills from 4900-4999.xml ...
+[06.11.24 02:46:02:987]  INFO skills.SkillsEngine: Loading skills from 5000-5099.xml ...
+[06.11.24 02:46:03:002]  INFO skills.SkillsEngine: Loading skills from 5100-5199.xml ...
+[06.11.24 02:46:03:018]  INFO skills.SkillsEngine: Loading skills from 5200-5299.xml ...
+[06.11.24 02:46:03:034]  INFO skills.SkillsEngine: Loading skills from 5300-5399.xml ...
+[06.11.24 02:46:03:053]  INFO skills.SkillsEngine: Loading skills from 5400-5499.xml ...
+[06.11.24 02:46:03:061]  INFO skills.SkillsEngine: Loading skills from 5500-5599.xml ...
+[06.11.24 02:46:03:071]  INFO skills.SkillsEngine: Loading skills from 5600-5699.xml ...
+[06.11.24 02:46:03:086]  INFO skills.SkillsEngine: Loading skills from 5700-5799.xml ...
+[06.11.24 02:46:03:100]  INFO skills.SkillsEngine: Loading skills from 5800-5899.xml ...
+[06.11.24 02:46:03:115]  INFO skills.SkillsEngine: Loading skills from 5900-5999.xml ...
+[06.11.24 02:46:03:124]  INFO skills.SkillsEngine: Loading skills from 6000-6099.xml ...
+[06.11.24 02:46:03:133]  INFO skills.SkillsEngine: Loading skills from 6100-6199.xml ...
+[06.11.24 02:46:03:140]  INFO skills.SkillsEngine: Loading skills from 6200-6299.xml ...
+[06.11.24 02:46:03:149]  INFO skills.SkillsEngine: Loading skills from 6300-6399.xml ...
+[06.11.24 02:46:03:156]  INFO skills.SkillsEngine: Loading skills from 6400-6499.xml ...
+[06.11.24 02:46:03:166]  INFO skills.SkillsEngine: Loading skills from 6500-6599.xml ...
+[06.11.24 02:46:03:210]  INFO skills.SkillsEngine: Loading skills from 6600-6699.xml ...
+[06.11.24 02:46:03:223]  INFO skills.SkillsEngine: Loading skills from 6700-6799.xml ...
+[06.11.24 02:46:03:229]  INFO skills.SkillsEngine: Loading skills from 6800-6899.xml ...
+[06.11.24 02:46:03:237]  INFO skills.SkillsEngine: Loading skills from 6900-6999.xml ...
+[06.11.24 02:46:03:240]  INFO skills.SkillsEngine: Loading skills from 7000-7099.xml ...
+[06.11.24 02:46:03:246]  INFO skills.SkillsEngine: Loading skills from 9000-9099.xml ...
+[06.11.24 02:46:03:249]  INFO skills.SkillsEngine: Loading skills from 90000-90099.xml ...
+[06.11.24 02:46:03:252]  INFO skills.SkillsEngine: SkillsEngine: Loaded 5062 skill templates from XML files. Max id: 90053, max level: 170
+[06.11.24 02:46:03:977]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 16380 option data(s) count.
+[06.11.24 02:46:04:472]  INFO holder.ItemHolder: ItemHolder: loaded 9207 item(s) count.
+[06.11.24 02:46:04:480]  INFO holder.VariationGroupHolder: VariationGroupHolder: loaded 400 variation group(s) count.
+[06.11.24 02:46:04:534]  INFO holder.VariationChanceHolder: VariationChanceHolder: loaded 40 variation chance(s) count.
+[06.11.24 02:46:06:057]  INFO holder.NpcHolder: NpcHolder: loaded 6521 npc(s) count.
+[06.11.24 02:46:06:073]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 204 map region manager(s) count.
+[06.11.24 02:46:06:092]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 204 map region manager(s) count.
+[06.11.24 02:46:06:098]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 29 static object(s) count.
+[06.11.24 02:46:06:359]  INFO holder.DoorHolder: DoorHolder: loaded 551 door(s) count.
+[06.11.24 02:46:06:424]  INFO holder.ZoneHolder: ZoneHolder: loaded 956 zone(s) count.
+[06.11.24 02:46:06:901]  INFO holder.SpawnHolder: SpawnHolder: loaded 28378 spawn(s) count.
+[06.11.24 02:46:06:931]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 8 instant zone(s) count.
+[06.11.24 02:46:07:603]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 45663 normal learns for 89 classes.
+[06.11.24 02:46:07:603]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 553 fishing learns for 5 races.
+[06.11.24 02:46:07:603]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 64 pledge learns.
+[06.11.24 02:46:07:742]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 53
+[06.11.24 02:46:07:742]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
+[06.11.24 02:46:07:742]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
+[06.11.24 02:46:07:819]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 0 Statuses
+[06.11.24 02:46:07:845]  INFO entity.SevenSigns: SevenSigns: Currently in the Competition (Quest Event) period!
+[06.11.24 02:46:07:846]  INFO entity.SevenSigns: SevenSigns: The Seal of Avarice remains unclaimed.
+[06.11.24 02:46:07:846]  INFO entity.SevenSigns: SevenSigns: The Seal of Gnosis remains unclaimed.
+[06.11.24 02:46:07:846]  INFO entity.SevenSigns: SevenSigns: The Seal of Strife remains unclaimed.
+[06.11.24 02:46:07:846]  INFO entity.SevenSigns: SevenSigns: The Competition this week, if the trend continue, will end with a tie.
+[06.11.24 02:46:07:847]  INFO entity.SevenSigns: SevenSigns: Next period begins in 5 days, 15 hours and 13 mins.
+[06.11.24 02:46:07:967]  INFO holder.EventHolder: EventHolder: loaded 66 event(s) count.
+[06.11.24 02:46:07:975]  INFO holder.CubicHolder: CubicHolder: loaded 73 cubic(s) count.
+[06.11.24 02:46:08:007]  INFO holder.RecipeHolder: RecipeHolder: loaded 870 recipe(s) count.
+[06.11.24 02:46:08:080]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
+[06.11.24 02:46:08:080]  INFO holder.BuyListHolder: TradeController: Loaded 21074 Items.
+[06.11.24 02:46:08:080]  INFO holder.BuyListHolder: TradeController: Loaded 787 Buylists.
+[06.11.24 02:46:08:269]  INFO holder.HennaHolder: HennaHolder: loaded 180 henna(s) count.
+[06.11.24 02:46:08:281]  INFO holder.EnchantItemHolder: EnchantItemHolder: load 30 enchant item(s).
+[06.11.24 02:46:08:287]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 39 soul crystal(s) count.
+[06.11.24 02:46:08:294]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 55 armor sets(s) count.
+[06.11.24 02:46:08:313]  INFO holder.FishDataHolder: FishDataHolder: load 278 fish(es).
+[06.11.24 02:46:08:313]  INFO holder.FishDataHolder: FishDataHolder: load 30 lure(s).
+[06.11.24 02:46:08:314]  INFO holder.FishDataHolder: FishDataHolder: load 4 distribution(s).
+[06.11.24 02:46:08:322]  INFO holder.CapsuleItemHolder: CapsuleItemHolder: loaded 29 capsule item(s) count.
+[06.11.24 02:46:08:324]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
+[06.11.24 02:46:08:329]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 0 enchanted skills.
+[06.11.24 02:46:08:341]  INFO tables.CharTemplateTable: CharTemplateTable: Loaded 178 Character Templates.
+[06.11.24 02:46:08:366]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2711 skills.
+[06.11.24 02:46:08:801]  INFO parsers.MoveRouteHolder: MoveRouteHolder: loaded 149 move route(s) count.
+[06.11.24 02:46:08:822]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: ALL
+[06.11.24 02:46:08:867]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3000 npc for group: ALL
+[06.11.24 02:46:09:055]  INFO instancemanager.SpawnManager: SpawnManager: spawned 110 npc; spawns: 110; group: [guard_of_andreas]
+[06.11.24 02:46:09:107]  INFO instancemanager.SpawnManager: SpawnManager: spawned 6000 npc for group: ALL
+[06.11.24 02:46:09:178]  INFO instancemanager.SpawnManager: SpawnManager: spawned 8000 npc for group: ALL
+[06.11.24 02:46:09:235]  INFO instancemanager.SpawnManager: SpawnManager: spawned 9000 npc for group: ALL
+[06.11.24 02:46:09:276]  INFO instancemanager.SpawnManager: SpawnManager: spawned 10000 npc for group: ALL
+[06.11.24 02:46:09:431]  INFO instancemanager.SpawnManager: SpawnManager: spawned 12000 npc for group: ALL
+[06.11.24 02:46:09:562]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: ALL
+[06.11.24 02:46:09:589]  INFO instancemanager.SpawnManager: SpawnManager: spawned 16000 npc for group: ALL
+[06.11.24 02:46:09:717]  INFO instancemanager.SpawnManager: SpawnManager: spawned 20000 npc for group: ALL
+[06.11.24 02:46:09:837]  INFO instancemanager.SpawnManager: SpawnManager: spawned 24000 npc for group: ALL
+[06.11.24 02:46:09:862]  INFO instancemanager.SpawnManager: SpawnManager: spawned 25000 npc for group: ALL
+[06.11.24 02:46:09:884]  INFO instancemanager.SpawnManager: SpawnManager: spawned 26000 npc for group: ALL
+[06.11.24 02:46:09:935]  INFO instancemanager.SpawnManager: SpawnManager: spawned 28000 npc for group: ALL
+[06.11.24 02:46:09:990]  INFO instancemanager.SpawnManager: SpawnManager: spawned 30480 npc; spawns: 14339; group: ALL
+[06.11.24 02:46:10:035]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: [treasure_box]
+[06.11.24 02:46:10:053]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2718 npc; spawns: 2149; group: [treasure_box]
+[06.11.24 02:46:10:054]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18 npc; spawns: 18; group: [lotto_manager]
+[06.11.24 02:46:10:054]  INFO data.BoatHolder: BoatHolder: loaded 5 boat(s) count.
+[06.11.24 02:46:10:067]  INFO data.BoatHolder: BoatHolder: Spawning: RuneGludinBoat
+[06.11.24 02:46:10:067]  INFO data.BoatHolder: BoatHolder: Spawning: GiranTalkingIslandBoat
+[06.11.24 02:46:10:067]  INFO data.BoatHolder: BoatHolder: Spawning: InnadrilPleasureBoat
+[06.11.24 02:46:10:067]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimevalBoat
+[06.11.24 02:46:10:067]  INFO data.BoatHolder: BoatHolder: Spawning: GludinTalkingIslandBoat
+[06.11.24 02:46:10:071]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 29 static object(s).
+[06.11.24 02:46:10:099]  INFO achievements.Achievements: Achievements: Loaded 0 achievement(s) for 0 category(ies).
+[06.11.24 02:46:10:134]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
+[06.11.24 02:46:10:137]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 21:00 31.12.1969.
+[06.11.24 02:46:10:140]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
+[06.11.24 02:46:10:141]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 21:00 31.12.1969
+[06.11.24 02:46:10:147]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[06.11.24 02:46:10:161]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
+[06.11.24 02:46:10:174]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
+[06.11.24 02:46:10:177]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[06.11.24 02:46:10:181]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[06.11.24 02:46:10:186]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[06.11.24 02:46:10:187]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[06.11.24 02:46:10:187]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[06.11.24 02:46:10:187]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[06.11.24 02:46:10:190]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Attack time
+[06.11.24 02:46:10:227]  INFO threading.RunnableImpl: Wed Nov 06 02:46:10 BRT 2024 Atk announce scheduled to 50.0 minute of this hour.
+[06.11.24 02:46:10:377]  INFO bosses.FrintezzaManager: FrintezzaManager: State of Frintezza is NOTSPAWN.
+[06.11.24 02:46:10:378]  INFO bosses.FrintezzaManager: FrintezzaManager: Next spawn date of Frintezza is Wed Dec 31 21:00:00 BRT 1969.
+[06.11.24 02:46:10:381]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
+[06.11.24 02:46:10:382]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 21:00 31.12.1969.
+[06.11.24 02:46:10:383]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
+[06.11.24 02:46:10:383]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 21:00 31.12.1969.
+[06.11.24 02:46:10:384]  INFO Christmas.Christmas: Loaded Event: Christmas [state: deactivated]
+[06.11.24 02:46:10:386]  INFO CofferofShadows.CofferofShadows: Loaded Event: Coffer of Shadows [state: deactivated]
+[06.11.24 02:46:10:389]  INFO DropEvent.DropEvent: Loaded Event: Drop Event [state: deactivated]
+[06.11.24 02:46:10:391]  INFO Finder.Finder: Loaded Event: 'Finder' [state: deactivated]
+[06.11.24 02:46:10:391]  INFO GvG.GvG: Loaded Event: GvG [state: deactivated]
+[06.11.24 02:46:10:392]  INFO Halloween.Halloween: Loaded Event: 'HalloweenEvent' [state: deactivated]
+[06.11.24 02:46:10:393]  INFO PcCafePointsExchange.PcCafePointsExchange: Loaded Event: PcCafePointsExchange [state: deactivated]
+[06.11.24 02:46:10:395]  INFO SavingSnowman.SavingSnowman: Loaded Event: SavingSnowman [state: deactivated]
+[06.11.24 02:46:10:395]  INFO StraightHands.StraightHands: Loaded Event: StraightHands [state: deactivated]
+[06.11.24 02:46:10:397]  INFO TheFallHarvest.TheFallHarvest: Loaded Event: The Fall Harvest [state: deactivated]
+[06.11.24 02:46:10:398]  INFO TrickOfTrans.TrickOfTrans: Loaded Event: Trick of Trnasmutation [state: deactivated]
+[06.11.24 02:46:10:400]  INFO TvT.TvT: Loaded Event: TvT [state: deactivated]
+[06.11.24 02:46:10:402]  INFO TvT2.PvPEvent: PvPEvent: [state: inactive]
+[06.11.24 02:46:10:406]  INFO TvTArena.TvTArena1: Loaded Event: TvT Arena 1 [state: deactivated]
+[06.11.24 02:46:10:408]  INFO TvTArena.TvTArena2: Loaded Event: TvT Arena 2 [state: deactivated]
+[06.11.24 02:46:10:409]  INFO TvTArena.TvTArena3: Loaded Event: TvT Arena 3 [state: deactivated]
+[06.11.24 02:46:10:410]  INFO glitmedal.glitmedal: Loaded Event: L2 Medal Collection Event [state: deactivated]
+[06.11.24 02:46:10:411]  INFO heart.heart: Loaded Event: Change of Heart[state: deactivated]
+[06.11.24 02:46:10:412]  INFO l2day.LettersCollection: Loaded Event: l2day [state: deactivated]
+[06.11.24 02:46:10:415]  INFO lastHero.LastHero: Loaded Event: Last Hero
+[06.11.24 02:46:10:432]  INFO tables.FishTable: FishTable: Loaded 278 fishes.
+[06.11.24 02:46:10:434]  INFO tables.FishTable: FishTable: Loaded 919 fish rewards.
+[06.11.24 02:46:10:453]  INFO tables.PetDataTable: PetDataTable: Loaded 972 pets.
+[06.11.24 02:46:10:459]  INFO model.Manor: ManorManager: Loaded 256 seeds
+[06.11.24 02:46:10:681]  INFO services.Buffer: Buffer: Loaded 217 buff template(s).
+[06.11.24 02:46:10:684]  INFO services.Buffer: Buffer: Loaded 1 buff item(s).
+[06.11.24 02:46:10:694]  INFO services.QuestSell: QuestSellService: Loading ...
+[06.11.24 02:46:10:702]  INFO services.SupportMagic: SupportMagic: Loaded 14 newbie buff(s).
+[06.11.24 02:46:10:709]  INFO community.ClanCommunity: CommunityBoard: Clan Community service loaded.
+[06.11.24 02:46:10:711]  INFO community.CommunityBoard: CommunityBoard: service loaded.
+[06.11.24 02:46:10:711]  INFO community.ManageFavorites: CommunityBoard: Manage Favorites service loaded.
+[06.11.24 02:46:10:711]  INFO community.ManageFriends: CommunityBoard: Manage Friends service loaded.
+[06.11.24 02:46:10:712]  INFO community.ManageMemo: CommunityBoard: Manage Memo service loaded.
+[06.11.24 02:46:10:712]  INFO community.PrivateMail: CommunityBoard: Private Mail service loaded.
+[06.11.24 02:46:10:714]  INFO community.RegionCommunity: CommunityBoard: Region service loaded.
+[06.11.24 02:46:10:715]  INFO custom.ACbConfigManager: CommunityBoard: Custom Community Config loaded.
+[06.11.24 02:46:10:718]  INFO custom.CommunityServices: CommunityBoard: CommunityServices loaded.
+[06.11.24 02:46:10:718]  INFO custom.CommunityTeleport: CommunityBoard: CommunityTeleport loaded.
+[06.11.24 02:46:10:722]  INFO zones.AutoBuffZone: AutoBuffZone: Loaded 0 auto buff zone(s).
+[06.11.24 02:46:10:723]  INFO zones.ClassIdLimitZone: ClassIdLimitZone: Loaded 0 player class id limit zone(s).
+[06.11.24 02:46:10:725]  INFO zones.LevelLimitZone: LevelLimitZone: Loaded 1 player level limit zone(s).
+[06.11.24 02:46:10:734]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 7 room types with 58 rooms.
+[06.11.24 02:46:10:734]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 150 dimensional rift spawns, 0 errors.
+[06.11.24 02:46:10:757]  INFO oly.NoblesController: NoblesController: loaded 0 nobleses.
+[06.11.24 02:46:10:757]  INFO oly.NoblesController: NoblesController: Computing ranks.
+[06.11.24 02:46:10:765]  INFO oly.OlyController: OlyController: Season 1 start schedule at 02:47:10 06.11.2024
+[06.11.24 02:46:10:766]  INFO oly.OlyController: OlyController: Season 1 end schedule at 00:00:00 01.12.2024
+[06.11.24 02:46:10:767]  INFO oly.OlyController: OlyController: Season 1 nomination schedule at 12:00:00 01.12.2024
+[06.11.24 02:46:10:769]  INFO oly.OlyController: OlyController: Season 1 competitions schedule at [;18:00:00 06.11.2024-00:00:00 07.11.2024;18:00:00 07.11.2024-00:00:00 08.11.2024;18:00:00 08.11.2024-00:00:00 09.11.2024;18:00:00 09.11.2024-00:00:00 10.11.2024;18:00:00 10.11.2024-00:00:00 11.11.2024;18:00:00 11.11.2024-00:00:00 12.11.2024;18:00:00 12.11.2024-00:00:00 13.11.2024;18:00:00 13.11.2024-00:00:00 14.11.2024;18:00:00 14.11.2024-00:00:00 15.11.2024;18:00:00 15.11.2024-00:00:00 16.11.2024;18:00:00 16.11.2024-00:00:00 17.11.2024;18:00:00 17.11.2024-00:00:00 18.11.2024;18:00:00 18.11.2024-00:00:00 19.11.2024;18:00:00 19.11.2024-00:00:00 20.11.2024;18:00:00 20.11.2024-00:00:00 21.11.2024;18:00:00 21.11.2024-00:00:00 22.11.2024;18:00:00 22.11.2024-00:00:00 23.11.2024;18:00:00 23.11.2024-00:00:00 24.11.2024;18:00:00 24.11.2024-00:00:00 25.11.2024;18:00:00 25.11.2024-00:00:00 26.11.2024;18:00:00 26.11.2024-00:00:00 27.11.2024;18:00:00 27.11.2024-00:00:00 28.11.2024;18:00:00 28.11.2024-00:00:00 29.11.2024;18:00:00 29.11.2024-00:00:00 30.11.2024;18:00:00 30.11.2024-23:55:00 30.11.2024]
+[06.11.24 02:46:10:770]  INFO oly.OlyController: OlyController: Season 1 bonuses schedule at [18:30:00 09.11.2024;18:30:00 16.11.2024;18:30:00 23.11.2024;18:30:00 30.11.2024]
+[06.11.24 02:46:10:774]  INFO instancemanager.PetitionManager: Initializing PetitionManager
+[06.11.24 02:46:10:775]  INFO instancemanager.CoupleManager: Initializing CoupleManager
+[06.11.24 02:46:10:776]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
+[06.11.24 02:46:10:777]  INFO gameserver.GameServer: CoupleManager initialized
+[06.11.24 02:46:10:777]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 368 admin command handler(s) count.
+[06.11.24 02:46:10:777]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 15 user command handler(s) count.
+[06.11.24 02:46:10:787]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 27 voiced command handler(s) count.
+[06.11.24 02:46:10:794]  INFO gameserver.GameServer: =[Events]=========================================
+[06.11.24 02:46:10:848]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 16:00 10.11.2024
+[06.11.24 02:46:10:854]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 16:00 10.11.2024
+[06.11.24 02:46:10:858]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 20:00 10.11.2024
+[06.11.24 02:46:10:863]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 20:00 10.11.2024
+[06.11.24 02:46:10:867]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 16:00 10.11.2024
+[06.11.24 02:46:10:873]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 20:00 10.11.2024
+[06.11.24 02:46:10:877]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 20:00 10.11.2024
+[06.11.24 02:46:10:882]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 16:00 10.11.2024
+[06.11.24 02:46:10:886]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 16:00 10.11.2024
+[06.11.24 02:46:10:889]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 18.11.2024
+[06.11.24 02:46:10:890]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:890]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:891]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:892]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:892]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:893]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:894]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:894]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:895]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:896]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 15:00 04.11.2024
+[06.11.24 02:46:10:896]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 15:00 04.11.2024
+[06.11.24 02:46:10:897]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 15:00 04.11.2024
+[06.11.24 02:46:10:897]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 18:00 09.11.2024
+[06.11.24 02:46:10:898]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 09.11.2024
+[06.11.24 02:46:10:899]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:899]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:900]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:901]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 15:00 04.11.2024
+[06.11.24 02:46:10:901]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 15:00 04.11.2024
+[06.11.24 02:46:10:902]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:902]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:903]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:904]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:905]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:905]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 15:00 04.11.2024
+[06.11.24 02:46:10:906]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:906]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:907]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:908]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:908]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:909]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:909]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:910]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:911]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:911]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:912]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 15:00 04.11.2024
+[06.11.24 02:46:10:912]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:913]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:914]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:914]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 15:00 04.11.2024
+[06.11.24 02:46:10:915]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 22:00 09.11.2024
+[06.11.24 02:46:10:917]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 09.11.2024
+[06.11.24 02:46:10:918]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 18:00 09.11.2024
+[06.11.24 02:46:10:918]  INFO gameserver.GameServer: ==================================================
+[06.11.24 02:46:10:919]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
+[06.11.24 02:46:10:924]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1879010574
+[06.11.24 02:46:10:936]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[06.11.24 02:46:10:952]  INFO gameserver.Shutdown: Scheduled server restart in 2h 13m 50s.
+[06.11.24 02:46:10:953]  INFO gameserver.GameServer: GameServer Started
+[06.11.24 02:46:10:953]  INFO gameserver.GameServer: Maximum Numbers of Connected Players: 3000
+[06.11.24 02:46:11:132]  INFO authcomm.AuthServerCommunication: Connecting to authserver on 127.0.0.1:9014
+[06.11.24 02:46:11:143]  INFO as2gs.AuthResponse: Registered on authserver as 1 [Bartz]
+[06.11.24 02:46:11:153]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: DAY
+[06.11.24 02:46:11:168]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1000 npc for group: [ssq_event]
+[06.11.24 02:46:11:192]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: [ssq_event]
+[06.11.24 02:46:11:206]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2612 npc; spawns: 1716; group: [ssq_event]
+[06.11.24 02:46:11:206]  INFO gameserver.GameServer: Telnet server is currently disabled.
+[06.11.24 02:46:11:208]  INFO gameserver.GameServer: =================================================
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer: AllowedMemory: ........... 8347648 KB
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer:      Allocated: .......... 3796992 KB (45.4858%)
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer:      Non-Allocated: ...... 4550656 KB (54.5142%)
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer: AllocatedMemory: ......... 3796992 KB
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer:      Used: ............... 2352357 KB (28.1799%)
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer:      Unused (cached): .... 1444635 KB (17.3059%)
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer: UseableMemory: ........... 5995291 KB (71.8201%)
+[06.11.24 02:46:11:212]  INFO gameserver.GameServer: =================================================
+[06.11.24 02:46:41:134]  INFO tasks.RestoreOfflineTraders: Restored 0 offline traders
+[06.11.24 02:47:10:765]  INFO oly.OlyController: OlyController: Season 1 started.
+[06.11.24 02:47:26:309]  INFO oly.ParticipantPool: OlyParticipantPool: pools cleared.
+[06.11.24 02:47:26:311]  INFO oly.StadiumPool: OlyStadiumPool: stadiums cleared.

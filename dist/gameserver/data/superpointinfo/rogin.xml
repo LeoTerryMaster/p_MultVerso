@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="messenger_rogin" type="LOOP" is_running="true">
+		<node x="115744" y="-183424" z="-1472" delay="60000" />
+		<node x="115878" y="-183267" z="-1472" />
+		<node x="116116" y="-183090" z="-1496" />
+		<node x="116587" y="-184306" z="-1568" chat_type="ALL" msg_addr="HAVE_YOU_SEEN_TOROCCO_TODAY" delay="10000" />
+		<node x="116392" y="-184090" z="-1560" />
+		<node x="117083" y="-182538" z="-1520" />
+		<node x="117802" y="-182541" z="-1528" chat_type="ALL" msg_addr="HAVE_YOU_SEEN_TOROCCO" delay="10000" />
+		<node x="116720" y="-182479" z="-1512" chat_type="ALL" msg_addr="WHERE_IS_THAT_FOOL_HIDING" delay="10000" />
+		<node x="115857" y="-183287" z="-1472" />
+		<node x="115744" y="-183424" z="-1472" />
+	</moveroute>
+</list>

@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Bestow the special S-grade weapon some abilities" -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="false" notax="true" keepenchanted="true" npcid="31126" />
+
+    <!-- Aracana Mace [Acumen] -->
+    <item>
+        <ingredient id="6579" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6608" count="1" />
+    </item>
+
+    <!-- Aracana Mace [MP Regeneration] -->
+    <item>
+        <ingredient id="6579" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6609" count="1" />
+    </item>
+
+    <!-- Aracana Mace [Mana Up] -->
+    <item>
+        <ingredient id="6579" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6610" count="1" />
+    </item>
+
+    <!-- Basalt Battlehammer [HP Drain] [R13]-->
+    <item>
+        <ingredient id="6365" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6584" count="1" />
+    </item>
+
+    <!-- Basalt Battlehammer [Health] [G13]-->
+    <item>
+        <ingredient id="6365" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6585" count="1" />
+    </item>
+
+    <!-- Basalt Battlehammer [HP Regeneration] [B13]-->
+    <item>
+        <ingredient id="6365" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6586" count="1" />
+    </item>
+
+    <!-- Demon Splinter [Focus] [R13]-->
+    <item>
+        <ingredient id="6371" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6602" count="1" />
+    </item>
+
+    <!-- Demon Splinter [Health] [G13]-->
+    <item>
+        <ingredient id="6371" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6603" count="1" />
+    </item>
+
+    <!-- Demon Splinter [Crt. Stun] [B13]-->
+    <item>
+        <ingredient id="6371" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6604" count="1" />
+    </item>
+
+    <!-- Draconic Bow [Cheap Shot] [R13]-->
+    <item>
+        <ingredient id="7575" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="7576" count="1" />
+    </item>
+
+    <!-- Draconic Bow [Focus] [G13]-->
+    <item>
+        <ingredient id="7575" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="7577" count="1" />
+    </item>
+
+    <!-- Draconic Bow [Crt. Slow] [B13]-->
+    <item>
+        <ingredient id="7575" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="7578" count="1" />
+    </item>
+
+    <!-- Dragon Hunter Axe [HP Regeneration] [R13]-->
+    <item>
+        <ingredient id="6369" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6596" count="1" />
+    </item>
+
+    <!-- Dragon Hunter Axe [Health] [G13]-->
+    <item>
+        <ingredient id="6369" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6597" count="1" />
+    </item>
+
+    <!-- Dragon Hunter Axe [HP Drain] [B13]-->
+    <item>
+        <ingredient id="6369" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6598" count="1" />
+    </item>
+
+    <!-- Forgotten Blade [Haste] [R13]-->
+    <item>
+        <ingredient id="6364" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6581" count="1" />
+    </item>
+
+    <!-- Forgotten Blade [Health] [G13]-->
+    <item>
+        <ingredient id="6364" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6582" count="1" />
+    </item>
+
+    <!-- Forgotten Blade [Focus] [B13]-->
+    <item>
+        <ingredient id="6364" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6583" count="1" />
+    </item>
+
+    <!-- Heavens Divider [Haste] [R13]-->
+    <item>
+        <ingredient id="6372" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6605" count="1" />
+    </item>
+
+    <!-- Heavens Divider [Health] [G13]-->
+    <item>
+        <ingredient id="6372" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6606" count="1" />
+    </item>
+
+    <!-- Heavens Divider [Focus] [B13]-->
+    <item>
+        <ingredient id="6372" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6607" count="1" />
+    </item>
+
+    <!-- Saint Spear [Health] [R13]-->
+    <item>
+        <ingredient id="6370" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6599" count="1" />
+    </item>
+
+    <!-- Saint Spear [Guidance] [G13]-->
+    <item>
+        <ingredient id="6370" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6600" count="1" />
+    </item>
+
+    <!-- Saint Spear [Haste] [B13]-->
+    <item>
+        <ingredient id="6370" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6601" count="1" />
+    </item>
+
+    <!-- Angel Slayer [Crt. Dmg] -->
+    <item>
+        <ingredient id="6367" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6590" count="1" />
+    </item>
+
+    <!-- Angel Slayer [HP Drain] -->
+    <item>
+        <ingredient id="6367" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6591" count="1" />
+    </item>
+
+    <!-- Angel Slayer [Haste] -->
+    <item>
+        <ingredient id="6367" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6592" count="1" />
+    </item>
+
+    <!-- Imperial Staff Empower [R13] -->
+    <item>
+        <ingredient id="6366" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6587" count="1" />
+    </item>
+
+    <!-- Imperial Staff MP Regener [G13] -->
+    <item>
+        <ingredient id="6366" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6588" count="1" />
+    </item>
+
+    <!-- Imperial Staff Magic Hold [B13] -->
+    <item>
+        <ingredient id="6366" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6589" count="1" />
+    </item>
+    <!-- Shining Bow CH [B13] -->
+    <item>
+        <ingredient id="6368" count="1" />
+        <ingredient id="5908" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6593" count="1" />
+    </item>
+    <!-- Shining Bow SLOW [R13] -->
+    <item>
+        <ingredient id="6368" count="1" />
+        <ingredient id="5911" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6594" count="1" />
+    </item>
+    <!-- Shining Bow Focus [G13] -->
+    <item>
+        <ingredient id="6368" count="1" />
+        <ingredient id="5914" count="1" />
+        <ingredient id="2134" count="82" />
+        <production id="6595" count="1" />
+    </item>
+</list>

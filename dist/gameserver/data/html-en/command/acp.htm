@@ -1,0 +1,39 @@
+<html>
+<title>ACP</title>
+<body>
+
+<center>
+<br><br><br>
+<table width=260 border=0 cellspacing=0 cellpadding=0>
+
+<tr>
+	<td width=60 align="right"><font color="FF0000">HP</font>:&nbsp;</td>
+	<td width=60>%hpap%</td>
+	<td width=50 align="center"><edit var="hap" width=30 type="number" length="3"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp hp $hap" value="Set"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp hp true" value="On"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp hp false" value="Off"></td>
+</tr>
+
+<tr>
+	<td width=60 align="right"><font color="FFFF00">CP</font>:&nbsp;</td>
+	<td width=60>%cpap%</td>
+	<td width=50 align="center"><edit var="cap" width=30 type="number" length="3"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp cp $cap" value="Set"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp cp true" value="On"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp cp false" value="Off"></td>
+</tr>
+
+<tr>
+	<td width=60 align="right"><font color="0000FF">MP</font>:&nbsp;</td>
+	<td width=60>%mpap%</td>
+	<td width=50 align="center"><edit var="map" width=30 type="number" length="3"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp mp $map" value="Set"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp mp true" value="On"></td>
+	<td width=30><button width=26 height=21 fore="L2UI_CH3.tab2" back="L2UI_CH3.tab2_down" action="bypass -h user_acp mp false" value="Off"></td>
+</tr>
+
+</table>
+</center>
+</body>
+</html>

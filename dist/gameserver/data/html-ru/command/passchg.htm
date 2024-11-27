@@ -1,0 +1,54 @@
+<html x=100 y=100 TEXTANI=on NOSCROLLBAR=yes>
+<body DEFFON=1>
+<center>
+	<table fixwidth=270 border=0 cellspacing=0 cellpadding=0>
+		<tr><td>
+			<table fixwidth=270 height=29 border=0 cellspacing=0 cellpadding=0>
+			<tr>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab_on" fore="L2UI_CH3.normal_tab_on" value="Cfg" action="bypass -h user_cfg"></td>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab" fore="L2UI_CH3.normal_tab" value="Password"></td>
+				<td fixwidth=72><button width=74 height=28 back="L2UI_CH3.normal_tab_on" fore="L2UI_CH3.normal_tab_on" value="Repir" action="bypass -h user_repair"></td>
+			</tr>
+			</table>
+		</td></tr>
+		<tr><td>
+			<center>
+				<table fixwidth=270 height=280 border=0 cellspacing=0 cellpadding=5 bgcolor="333333">
+					<tr>
+						<td>
+							<table width=260 height=270 border=0 cellspacing=0 cellpadding=0 bgcolor="000000">
+								<tr>
+									<td width=260 height=270 valign="top" align="left">
+
+<center>
+<table width=270 border=0 cellspacing=5 cellpadding=0>
+    <tr>
+        <td width=100 align=right>Старый пароль:</td>
+        <td width=150 align=left><edit var="old" width=140 height=14 length="18"></td>
+        <td width=10 align=left>*</td>
+    </tr>
+    <tr>
+        <td width=100 align=right>Новый пароль:</td>
+        <td width=150 align=left><edit var="new" width=140 height=14 length="14"></td>
+        <td width=10 align=left>*</td>
+    </tr>
+</table>
+<br>
+   <button value="OK" action="bypass -h user_password $old $new" back="L2UI_CH3.smallbutton1_down" width=47 height=21 fore="L2UI_CH3.smallbutton1">
+	&nbsp;* - 4-14 латинских символов или цифер, _ и -<br><br>
+</center>
+<br>
+	
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</center>
+		</td></tr>
+	</table>
+</center>
+
+</body>
+</html>

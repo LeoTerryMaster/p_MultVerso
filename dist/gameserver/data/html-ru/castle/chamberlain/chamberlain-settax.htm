@@ -1,0 +1,20 @@
+![Установка налогов]
+
+Ставка налогов на сегодня составляет <font color="00FFFF">%CurrentTax% %</font>, налог на завтрашний день будет составлять <font color="00FFFF">%CurrentTax% %</font>.
+
+Налог может быть установлен в пределах *0% ~ 15%*. Новый налог вступает в силу в полночь того дня, в который произошли изменения.
+
+Учтите, что налог будет составлять *0%*, если вы нажмете "OK" и при этом ничего не введете в поле значений.
+
+<center>
+<table width=170 height=27 bgcolor="CCCCCC">
+<tr>
+<td width=80 align=center>Введите:</td>
+<td width=50 align=right><edit type=number var="tax_rate" width="30" length=2></td><td width=15 align=left>%</td>
+<td>
+<button value="OK" action="bypass -h npc_%objectId%_tax_set $tax_rate" width=67 height=19 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton">
+</td></tr>
+</table>
+
+<button value="Отмена" action="bypass -h npc_%objectId%_default" width=67 height=19 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton">
+</center>

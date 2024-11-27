@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<list>
+    <!-- Work params:
+    id="959" - Scroll Enchant ID
+    infallible="false/true" - destroy item on fail or not
+    on_fail="CRYSTALIZE/RESET/NONE" - CRYSTALIZE : Drop on Crystals. RESET: Reset to 0. NONE: Keep enchant level after fail but not increase.
+    chance_bonus="" additional chance bonus cal on formula Chance*additionChance=Final Chance
+    grade="" - Grade of Item enchant condition
+    levels min="0" max="20" - Min Enchant level for scroll and Max enchant Level
+    items_restrict - scroll can ecnhant WEAPON or ARMOR item type
+
+    ADDITIONAL:
+    reset_lvl="3" - drop enchant level on this param if scroll have on_fail="RESET" item will decrise enchant level to 3 or any number
+    Simple:
+    <scroll id="10998" infallible="false" reset_lvl="3" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+
+    increment="" - enchant level step - if u setup increment="3" scroll will be up level of enchant to 3
+    Simple:
+    <scroll id="10999" infallible="false" increment="3" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+
+    -->
+
+    <!-- Normal Enchant Scroll -->
+    <scroll id="959" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="960" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="729" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="730" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="947" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="948" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="951" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="952" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="955" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="956" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <!-- Crystal Scrolls -->
+    <scroll id="961" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="962" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="731" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="732" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="949" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="950" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="953" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="954" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="957" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="958" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <!-- Blessed Enchant Scroll -->
+    <scroll id="6577" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="6578" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="6569" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="6570" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="6571" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="6572" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="6573" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="6574" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+    <scroll id="6575" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+    </scroll>
+    <scroll id="6576" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+</list>

@@ -1,0 +1,25 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <instance id="10" name="Giran Harbor Offshore" maxChannels="1" collapseIfEmpty="1">
+        <level min="1" max="85"/>
+        <teleport loc="47416 186568 -3480" />
+        <doors/>
+        <spawns>
+            <spawn mobId="30086" type="point">
+                <coords loc="48059 186791 -3512 42000"/>
+            </spawn>
+            <spawn mobId="40030" type="point">
+                <coords loc="47984 186832 -3445 42000"/>
+            </spawn>
+            <spawn mobId="30839" type="point">
+                <coords loc="48146 186753 -3512 42000"/>
+            </spawn>
+            <spawn mobId="31860" type="point">
+                <coords loc="48129 186828 -3512 45452"/>
+            </spawn>
+            <spawn mobId="30300" type="point">
+                <coords loc="48102 186772 -3512 42000"/>
+            </spawn>
+        </spawns>
+    </instance>
+</list>

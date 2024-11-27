@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+    <!-- Custom spawn for Services -->
+    <!-- Giran -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="82224 148606 -3472 0"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="82210 148731 -3472 0"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="82211 148489 -3472 0"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="82808 147784 -3464 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="83454 147902 -3400 16383"/>
+    </spawn>
+    <!-- Aden -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="147210 25601 -2016 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="147157 25592 -2008 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="147085 25942 -2008 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="147704 25992 -2008 32767"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="146733 25853 -2016 32767"/>
+    </spawn>
+    <!-- Goddard -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="148153 -55871 -2776 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="148178 -55829 -2776 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="147304 -55912 -2776 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="147272 -55864 -2776 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="148013 -55225 -2728 49151"/>
+    </spawn>
+    <!-- Rune -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="44078 -47689 -792 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="44115 -47685 -792 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="44160 -47676 -792 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="44208 -47665 -792 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="43862 -47662 -792 49151"/>
+    </spawn>
+    <!-- Dion -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="15656 142792 -2696 8191"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="15685 142787 -2696 8191"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="15722 142780 -2696 8191"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="15764 142778 -2696 8191"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="15596 142883 -2704 16383"/>
+    </spawn>
+    <!-- Oren -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="82449 53246 -1496 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="82395 53248 -1488 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="82339 53246 -1488 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="82282 53246 -1488 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="82994 53131 -1488 32767"/>
+    </spawn>
+    <!-- Gludio -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="-12552 122552 -3120 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="-12617 122551 -3120 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="-12682 122558 -3120 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="-12753 122560 -3120 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="-12784 122818 -3120 40959"/>
+    </spawn>
+    <!-- Gludin -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="-80472 149576 -3040 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="-80538 149571 -3040 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="-80595 149567 -3040 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="-80666 149567 -3040 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="-80712 149816 -3040 24575"/>
+    </spawn>
+    <!-- Schuttgart-->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="87016 -142728 -1336 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="86964 -142771 -1336 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="87720 -142727 -1336 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="87767 -142782 -1336 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="87016 -143449 -1288 16383"/>
+    </spawn>
+    <!-- Heine -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="111663 219217 -3504 44315"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="111710 219217 -3536 44315"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="111756 219216 -3536 44315"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="111804 219214 -3536 44315"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="111336 219416 -3544 49151"/>
+    </spawn>
+    <!-- Hunter -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="117112 77080 -2688 36123"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="117104 77112 -2688 36123"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="117084 77145 -2688 36123"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="117034 77191 -2688 36123"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="117112 76968 -2704 32767"/>
+    </spawn>
+    <!-- Floran -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="17736 170504 -3504 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="17780 170507 -3504 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="17830 170507 -3504 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="17879 170509 -3504 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="17933 170511 -3504 49151"/>
+    </spawn>
+    <!-- Human -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="-84152 242776 -3728 57343"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="-84188 242769 -3728 57343"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="-84024 242920 -3728 60699"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="-84017 242968 -3728 60699"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="-84136 242344 -3728 0"/>
+    </spawn>
+    <!-- Dwar -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="116696 -183176 -1568 23095"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="116719 -183147 -1568 23095"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="116743 -183110 -1568 23095"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="116761 -183072 -1568 23095"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="116774 -183009 -1568 23095"/>
+    </spawn>
+    <!-- Ork -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="-45288 -113160 -240 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="-45344 -113146 -240 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="-45385 -113144 -240 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="-45427 -113145 -240 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="-45016 -113512 -192 29412"/>
+    </spawn>
+    <!-- Dark Elvin -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="12360 17016 -4584 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="12405 17008 -4576 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="12459 16995 -4584 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="12518 16985 -4584 49151"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="12120 16728 -4584 0"/>
+    </spawn>
+    <!-- Elvins -->
+    <spawn name="[custom_spawn]" event_name="[gm_shop]">
+        <npc id="40013" count="1" respawn="60" pos="45433 46617 -2992 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[npc_buffer]">
+        <npc id="40010" count="1" respawn="60" pos="45368 46612 -2992 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_services]">
+        <npc id="40025" count="1" respawn="60" pos="45307 46615 -2992 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[auctioner]">
+        <npc id="40026" count="1" respawn="60" pos="45249 46621 -2992 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[global_gatekeeper]">
+        <npc id="40012" count="1" respawn="60" pos="45910 46724 -2992 16383"/>
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="83432 149272 -3400 49151" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="146920 26648 -2208 16383" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="148296 -55480 -2776 49151" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="44584 -48408 -792 16383" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="18504 144600 -3056 8191" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="82776 54648 -1520 49151" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="-14792 124040 -3112 49151" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="-82405 151620 -3120 49151" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="86760 -143160 -1344 16383" />
+    </spawn>
+    <spawn name="[custom_spawn]" event_name="[pvp_event_manager]">
+        <npc id="40027" count="1" respawn="60" pos="112488 220120 -3600 32767" />
+    </spawn>
+</list>

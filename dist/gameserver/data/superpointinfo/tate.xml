@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="porter_tate" type="LOOP">
+		<node x="115824" y="-181564" z="-1336" delay="20000" />
+		<node x="116048" y="-181575" z="-1352" chat_type="ALL" msg_addr="CARE_TO_GO_A_ROUND" />
+		<node x="116521" y="-181476" z="-1384" />
+		<node x="116632" y="-180022" z="-1160" />
+		<node x="115355" y="-178617" z="-928" />
+		<node x="115763" y="-177585" z="-888" />
+		<node x="115795" y="-177361" z="-880" chat_type="ALL" msg_addr="HAVE_A_NICE_DAY_MR_GARITA_AND_MION" />
+		<node x="115877" y="-177338" z="-880" delay="15000" />
+		<node x="115783" y="-177493" z="-880" />
+		<node x="115112" y="-179836" z="-880" />
+		<node x="115102" y="-180026" z="-872" />
+		<node x="114876" y="-180045" z="-872" chat_type="ALL" msg_addr="MR_LID_MURDOC_AND_AIRY" delay="30000" />
+		<node x="114840" y="-179694" z="-872" />
+		<node x="116322" y="-179602" z="-1088" />
+		<node x="116792" y="-180386" z="-1200" />
+		<node x="116319" y="-181573" z="-1384" />
+		<node x="115824" y="-181564" z="-1336" />
+	</moveroute>
+</list>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Black Marketer of Mammon: "Make a transaction for black market goods." -->
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="true" keepenchanted="false" />
+
+  <!-- Ancient Book - Divine Inspiration (Modern Language Version) -->
+  <item>
+    <ingredient id="57" count="400000"/>
+    <production id="8618" count="1"/>
+  </item>
+
+</list>

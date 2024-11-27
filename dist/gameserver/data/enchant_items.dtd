@@ -1,0 +1,28 @@
+<!ELEMENT list (scroll | catalyzer)*>	
+<!ELEMENT scroll (levels|items_restrict)*>
+<!ATTLIST scroll
+	id CDATA #REQUIRED
+	infallible CDATA #REQUIRED
+	on_fail CDATA #REQUIRED
+	chance_bonus CDATA #REQUIRED
+    reset_lvl CDATA #IMPLIED
+	grade CDATA #REQUIRED
+    increment CDATA #IMPLIED>
+<!ELEMENT levels (#PCDATA)>
+<!ATTLIST levels
+	min CDATA #REQUIRED
+	max CDATA #REQUIRED>
+<!ELEMENT items_restrict (item)*>
+<!ATTLIST items_restrict
+	type CDATA #REQUIRED>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+	id CDATA #REQUIRED>
+<!ELEMENT catalyzer (#PCDATA)>
+<!ATTLIST catalyzer
+	id CDATA #REQUIRED
+	chance_bonus CDATA #REQUIRED
+	grade CDATA #REQUIRED
+	min CDATA #REQUIRED
+	max CDATA #REQUIRED
+	type CDATA #REQUIRED>

@@ -1,0 +1,15 @@
+<!ELEMENT list (capsule)*>
+<!ELEMENT capsule (item)*>
+<!ATTLIST capsule
+          itemId CDATA #REQUIRED
+          requiredItemId CDATA #IMPLIED
+          requiredItemAmount CDATA #IMPLIED>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+          id CDATA #REQUIRED
+          max CDATA #REQUIRED
+          min CDATA #REQUIRED
+          chance CDATA #REQUIRED
+          enchant_min CDATA #IMPLIED
+          enchant_max CDATA #IMPLIED>
+

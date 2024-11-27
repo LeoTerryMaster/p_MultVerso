@@ -1,0 +1,26 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<instance id="802" name="PvP Instance Rune" maxChannels="20" collapseIfEmpty="10" timelimit="30" dispelBuffs="false" respawn="60">
+		<geodata map="20_16"/>
+		<reuse resetReuse="* * * * *" setUponEntry="true" sharedReuseGroup="0"/>
+		<spawns/>
+		<doors/>
+		<level min="80" max="85"/>
+		<return loc="42760 -48248 -800"/>
+		<teleport loc="42760 -48248 -800"/>
+		<collapse on-party-dismiss="false" timer="60"/>
+		<quest id="0"/>
+		<remove itemId="0" count="0" necessary="false"/>
+		<give itemId="0" count="0"/>
+		<zones>
+			<zone name="[pvp_802_tvt_default]" active="true"/>
+			<zone name="[pvp_802_tvt_spawn_red]" active="true"/>
+			<zone name="[pvp_802_tvt_spawn_blue]" active="true"/>
+			<zone name="[pvp_802_dm_default]" active="true"/>
+			<zone name="[pvp_802_dm_spawn]" active="true"/>
+			<zone name="[pvp_802_ctf_default]" active="true"/>
+			<zone name="[pvp_802_ctf_spawn_red]" active="true"/>
+			<zone name="[pvp_802_ctf_spawn_blue]" active="true"/>
+		</zones>
+	</instance>
+</list>

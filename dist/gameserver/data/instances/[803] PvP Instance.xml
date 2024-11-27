@@ -1,0 +1,33 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+<instance id="803" name="Cloud Mountain Fortress" maxChannels="20" collapseIfEmpty="10" timelimit="30" dispelBuffs="false" respawn="60">
+        <geodata map="18_20"/>
+        <reuse resetReuse="* * * * *" setUponEntry="true" sharedReuseGroup="0"/>
+        <spawns/>
+        <doors>
+           <door id="18200004" opened="true"/>
+           <door id="18200005" opened="true"/>
+           <door id="18200006" opened="true"/>
+           <door id="18200007" opened="true"/>
+           <door id="18200008" opened="true"/>
+           <door id="18200009" opened="true"/>
+        </doors>
+        <level min="80" max="85"/>
+        <return loc="42760 -48248 -800"/>
+        <teleport loc="42760 -48248 -800"/>
+        <collapse on-party-dismiss="false" timer="60"/>
+        <quest id="0"/>
+        <remove itemId="0" count="0" necessary="false"/>
+        <give itemId="0" count="0"/>
+        <zones>
+                <zone name="[pvp_803_tvt_default]" active="true"/>
+                <zone name="[pvp_803_tvt_spawn_red]" active="true"/>
+                <zone name="[pvp_803_tvt_spawn_blue]" active="true"/>
+                <zone name="[pvp_803_dm_default]" active="true"/>
+                <zone name="[pvp_803_dm_spawn]" active="true"/>
+                <zone name="[pvp_803_ctf_default]" active="true"/>
+                <zone name="[pvp_803_ctf_spawn_red]" active="true"/>
+                <zone name="[pvp_803_ctf_spawn_blue]" active="true"/>
+        </zones>
+</instance>
+</list>

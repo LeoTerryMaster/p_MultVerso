@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+        <!ELEMENT list (class)*>
+        <!ELEMENT class (items)*>
+        <!ATTLIST class
+                id CDATA #REQUIRED>
+        <!ELEMENT items (weapon|armor|shield)*>
+        <!ATTLIST items
+                grade CDATA #REQUIRED>
+        <!ELEMENT weapon (#PCDATA)>
+        <!ATTLIST weapon
+                item_id CDATA #REQUIRED>
+        <!ELEMENT armor (#PCDATA)>
+        <!ATTLIST armor
+                set_id CDATA #REQUIRED>
+        <!ELEMENT shield (#PCDATA)>
+        <!ATTLIST shield
+                item_id CDATA #REQUIRED>

@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "variation_group.dtd">
+<list>
+	<variation_group name="a_64">
+		<items>80 98 150 212 235 269 288 2504 5233 5596 5597 5598 5599 5600 5601 5608 5609 5610 5614 5615 5616 5620 5621 5622 5626 5627 5628 5635 5636 5637 5638 5639 5640 7884 7894 7899 8108 8109 8110 8126 8127 8128 8147 8148 8149</items>
+		<fee cancelPrice="330000">
+			<mineral itemId="8723" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2131" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="a_67">
+		<items>81 151 164 213 236 270 289 305 2500 5602 5603 5604 5605 5606 5607 5611 5612 5613 5617 5618 5619 5623 5624 5625 5632 5633 5634 5641 5642 5643 5644 5645 5646 5647 5648 5649 5705 5706 7895 7902 8135 8136 8137 8150 8151 8152</items>
+		<fee cancelPrice="390000">
+			<mineral itemId="8723" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2131" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="a_70">
+		<items>6533 8678 8679 8680 8681 8682 8683 8684 8685 8686 8687 8688 8788 8789 8790 8791 8792 8793 8794 8795 8796 8797 8798 8799 8800 8801 8802 8803 8804 8805 8806 8807 8808 8809 8810 8811 8812 8813 8814 8815 8816 8817 8818 8819 8820 8938</items>
+		<fee cancelPrice="420000">
+			<mineral itemId="8723" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2131" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2131" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="b_58">
+		<items>78 91 92 142 148 229 243 267 284 300 2566 2567 2568 2569 2570 2571 2576 2577 2578 2579 2580 2585 2586 2587 2588 2589 2593 2594 2595 2596 2597 2600 2601 2602 2603 2604 2606 2607 2608 2609 2610 2612 2613 2614 2615 2617 2618 2619 2621 2622 2624 4714 4715 4716 4723 4724 4725 4747 4748 4749 4777 4778 4779 4801 4802 4803 4825 4826 4827 4855 4856 4857 4897 4898 4899 7722 7723 7724 7813 7814 7815 7892 7900 8129 8130 8131 8141 8142 8143</items>
+		<fee cancelPrice="240000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="30" />
+		</fee>
+	</variation_group>
+	<variation_group name="b_61">
+		<items>79 97 171 175 210 234 268 287 2581 2590 2598 2605 2611 2616 2620 2623 2625 2626 4717 4718 4719 4750 4751 4752 4753 4754 4755 4780 4781 4782 4804 4805 4806 4828 4829 4830 4858 4859 4860 4900 4901 4902 6359 6532 7883 7889 7893 7901 8105 8106 8107 8117 8118 8119 8132 8133 8134 8144 8145 8146</items>
+		<fee cancelPrice="270000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="30" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="30" />
+		</fee>
+	</variation_group>
+	<variation_group name="c_46">
+		<items>71 72 89 96 160 161 173 191 192 193 194 226 230 232 263 281 298 302 2523 2524 2531 2538 2544 2549 2551 2552 2555 4681 4682 4683 4711 4712 4713 4726 4727 4728 4729 4730 4731 4732 4733 4734 4735 4736 4737 4759 4760 4761 4762 4763 4764 4789 4790 4791 4810 4811 4812 4834 4835 4836 4837 4838 4839 4840 4841 4842 4864 4865 4866 4867 4868 4869 4870 4871 4872 6356 7701 7702 7703 7887 8111 8112 8113</items>
+		<fee cancelPrice="95000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="c_49">
+		<items>73 74 94 131 133 195 227 242 282 285 325 2502 2532 2539 2545 2550 2553 2554 2556 2557 2558 4233 4684 4685 4686 4687 4688 4689 4690 4691 4692 4693 4694 4695 4738 4739 4740 4765 4766 4767 4798 4799 4800 4813 4814 4815 4816 4817 4818 4843 4844 4845 4873 4874 4875 6357 7810 7811 7812</items>
+		<fee cancelPrice="115000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="c_52">
+		<items>75 76 77 84 95 132 134 145 162 174 196 197 198 199 200 201 202 231 233 265 283 326 2559 2560 4696 4697 4698 4699 4700 4701 4702 4703 4704 4705 4706 4707 4741 4742 4743 4768 4769 4770 4771 4772 4773 4792 4793 4794 4819 4820 4821 4876 4877 4878 4879 4880 4881 4882 4883 4884 6307 6308 6309 6310 6311 6312 6313 6314 6315 6531 7704 7705 7706 7707 7708 7709 7710 7711 7712 7713 7714 7715 7716 7717 7718 7719 7720 7721 7882 7898 8102 8103 8104 8123 8124 8125</items>
+		<fee cancelPrice="150000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="c_55">
+		<items>135 203 204 205 206 228 266 286 299 301 303 2503 2561 2562 2563 2564 2565 2572 2573 2574 2575 2582 2583 2584 2591 2592 2599 4708 4709 4710 4744 4745 4746 4774 4775 4776 4795 4796 4797 4822 4823 4824 4846 4847 4848 4849 4850 4851 4852 4853 4854 4885 4886 4887 4888 4889 4890 4891 4892 4893 4894 4895 4896 5286 6347 6348 6349 6358 7888 7891 7897 8114 8115 8116 8120 8121 8122 8138 8139 8140</items>
+		<fee cancelPrice="210000">
+			<mineral itemId="8723" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8724" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8725" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8726" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8727" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8728" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8729" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8730" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8731" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8732" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8733" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8734" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8735" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8736" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8737" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8738" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8739" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8740" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8741" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8742" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8743" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8744" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8745" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8746" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8747" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8748" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8749" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8750" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8751" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8752" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8753" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8754" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8755" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8756" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8757" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8758" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8759" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8760" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8761" gemstoneItemId="2130" gemstoneItemCnt="20" />
+			<mineral itemId="8762" gemstoneItemId="2130" gemstoneItemCnt="20" />
+		</fee>
+	</variation_group>
+	<variation_group name="s_75">
+		<items>6364 6365 6366 6367 6369 6370 6371 6372 6534 6579 6580 6581 6582 6583 6584 6585 6586 6587 6588 6589 6590 6591 6592 6596 6597 6598 6599 6600 6601 6602 6603 6604 6605 6606 6607 6608 6609 6610 6368 6593 6594 6595 7575 7576 7577 7578</items>
+		<fee cancelPrice="480000">
+			<mineral itemId="8723" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8724" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8725" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8726" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8727" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8728" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8729" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8730" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8731" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8732" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8733" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8734" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8735" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8736" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8737" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8738" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8739" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8740" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8741" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8742" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8743" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8744" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8745" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8746" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8747" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8748" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8749" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8750" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8751" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8752" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8753" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8754" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8755" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8756" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8757" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8758" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8759" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8760" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8761" gemstoneItemId="2131" gemstoneItemCnt="25" />
+			<mineral itemId="8762" gemstoneItemId="2131" gemstoneItemCnt="25" />
+		</fee>
+	</variation_group>
+</list>

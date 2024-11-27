@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="flame_keeper_yakand" type="LOOP">
+		<node x="-48820" y="-113748" z="-232" />
+		<node x="-47365" y="-113618" z="-224" />
+		<node x="-45678" y="-113635" z="-240" />
+		<node x="-45168" y="-114038" z="-224" />
+		<node x="-44671" y="-114185" z="-240" />
+		<node x="-44199" y="-113763" z="-240" />
+		<node x="-44312" y="-113201" z="-240" />
+		<node x="-44844" y="-112958" z="-240" />
+		<node x="-45717" y="-113564" z="-240" />
+		<node x="-47370" y="-113588" z="-224" />
+		<node x="-48821" y="-113496" z="-232" delay="10000" />
+		<node x="-48820" y="-113748" z="-232" />
+	</moveroute>
+</list>

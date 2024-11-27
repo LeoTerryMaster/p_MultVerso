@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT list (template)*>
+<!ELEMENT template (consume|produce)*>
+<!ATTLIST template
+        menuId CDATA #REQUIRED
+        target CDATA #REQUIRED>
+<!ELEMENT consume (item)*>
+<!ATTLIST consume
+        anyFirst CDATA #IMPLIED>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+        id CDATA #REQUIRED
+        amount CDATA #REQUIRED
+        from_level CDATA #IMPLIED>
+<!ELEMENT produce (skill)*>
+<!ELEMENT skill (#PCDATA)>
+<!ATTLIST skill
+        id CDATA #REQUIRED
+        level CDATA #REQUIRED>

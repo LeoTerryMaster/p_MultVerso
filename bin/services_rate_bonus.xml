@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "services_rate_bonus.dtd">
+<list>
+    <rate_bonus id="1" consume_item_id="4037" consume_item_amount="250">
+        <exp value="1.2" />
+        <sp value="1.2" />
+        <quest_reward value="1.2" />
+        <quest_drop value="1.2" />
+        <drop_adena value="1.2" />
+        <drop_items value="1.2" />
+        <drop_raid_item value="1.0" />
+        <drop_spoil value="1.2" />
+        <enchant_item_mul value="1.0" />
+        <bonus_days value="2" />
+        <!-- additional reward -->
+        <!-- <reward item_id="4037" item_count="1" />
+             <reward item_id="57" item_count="100" />
+             <name_color value="00FCA0" />
+        -->
+    </rate_bonus>
+    <rate_bonus id="2" consume_item_id="4037" consume_item_amount="1500">
+        <exp value="1.2" />
+        <sp value="1.2" />
+        <quest_reward value="1.2" />
+        <quest_drop value="1.2" />
+        <drop_adena value="1.2" />
+        <drop_items value="1.2" />
+        <drop_raid_item value="1.0" />
+        <drop_spoil value="1.2" />
+        <enchant_item_mul value="1.0" />
+        <bonus_days value="30" />
+        <!-- additional reward -->
+        <!-- <reward item_id="4037" item_count="1" />
+             <reward item_id="57" item_count="100" />
+             <name_color value="A0A601" />
+        -->
+    </rate_bonus>
+</list>

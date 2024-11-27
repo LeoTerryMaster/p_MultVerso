@@ -1,0 +1,17 @@
+<!ELEMENT list (variation_group)*>
+<!ELEMENT variation_group (items|fee)*>
+<!ATTLIST variation_group
+	name CDATA #REQUIRED>
+	
+<!ELEMENT items (#PCDATA)>
+
+<!ELEMENT fee (mineral)*>
+<!ATTLIST fee
+	cancelPrice CDATA #REQUIRED>
+	
+<!ELEMENT mineral (#PCDATA)*>
+<!ATTLIST mineral
+	itemId CDATA #REQUIRED
+	gemstoneItemId CDATA #REQUIRED
+	gemstoneItemCnt CDATA #REQUIRED>
+	

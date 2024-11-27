@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "armor_sets.dtd">
+<list>
+	<set id="1" chest="23" legs="2386" head="43" skills="3500-1" />
+	<set id="2" chest="1101" legs="1104" head="44" skills="3501-1" />
+	<set id="3" chest="9670" legs="9671" head="9669" skills="3359-1" />
+	<set id="4" chest="58" legs="59" head="47" skills="3502-1" shield="628" shield_skills="3543-1" enchant6skills="3611-1" />
+	<set id="5" chest="352" legs="2378" head="2411" skills="3506-1" shield="2493" shield_skills="3544-1" enchant6skills="3611-1" />
+	<set id="6" chest="394" legs="416" feet="2422" skills="3503-1" enchant6skills="3612-1" />
+	<set id="7" chest="395" legs="417" feet="2424" skills="3505-1" enchant6skills="3612-1" />
+	<set id="8" chest="436" legs="469" gloves="2447" skills="3504-1" enchant6skills="3613-1" />
+	<set id="9" chest="437" legs="470" gloves="2450" skills="3507-1" enchant6skills="3613-1" />
+	<set id="10" chest="7851" head="7850" gloves="7852" feet="7853" skills="3605-1" enchant6skills="3611-1" />
+	<set id="11" chest="7854" head="7850" gloves="7855" feet="7856" skills="3606-1" enchant6skills="3612-1" />
+	<set id="12" chest="7857" head="7850" gloves="7858" feet="7859" skills="3607-1" enchant6skills="3613-1" />
+	<set id="13" chest="9821" head="9820" gloves="9822" feet="9823" skills="3605-1" enchant6skills="3611-1" />
+	<set id="14" chest="9824" head="9820" gloves="9825" feet="9826" skills="3606-1" enchant6skills="3612-1" />
+	<set id="15" chest="9827" head="9820" gloves="9828" feet="9829" skills="3607-1" enchant6skills="3613-1" />
+	<set id="16" chest="354" legs="381" head="2413" skills="3509-1" shield="2495" shield_skills="3545-1" enchant6skills="3614-1" />
+	<set id="17" chest="60" head="517" skills="3512-1" shield="107" shield_skills="3546-1" enchant6skills="3614-1" />
+	<set id="18" chest="356" head="2414" skills="3516-1" shield="2497" shield_skills="3547-1" enchant6skills="3614-1" />
+	<set id="19" chest="397" legs="2387" feet="62" skills="3508-1" enchant6skills="3615-1" />
+	<set id="20" chest="398" legs="418" feet="2431" skills="3511-1" enchant6skills="3615-1" />
+	<set id="21" chest="400" legs="420" feet="2436" skills="3514-1" enchant6skills="3615-1" />
+	<set id="22" chest="401" feet="2437" skills="3515-1" enchant6skills="3615-1" />
+	<set id="23" chest="439" legs="471" gloves="2454" skills="3510-1" enchant6skills="3616-1" />
+	<set id="24" chest="441" legs="472" gloves="2459" skills="3513-1" enchant6skills="3616-1" />
+	<set id="25" chest="442" legs="473" gloves="2463" skills="3517-1" enchant6skills="3616-1" />
+	<set id="26" chest="357" legs="383" head="503" gloves="5710" feet="5726" skills="3518-1" shield="633" shield_skills="3547-1" enchant6skills="3617-1" />
+	<set id="27" chest="2384" legs="2388" head="503" gloves="5711" feet="5727" skills="3520-1" enchant6skills="3618-1" />
+	<set id="28" chest="2397" legs="2402" head="503" gloves="5712" feet="5728" skills="3522-1" enchant6skills="3619-1" />
+	<set id="29" chest="2376" legs="2379" head="2415" gloves="5714" feet="5730" skills="3519-1" shield="673" shield_skills="3548-1" enchant6skills="3617-1" />
+	<set id="30" chest="2390" head="2415" gloves="5715" feet="5731" skills="3521-1" enchant6skills="3618-1" />
+	<set id="31" chest="2406" head="2415" gloves="5716" feet="5732" skills="3523-1" enchant6skills="3619-1" />
+	<set id="32" chest="358" legs="2380" head="2416" gloves="5718" feet="5734" skills="3524-1" enchant6skills="3617-1" />
+	<set id="33" chest="2391" head="2416" gloves="5719" feet="5735" skills="3526-1" enchant6skills="3618-1" />
+	<set id="34" chest="2398" legs="2403" head="2416" gloves="5720" feet="5736" skills="3528-1" enchant6skills="3619-1" />
+	<set id="35" chest="2381" head="2417" gloves="5722" feet="5738" skills="3525-1" shield="110" shield_skills="3549-1" enchant6skills="3617-1" />
+	<set id="36" chest="2392" head="2417" gloves="5723" feet="5739" skills="3527-1" enchant6skills="3618-1" />
+	<set id="37" chest="2399" legs="2404" head="2417" gloves="5724" feet="5740" skills="3529-1" enchant6skills="3619-1" />
+	<set id="38" chest="365" legs="388" head="512" gloves="5765" feet="5777" skills="3530-1" shield="641" shield_skills="3550-1" enchant6skills="3620-1" />
+	<set id="39" chest="2385" legs="2389" head="512" gloves="5766" feet="5778" skills="3532-1" enchant6skills="3621-1" />
+	<set id="40" chest="2407" head="512" gloves="5767" feet="5779" skills="3535-1" enchant6skills="3622-1" />
+	<set id="41" chest="2382" head="547" gloves="5768" feet="5780" skills="3531-1" enchant6skills="3620-1" />
+	<set id="42" chest="2393" head="547" gloves="5769" feet="5781" skills="3533-1" enchant6skills="3621-1" />
+	<set id="43" chest="2400" legs="2405" head="547" gloves="5770" feet="5782" skills="3534-1" enchant6skills="3622-1" />
+	<set id="44" chest="374" head="2418" gloves="5771" feet="5783" skills="3536-1" shield="2498" shield_skills="3551-1" enchant6skills="3620-1" />
+	<set id="45" chest="2394" head="2418" gloves="5772" feet="5784" skills="3538-1" enchant6skills="3621-1" />
+	<set id="46" chest="2408" head="2418" gloves="5773" feet="5785" skills="3540-1" enchant6skills="3622-1" />
+	<set id="47" chest="2383" head="2419" gloves="5774" feet="5786" skills="3537-1" enchant6skills="3620-1" />
+	<set id="48" chest="2395" head="2419" gloves="5775" feet="5787" skills="3539-1" enchant6skills="3621-1" />
+	<set id="49" chest="2409" head="2419" gloves="5776" feet="5788" skills="3541-1" enchant6skills="3622-1" />
+	<set id="50" chest="7861" head="7860" gloves="7862" feet="7863" skills="3608-1" enchant6skills="3620-1" />
+	<set id="51" chest="7864" head="7860" gloves="7865" feet="7866" skills="3609-1" enchant6skills="3621-1" />
+	<set id="52" chest="7867" head="7860" gloves="7868" feet="7869" skills="3610-1" enchant6skills="3622-1" />
+	<set id="53" chest="6373" legs="6374" head="6378" gloves="6375" feet="6376" skills="3553-1" shield="6377" shield_skills="3554-1" enchant6skills="3623-1" />
+	<set id="54" chest="6379" head="6382" gloves="6380" feet="6381" skills="3555-1" enchant6skills="3624-1" />
+	<set id="55" chest="6383" head="6386" gloves="6384" feet="6385" skills="3556-1" enchant6skills="3625-1" />
+</list>

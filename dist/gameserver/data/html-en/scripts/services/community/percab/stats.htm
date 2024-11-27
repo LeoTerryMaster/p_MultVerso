@@ -1,0 +1,225 @@
+<html>
+<body>
+<center>
+	<table cellspacing="0" cellpadding="2" border="0" width="570" height="467">
+		<tr>
+			<td FIXWIDTH="116">
+				<table height="465" bgcolor="909090">
+					<tr>
+						<td>
+						<br><br>
+						<button value="Main Page" action="bypass _bbspage:index" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Shop" action="bypass _bbspage:shop" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Gatekeeper" action="bypass _bbsteleport" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Classes" action="bypass _cbbsquestsmain 0" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Buff" action="bypass scripts_services.Buffer:actBBS reply=buff" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Server Info" action="bypass _bbspage:rate" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Services" action="bypass _bbspage:services" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Chat Commands" action="bypass _bbspage:commands" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Events" action="bypass _bbspage:events" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						<button value="Personal Cabinet" action="bypass _bbscstats" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td>
+				<br>
+				<center>
+					<table width=470 border=0 cellspacing=0 cellpadding=0  BACKGROUND="L2UI_CT1.Tab_DF_bg">
+						<tr><td>
+							<table ALIGN="center" width=470 HEIGHT=23 border=0 cellspacing=0 cellpadding=0>
+								<tr>
+									<td width=230>
+										<table width="230" cellpadding="0" cellspacing="0">
+											<tr>
+												<td><button value="Stats" action="bypass _bbscstats" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+												<td><button value="Password" action="bypass _bbscpassword" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+												<td><button value="Repair" action="bypass _bbscrepair" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td></tr>
+						<tr><td FIXWIDTH=510 HEIGHT=430 ALIGN="center" VALIGN="middle"><br>
+							<!-- content -->
+							<table WIDTH=600 border=0 cellspacing=0 cellpadding=1>
+								<tr>
+									<td ALIGN="left" width=280>
+										<br><font>Basic</font>
+										<table width=130 border=0 cellspacing=1 cellpadding=0>
+											<tr>
+												<td><font>
+													<table width=80 border=0 height=60>
+														<tr><td>HP Regen.</td></tr>
+														<tr><td>MP Regen.</td></tr>
+														<tr><td>CP Regen.</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font>
+													<table width=150 border=0 BACKGROUND="L2UI_CT1.Divider_DF" height=60>
+														<tr><td align="right">%hpRegen%</td></tr>
+														<tr><td align="right">%mpRegen%</td></tr>
+														<tr><td align="right">%cpRegen%</td></tr>
+													</table></font>
+													<br>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td ALIGN="left"  width=450>
+										<br><font>Critical</font>
+										<table width=130 border=0 cellspacing=1 cellpadding=0>
+											<tr>
+												<td><font>
+													<table width=100 border=0 height=60>
+														<tr><td>Crit. Damage</td></tr>
+														<tr><td>Magic Crit. Rate</td></tr>
+														<tr><td>Fatal Blow Rate</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font>
+													<table width=150 border=0 BACKGROUND="L2UI_CT1.Divider_DF" height=60>
+														<tr><td align="right">%critPerc%% + %critStatic%</td></tr>
+														<tr><td align="right">%mCritRate%</td></tr>
+														<tr><td align="right">%blowRate%</td></tr>
+													</table></font>
+													<br>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td ALIGN="left" width=280>
+										<br><font>Shield</font><br1>
+										<table width=130 border=0 cellspacing=1 cellpadding=0>
+											<tr>
+												<td><font>
+													<table width=70 border=0 height=40>
+														<tr><td width=70>Shield Def.</td></tr>
+														<tr><td width=70>Shield Rate</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font>
+													<table width=150 border=0 BACKGROUND="L2UI_CT1.Divider_DF" height=40>
+														<tr><td align="right">%shieldDef%</td></tr>
+														<tr><td align="right">%shieldRate%</td></tr>
+													</table></font>
+													<br>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td ALIGN="left" width=280>
+										<br><font>Critical Resists</font><br1>
+										<table width=130 border=0 cellspacing=1 cellpadding=0>
+											<tr>
+												<td><font>
+													<table width=80 border=0 height=40>
+														<tr><td>Crit. Chance</td></tr>
+														<tr><td>Crit. Damage</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font color="a89273">
+													<table width=140 border=0 BACKGROUND="L2UI_CT1.Divider_DF"  height=40>
+														<tr><td align="right">%critChanceResist%%</td></tr>
+														<tr><td align="right">%critDamResist%%</td></tr>
+													</table></font>
+													<br>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td ALIGN="left" width=130><br>
+										<font>Skills Options</font>
+									</td>
+									<td ALIGN="left" width=130><br>
+										<font>Magic Attack/Resists</font>
+									</td>
+								</tr>
+								<tr>
+									<td ALIGN="left" width=130>
+										<table width=130 border=0 cellspacing=0 cellpadding=2>
+											<tr>
+												<td><font>
+													<table width=100 border=0 height=180>
+														<tr><td>Skill Evas</td></tr>
+														<tr><td>Reflect Dam.</td></tr>
+														<tr><td>Reflect Magic</td></tr>
+														<tr><td>Reflect Phys</td></tr>
+														<tr><td>Reflect Attack</td></tr>
+														<tr><td>Skill Power</td></tr>
+														<tr><td>PvP Attack Pwr.</td></tr>
+														<tr><td>PvP Skill Atk.</td></tr>
+														<tr><td>Mag. Skill Atk.</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font>
+													<table width=130 border=0 BACKGROUND="L2UI_CT1.Divider_DF" height=180>
+														<tr><td align="right">%pSkillEvas%</td></tr>
+														<tr><td align="right">%reflectDam%</td></tr>
+														<tr><td align="right">%reflectSMagic%</td></tr>
+														<tr><td align="right">%reflectSPhys%</td></tr>
+														<tr><td align="right">%meleePhysRes%</td></tr>
+														<tr><td align="right">%SkillPower%%</td></tr>
+														<tr><td align="right">%PvPPhysDmg%%</td></tr>
+														<tr><td align="right">%PvPSkillDmg%%</td></tr>
+														<tr><td align="right">%MagicPvPSkillDmg%%</td></tr>
+													</table></font>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td ALIGN="left" width=130>
+										<table width=130>
+											<tr>
+												<td><font>
+													<table width=100 border=0 height=180 >
+														<tr><td>Bleed</td></tr>
+														<tr><td>Stun</td></tr>
+														<tr><td>Debuff</td></tr>
+														<tr><td>Poison</td></tr>
+														<tr><td>Paralyze</td></tr>
+														<tr><td>Root</td></tr>
+														<tr><td>Mental</td></tr>
+														<tr><td>Sleep</td></tr>
+														<tr><td>Cancel</td></tr>
+													</table></font>
+													<br>
+												</td>
+												<td><font>
+													<table width=130 BACKGROUND="L2UI_CT1.Divider_DF" height=180>
+														<tr><td align="right">%bleedPower%/%bleedResist%</td></tr>
+														<tr><td align="right">%stunPower%/%stunResist%</td></tr>
+														<tr><td align="right">%debuffPower%/%debuffResist%</td></tr>
+														<tr><td align="right">%poisonPower%/%poisonResist%</td></tr>
+														<tr><td align="right">%paralyzePower%/%paralyzeResist%</td></tr>
+														<tr><td align="right">%rootPower%/%rootResist%</td></tr>
+														<tr><td align="right">%mentalPower%/%mentalResist%</td></tr>
+														<tr><td align="right">%sleepPower%/%sleepResist%</td></tr>
+														<tr><td align="right">%cancelPower%/%cancelResist%</td></tr>
+													</table></font>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td></tr>
+					</table>
+				</center>
+			</td>
+		</tr>
+	</table>
+</center>
+</body>
+</html>
+

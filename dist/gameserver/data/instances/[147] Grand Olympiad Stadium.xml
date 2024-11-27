@@ -1,0 +1,16 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<instance id="147" name="Olympiad" maxChannels="40" collapseIfEmpty="1" timelimit="60" dispelBuffs="true">
+		<level min="1" max="85"/>
+		<party min="1" max="1"/>
+		<geodata map="19_17" />
+        <teleport loc="-19848 -21032 -3024 0" />
+        <teleport loc="-21816 -21032 -3024 0" />
+        <teleport loc="-20814 -21189 -3030 0" />
+		<doors/>
+		<spawns/>
+		<zones>
+			<zone name="[olympiad_stadium_1]" active="true" />
+		</zones>
+	</instance>
+</list>

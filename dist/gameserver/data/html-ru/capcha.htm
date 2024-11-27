@@ -1,0 +1,38 @@
+<html><!-- ?CAPCHA? -->
+<head><title>Подтверждение изображения.</title></head>
+<body>
+    <table border=0 cellpadding=0 cellspacing=0 width=270>
+        <tr>
+            <td>Пожалуйста, введите код изображенный на картинке.<br></td>
+        </tr>
+        <tr>
+            <td height=40>
+                <center><img src="crest.crest_%SN%_%CID%_l" width=64 height=16 bgcolor=100></center>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <center>
+                    <table  border=0 cellpadding=0 cellspacing=0 width=64>
+                        <tr>
+                            <td  height=28>
+                                <edit var="code" width=64 height=14 length="4">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td  height=24>
+                                <button value="OK" action="bypass -h scripts_Util:CapchaConfirm $code" width=64 height=20 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2">
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </td>
+        </tr>
+
+    </table>
+</body>
+<!-- ?CAPCHA? --></html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="ancient_23" type="CIRCLE" is_running="true">
+		<node x="4172" y="-12132" z="-3520" delay="5000"/>
+		<node x="4628" y="-13129" z="-3648" delay="5000"/>
+		<node x="5192" y="-13228" z="-3672" delay="5000"/>
+		<node x="5591" y="-12989" z="-3648" delay="5000"/>
+		<node x="6488" y="-12905" z="-3664" delay="5000"/>
+		<node x="6596" y="-12276" z="-3640" delay="5000"/>
+		<node x="6112" y="-11581" z="-3632" delay="5000"/>
+		<node x="6412" y="-11135" z="-3624" delay="5000"/>
+		<node x="5752" y="-10940" z="-3632" delay="5000"/>
+		<node x="5564" y="-12024" z="-3632" delay="5000"/>
+		<node x="5763" y="-12360" z="-3640" delay="5000"/>
+		<node x="4916" y="-12410" z="-3616" delay="5000"/>
+	</moveroute>
+</list>

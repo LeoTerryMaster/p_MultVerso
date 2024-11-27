@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+    <!-- Used for setting EVERYBODY_HAS_ADMIN_RIGHTS -->
+	<char>
+		<PlayerID set="0"/>
+        <!-- Default FALSE for all players -->
+		<IsGM set="true"/>
+		<!-- permits the use of admin teams -->
+		<CanUseGMCommand set="true"/>
+		<CanAnnounce set="true"/>
+		<CanBan set="true"/>
+		<CanBanChat set="true"/>
+		<CanUnBanChat set="true"/>
+		<BanChatDelay set="-1"/>
+		<BanChatMaxValue set="-1"/>
+		<BanChatCountPerDay set="-1"/>
+		<BanChatBonusId set="-1"/>
+		<BanChatBonusCount set="-1"/>
+		<CanChatPenalty set="true"/>
+		<UseGMShop set="true"/>
+		<CanDelete set="true"/>
+		<CanKick set="true"/>
+		<Menu set="true"/>
+		<GodMode set="true"/>
+		<CanEditCharAll set="true"/>
+		<CanEditChar set="true"/>
+		<CanEditPledge set="true"/>
+		<CanViewChar set="true"/>
+		<CanEditNPC set="true"/>
+		<CanViewNPC set="true"/>
+		<CanTeleport set="true"/>
+		<CanRestart set="true"/>
+		<MonsterRace set="true"/>
+		<Rider set="true"/>
+		<FastUnstuck set="true"/>
+		<ResurectFixed set="true"/>
+		<Door set="true"/>
+		<Res set="true"/>
+		<PeaceAttack set="true"/>
+		<Heal set="true"/>
+		<Unblock set="true"/>
+		<CanChangeClass set="false"/>
+		<!-- blocks taking items from the inventory, can only be the destroyed. Default FALSE -->
+		<BlockInventory set="false"/>
+		<CanGmEdit set="true"/>
+		<IsEventGm set="true"/>
+		<CanReload set="true"/>
+		<CanRename set="true"/>
+		<CanJail set="true"/>
+		<CanPolymorph set="true"/>
+		<!-- Default TRUE for all players -->
+		<UseInventory set="true"/>
+		<UseTrade set="true"/>
+		<CanAttack set="true"/>
+		<CanEvaluate set="true"/>
+		<CanJoinParty set="true"/>
+		<CanJoinClan set="true"/>
+		<UseWarehouse set="true"/>
+		<UseShop set="true"/>
+	</char>
+</list>

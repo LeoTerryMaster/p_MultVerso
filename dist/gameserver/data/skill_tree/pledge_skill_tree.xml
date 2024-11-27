@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<!--Create by VISTALL-->
+<list>
+	<pledge_skill_tree>
+		<!-- 5 level -->
+        <skill id="370" level="1" cost="500" name="Clan Vitality" min_level="5" item_id="8166" item_count="1"/> <!-- Clan Vitality -->
+        <skill id="370" level="2" cost="500" name="Clan Vitality" min_level="5"  item_id="8166" item_count="1"/> <!-- Clan Vitality -->
+        <skill id="370" level="3" cost="500" name="Clan Vitality" min_level="5"  item_id="8166" item_count="1"/> <!-- Clan Vitality -->
+        <skill id="373" level="1" cost="500" name="Clan Lifeblood" min_level="5"  item_id="8166" item_count="1"/> <!-- Clan Lifeblood -->
+        <skill id="373" level="2" cost="500" name="Clan Lifeblood" min_level="5"  item_id="8166" item_count="1"/> <!-- Clan Lifeblood -->
+        <skill id="373" level="3" cost="500" name="Clan Lifeblood" min_level="5"  item_id="8166" item_count="1"/> <!-- Clan Lifeblood -->
+        <skill id="379" level="1" cost="500" name="Clan Magic Protection" min_level="5"  item_id="8163" item_count="1"/> <!-- Clan Magic Protection -->
+        <skill id="379" level="2" cost="500" name="Clan Magic Protection" min_level="5"  item_id="8163" item_count="1"/> <!-- Clan Magic Protection -->
+        <skill id="379" level="3" cost="500" name="Clan Magic Protection" min_level="5"  item_id="8163" item_count="1"/> <!-- Clan Magic Protection -->
+        <skill id="391" level="1" cost="0" name="Clan Imperium" min_level="5" item_id="8176" item_count="1"/> <!-- Clan Imperium -->
+		<!-- 6 level -->
+        <skill id="371" level="1" cost="800" name="Clan Spirituality" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Spirituality -->
+        <skill id="371" level="2" cost="800" name="Clan Spirituality" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Spirituality -->
+        <skill id="371" level="3" cost="800" name="Clan Spirituality" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Spirituality -->
+        <skill id="374" level="1" cost="900" name="Clan Morale" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Morale -->
+        <skill id="374" level="2" cost="900" name="Clan Morale" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Morale -->
+        <skill id="374" level="3" cost="900" name="Clan Morale" min_level="6" item_id="8169" item_count="1"/> <!-- Clan Morale -->
+        <skill id="376" level="1" cost="1000" name="Clan Might" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Might -->
+        <skill id="376" level="2" cost="1000" name="Clan Might" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Might -->
+        <skill id="376" level="3" cost="1000" name="Clan Might" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Might -->
+        <skill id="377" level="1" cost="1000" name="Clan Aegis" min_level="6" item_id="8166" item_count="1"/> <!-- Clan Aegis -->
+        <skill id="377" level="2" cost="1000" name="Clan Aegis" min_level="6" item_id="8166" item_count="1"/> <!-- Clan Aegis -->
+        <skill id="377" level="3" cost="1000" name="Clan Aegis" min_level="6" item_id="8166" item_count="1"/> <!-- Clan Aegis -->
+        <skill id="383" level="1" cost="800" name="Clan Shield Boost" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Shield Boost -->
+        <skill id="383" level="2" cost="800" name="Clan Shield Boost" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Shield Boost -->
+        <skill id="383" level="3" cost="800" name="Clan Shield Boost" min_level="6" item_id="8163" item_count="1"/> <!-- Clan Shield Boost -->
+		<!-- 7 level -->
+        <skill id="380" level="1" cost="1900" name="Clan Guidance" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Guidance -->
+        <skill id="380" level="2" cost="1900" name="Clan Guidance" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Guidance -->
+        <skill id="380" level="3" cost="1900" name="Clan Guidance" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Guidance -->
+        <skill id="382" level="1" cost="800" name="Clan Withstand-Attack" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Withstand-Attack -->
+        <skill id="382" level="2" cost="800" name="Clan Withstand-Attack" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Withstand-Attack -->
+        <skill id="382" level="3" cost="800" name="Clan Withstand-Attack" min_level="7" item_id="8160" item_count="1"/> <!-- Clan Withstand-Attack -->
+        <skill id="384" level="1" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Cyclonic Resistance -->
+        <skill id="384" level="2" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Cyclonic Resistance -->
+        <skill id="384" level="3" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Cyclonic Resistance -->
+        <skill id="385" level="1" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Magmatic Resistance -->
+        <skill id="385" level="2" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Magmatic Resistance -->
+        <skill id="385" level="3" cost="1800" name="Clan Cyclonic Resistance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Magmatic Resistance -->
+        <skill id="386" level="1" cost="1000" name="Clan Fortitude" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Fortitude -->
+        <skill id="386" level="2" cost="1000" name="Clan Fortitude" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Fortitude -->
+        <skill id="386" level="3" cost="1000" name="Clan Fortitude" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Fortitude -->
+        <skill id="387" level="1" cost="1800" name="Clan Freedom" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Freedom -->
+        <skill id="387" level="2" cost="1800" name="Clan Freedom" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Freedom -->
+        <skill id="387" level="3" cost="1800" name="Clan Freedom" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Freedom -->
+        <skill id="388" level="1" cost="1800" name="Clan Vigilance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Vigilance -->
+        <skill id="388" level="2" cost="1800" name="Clan Vigilance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Vigilance -->
+        <skill id="388" level="3" cost="1800" name="Clan Vigilance" min_level="7" item_id="8176" item_count="1"/> <!-- Clan Vigilance -->
+        <skill id="390" level="1" cost="2200" name="Clan Luck" min_level="7" item_id="8175" item_count="1"/> <!-- Clan Luck -->
+        <skill id="390" level="2" cost="2200" name="Clan Luck" min_level="7" item_id="8175" item_count="1"/> <!-- Clan Luck -->
+        <skill id="390" level="3" cost="2200" name="Clan Luck" min_level="7" item_id="8175" item_count="1"/> <!-- Clan Luck -->
+		<!-- 8 level -->
+        <skill id="372" level="1" cost="3900" name="Clan Essence" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Essence -->
+        <skill id="372" level="2" cost="3900" name="Clan Essence" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Essence -->
+        <skill id="372" level="3" cost="3900" name="Clan Essence" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Essence -->
+        <skill id="375" level="1" cost="3900" name="Clan Clarity" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Clarity -->
+        <skill id="375" level="2" cost="3900" name="Clan Clarity" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Clarity -->
+        <skill id="375" level="3" cost="3900" name="Clan Clarity" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Clarity -->
+        <skill id="378" level="1" cost="3900" name="Clan Empowerment" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Empowerment -->
+        <skill id="378" level="2" cost="3900" name="Clan Empowerment" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Empowerment -->
+        <skill id="378" level="3" cost="3900" name="Clan Empowerment" min_level="8" item_id="8172" item_count="1"/> <!-- Clan Empowerment -->
+        <skill id="381" level="1" cost="4000" name="Clan Agility" min_level="8" item_id="8160" item_count="1"/> <!-- Clan Agility -->
+        <skill id="381" level="2" cost="4000" name="Clan Agility" min_level="8" item_id="8160" item_count="1"/> <!-- Clan Agility -->
+        <skill id="381" level="3" cost="4000" name="Clan Agility" min_level="8" item_id="8160" item_count="1"/> <!-- Clan Agility -->
+        <skill id="389" level="1" cost="3800" name="Clan March" min_level="8" item_id="8175" item_count="1"/> <!-- Clan March -->
+        <skill id="389" level="2" cost="3800" name="Clan March" min_level="8" item_id="8175" item_count="1"/> <!-- Clan March -->
+        <skill id="389" level="3" cost="3800" name="Clan March" min_level="8" item_id="8175" item_count="1"/> <!-- Clan March -->
+	</pledge_skill_tree>
+</list>

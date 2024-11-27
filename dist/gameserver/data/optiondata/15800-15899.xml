@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "optiondata.dtd">
+<list>
+	<optiondata id="15800">
+		<!-- Предметное умение: Улучшает способность отражать часть полученных повреждений обратно врагу (исключая урон от умений и дистанционных атак). -->
+		<skill id="3259" level="2" />
+	</optiondata>
+	<optiondata id="15801">
+		<!-- Предметное умение: Увеличивает Вашу Точность. -->
+		<skill id="3248" level="7" />
+	</optiondata>
+	<optiondata id="15802">
+		<!-- Предметное умение: Увеличивает шанс критической атаки для магических атак. -->
+		<skill id="3250" level="7" />
+	</optiondata>
+	<optiondata id="15803">
+		<!-- Предметное умение: Увеличивает количество восстанавливаемых MP. -->
+		<skill id="3239" level="7" />
+	</optiondata>
+	<optiondata id="15804">
+		<!-- Предметное умение: Уменьшает расход MP при использовании физических умений. -->
+		<skill id="3255" level="2" />
+	</optiondata>
+	<optiondata id="15805">
+		<!-- Предметное умение: Уменьшает расход MP при использовании песен/танцев. -->
+		<skill id="3257" level="2" />
+	</optiondata>
+	<optiondata id="15806">
+		<!-- Предметное умение: Уменьшает расход MP при использовании заклинаний. -->
+		<skill id="3256" level="2" />
+	</optiondata>
+	<optiondata id="15807">
+		<!-- Предметное умение: Временно увеличивает размер Вашей головы. -->
+		<skill id="3203" level="1" />
+	</optiondata>
+	<optiondata id="15808">
+		<!-- Активное: Временно увеличивает объем грудной клетки. -->
+		<skill id="3143" level="8" />
+	</optiondata>
+	<optiondata id="15809">
+		<!-- Активное: Временно увеличивает высоту, с которой можно упасть без повреждений. -->
+		<skill id="3144" level="8" />
+	</optiondata>
+	<optiondata id="15810">
+		<!-- Активное: Временно увеличивает сопротивление к урону от падений. -->
+		<skill id="3145" level="8" />
+	</optiondata>
+	<optiondata id="15811">
+		<!-- Активное: Зажигает фейерверк. -->
+		<skill id="3156" level="1" />
+	</optiondata>
+	<optiondata id="15812">
+		<!-- Активное: Некоторое время играет музыка. -->
+		<skill id="3206" level="1" />
+	</optiondata>
+	<optiondata id="15813">
+		<!-- Активное: Зажигает большой фейерверк. -->
+		<skill id="3157" level="1" />
+	</optiondata>
+	<optiondata id="15814">
+		<!-- Шанс: Временно уменьшает волю к атаке Вашей цели при физической атаке. -->
+		<trigger id="3081" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15815">
+		<!-- Шанс: Временно увеличивает волю к атаке Вашей цели при физической атаке. -->
+		<trigger id="3080" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15816">
+		<!-- Шанс: Мгновенно уменьшает скорость цели при физической атаке. -->
+		<trigger id="3083" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15817">
+		<!-- Шанс: Временно уменьшает волю к атаке Вашей цели при критической атаке. -->
+		<trigger id="3109" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15818">
+		<!-- Шанс: Временно увеличивает волю к атаке Вашей цели при критической атаке. -->
+		<trigger id="3108" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15819">
+		<!-- Шанс: Мгновенно уменьшает скорость цели при критической атаке. -->
+		<trigger id="3111" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15820">
+		<!-- Шанс: Мгновенно уменьшает скорость цели при магической атаке. Эффект 3. -->
+		<trigger id="3096" level="8" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" />
+	</optiondata>
+	<optiondata id="15821">
+		<!-- Предметное умение: Увеличивает объем грудной клетки. -->
+		<skill id="3252" level="8" />
+	</optiondata>
+	<optiondata id="15822">
+		<!-- Предметное умение: Увеличивает высоту, с которой можно упасть без повреждений. -->
+		<skill id="3253" level="8" />
+	</optiondata>
+	<optiondata id="15823">
+		<!-- Предметное умение: Увеличивает сопротивление к урону от падений. -->
+		<skill id="3254" level="8" />
+	</optiondata>
+	<optiondata id="15824">
+		<!-- Активное: Временно понижает Ск. Атк. цели -->
+		<skill id="3188" level="8" />
+	</optiondata>
+	<optiondata id="15825">
+		<!-- Активное: Временно увеличивает Уворот. -->
+		<skill id="3139" level="8" />
+	</optiondata>
+	<optiondata id="15826">
+		<!-- Активное: Временно вызывает сильное кровотечение цели. -->
+		<skill id="3196" level="8" />
+	</optiondata>
+	<optiondata id="15827">
+		<!-- Активное: Восстанавливает Ваши CP. -->
+		<skill id="3130" level="8" />
+	</optiondata>
+	<optiondata id="15828">
+		<!-- Активное: Наносит урон брошенным камнем. -->
+		<skill id="3169" level="8" />
+	</optiondata>
+	<optiondata id="15829">
+		<!-- Активное: Мгновенно отпугивает цель. -->
+		<skill id="3194" level="8" />
+	</optiondata>
+	<optiondata id="15830">
+		<!-- Активное: Взрывает огненный шар, сжимая воздух вокруг заклинателя. -->
+		<skill id="3165" level="8" />
+	</optiondata>
+	<optiondata id="15831">
+		<!-- Активное: Уменьшает волю к атаке Вашей цели. -->
+		<skill id="3151" level="8" />
+	</optiondata>
+	<optiondata id="15832">
+		<!-- Активное: Уменьшает волю к атаке Вашей цели. -->
+		<skill id="3150" level="8" />
+	</optiondata>
+	<optiondata id="15833">
+		<!-- Активное: Увеличивает волю к атаке Вашей цели. -->
+		<skill id="3149" level="8" />
+	</optiondata>
+	<optiondata id="15834">
+		<!-- Активное: Временно увеличивает Вашу Точность. -->
+		<skill id="3140" level="8" />
+	</optiondata>
+	<optiondata id="15835">
+		<!-- Активное: Дает возможность удержать цель. Цель невосприимчива к дополнительным удерживающим атакам, пока длится эффект. -->
+		<skill id="3190" level="8" />
+	</optiondata>
+	<optiondata id="15836">
+		<!-- Активное: Атака светом. -->
+		<skill id="3170" level="8" />
+	</optiondata>
+	<optiondata id="15837">
+		<!-- Активное: Временно увеличивает силу магии, восстанавливающей HP. -->
+		<skill id="3138" level="8" />
+	</optiondata>
+	<optiondata id="15838">
+		<!-- Активное: Временно увеличивает эффективность магии, восстанавливающей HP. -->
+		<skill id="3126" level="8" />
+	</optiondata>
+	<optiondata id="15839">
+		<!-- Активное: Немедленно восстанавливает Ваши HP. -->
+		<skill id="3123" level="8" />
+	</optiondata>
+	<optiondata id="15840">
+		<!-- Активное: Временно увеличивает Вашу Маг. Атк. -->
+		<skill id="3133" level="8" />
+	</optiondata>
+	<optiondata id="15841">
+		<!-- Активное: Временно увеличивает Ваш Макс. CP. -->
+		<skill id="3131" level="8" />
+	</optiondata>
+	<optiondata id="15842">
+		<!-- Активное: Временно увеличивает Ваш Макс. HP и восстанавливает количество HP, равное увеличенному. -->
+		<skill id="3125" level="8" />
+	</optiondata>
+	<optiondata id="15843">
+		<!-- Активное: Временно увеличивает Ваш Макс. HP. -->
+		<skill id="3124" level="8" />
+	</optiondata>
+	<optiondata id="15844">
+		<!-- Активное: Временно увеличивает Ваш Макс. MP. -->
+		<skill id="3128" level="8" />
+	</optiondata>
+	<optiondata id="15845">
+		<!-- Активное: Временно увеличивает Вашу Маг. Защ. -->
+		<skill id="3136" level="8" />
+	</optiondata>
+	<optiondata id="15846">
+		<!-- Активное: Сжигает MP врага. -->
+		<skill id="3154" level="8" />
+	</optiondata>
+	<optiondata id="15847">
+		<!-- Активное: Увеличивает количество восстанавливаемых MP. -->
+		<skill id="3129" level="8" />
+	</optiondata>
+	<optiondata id="15848">
+		<!-- Активное: Регенерирует MP. -->
+		<skill id="3127" level="8" />
+	</optiondata>
+	<optiondata id="15849">
+		<!-- Активное: Нестихийная атака. -->
+		<skill id="3172" level="8" />
+	</optiondata>
+	<optiondata id="15850">
+		<!-- Активное: Временно увеличивает Вашу Физ. Атк. -->
+		<skill id="3132" level="8" />
+	</optiondata>
+	<optiondata id="15851">
+		<!-- Активное: Временно парализует цель. -->
+		<skill id="3192" level="8" />
+	</optiondata>
+	<optiondata id="15852">
+		<!-- Активное: Временно увеличивает Вашу Физ. Защ. -->
+		<skill id="3135" level="8" />
+	</optiondata>
+	<optiondata id="15853">
+		<!-- Активное: Временно отравляет цель. -->
+		<skill id="3195" level="8" />
+	</optiondata>
+	<optiondata id="15854">
+		<!-- Активное: Временно уменьшает Физ. Атк. цели в PvP. -->
+		<skill id="3137" level="8" />
+	</optiondata>
+	<optiondata id="15855">
+		<!-- Активное: Временно увеличивает Вашу Физ. Атк. в PvP. -->
+		<skill id="3134" level="8" />
+	</optiondata>
+	<optiondata id="15856">
+		<!-- Активное: Телепортирует заклинателя в деревню. Не действует в особых местах, таких, как Комната Консультаций Гейм-Мастера. -->
+		<skill id="3146" level="1" />
+	</optiondata>
+	<optiondata id="15857">
+		<!-- Активное: Воскрешает труп. -->
+		<skill id="3160" level="8" />
+	</optiondata>
+	<optiondata id="15858">
+		<!-- Активное: Атака землей по площади. -->
+		<skill id="3183" level="8" />
+	</optiondata>
+	<optiondata id="15859">
+		<!-- Активное: Атака огнем по площади. -->
+		<skill id="3180" level="8" />
+	</optiondata>
+	<optiondata id="15860">
+		<!-- Активное: Атака светом по площади. -->
+		<skill id="3184" level="8" />
+	</optiondata>
+	<optiondata id="15861">
+		<!-- Активное: Нестихийная атака по площади. -->
+		<skill id="3186" level="8" />
+	</optiondata>
+	<optiondata id="15862">
+		<!-- Активное: Атака тьмой по площади. -->
+		<skill id="3185" level="8" />
+	</optiondata>
+	<optiondata id="15863">
+		<!-- Активное: Атака водой по площади. -->
+		<skill id="3181" level="8" />
+	</optiondata>
+	<optiondata id="15864">
+		<!-- Активное: Атака ветром по площади. -->
+		<skill id="3182" level="8" />
+	</optiondata>
+	<optiondata id="15865">
+		<!-- Активное: Временно усыпляет цель. Цель будет невосприимчива к дополнительным усыпляющим атакам, пока длится эффект. -->
+		<skill id="3191" level="8" />
+	</optiondata>
+	<optiondata id="15866">
+		<!-- Активное: Временно уменьшает скорость цели. -->
+		<skill id="3187" level="8" />
+	</optiondata>
+	<optiondata id="15867">
+		<!-- Активное: Временно оглушает цель. -->
+		<skill id="3189" level="8" />
+	</optiondata>
+	<optiondata id="15868">
+		<!-- Активное: Атака землей по площади. -->
+		<skill id="3176" level="8" />
+	</optiondata>
+	<optiondata id="15869">
+		<!-- Активное: Атака огнем по площади. -->
+		<skill id="3173" level="8" />
+	</optiondata>
+	<optiondata id="15870">
+		<!-- Активное: Атака светом по площади. -->
+		<skill id="3177" level="8" />
+	</optiondata>
+	<optiondata id="15871">
+		<!-- Активное: Нестихийная атака по площади. -->
+		<skill id="3179" level="8" />
+	</optiondata>
+	<optiondata id="15872">
+		<!-- Активное: Атака тьмой по площади. -->
+		<skill id="3178" level="8" />
+	</optiondata>
+	<optiondata id="15873">
+		<!-- Активное: Атака водой по площади. -->
+		<skill id="3174" level="8" />
+	</optiondata>
+	<optiondata id="15874">
+		<!-- Активное: Атака ветром по площади. -->
+		<skill id="3175" level="8" />
+	</optiondata>
+	<optiondata id="15875">
+		<!-- Активное: Отменяет цель врага. -->
+		<skill id="3152" level="8" />
+	</optiondata>
+	<optiondata id="15876">
+		<!-- Активное: Временно превращает цель в камень. -->
+		<skill id="3193" level="8" />
+	</optiondata>
+	<optiondata id="15877">
+		<!-- Активное: Атака тьмой. -->
+		<skill id="3171" level="8" />
+	</optiondata>
+	<optiondata id="15878">
+		<!-- Активное: Дает шанс открыть двери и сундуки с сокровищами. Требует Ключ Вора. -->
+		<skill id="3155" level="8" />
+	</optiondata>
+	<optiondata id="15879">
+		<!-- Активное: Поглощает HP цели. -->
+		<skill id="3153" level="8" />
+	</optiondata>
+	<optiondata id="15880">
+		<!-- Активное: Атака водой. -->
+		<skill id="3167" level="8" />
+	</optiondata>
+	<optiondata id="15881">
+		<!-- Активное: Атака ветром. -->
+		<skill id="3168" level="8" />
+	</optiondata>
+	<optiondata id="15882">
+		<!-- Шанс: Мгновенно понижает Ск. Атк. цели при физической атаке. -->
+		<trigger id="3084" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15883">
+		<!-- Шанс: Мгновенно вызывает кровотечение цели при физической атаке. -->
+		<trigger id="3092" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15884">
+		<!-- Шанс: Мгновенно отпугивает цель при физической атаке. -->
+		<trigger id="3090" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15885">
+		<!-- Шанс: Дает возможность удержать цель при физической атаке. Цель невосприимчива к дополнительным удерживающим атакам, пока длится эффект. -->
+		<trigger id="3086" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15886">
+		<!-- Шанс: Мгновенно отравляет цель при физической атаке. -->
+		<trigger id="3091" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15887">
+		<!-- Шанс: Мгновенно превращает цель в камень при физической атаке. -->
+		<trigger id="3089" level="8" type="ATTACK" chance="1.0" />
+	</optiondata>
+	<optiondata id="15888">
+		<!-- Шанс: Мгновенно понижает Ск. Атк. цели при критической атаке. -->
+		<trigger id="3112" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15889">
+		<!-- Шанс: Мгновенно вызывает кровотечение цели при критической атаке. -->
+		<trigger id="3120" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15890">
+		<!-- Шанс: Мгновенно отпугивает цель при критической атаке. -->
+		<trigger id="3118" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15891">
+		<!-- Шанс: Дает возможность удержать цель при критической атаке. Цель невосприимчива к дополнительным удерживающим атакам, пока длится эффект. -->
+		<trigger id="3114" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15892">
+		<!-- Шанс: Мгновенно отравляет цель при критической атаке. -->
+		<trigger id="3119" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15893">
+		<!-- Шанс: Мгновенно превращает цель в камень при критической атаке. -->
+		<trigger id="3117" level="8" type="CRIT" chance="5.0" />
+	</optiondata>
+	<optiondata id="15894">
+		<!-- Шанс: Дает шанс понизить Ск. Атк. цели, повреждающей Вас. -->
+		<skill id="3227" level="8" />
+	</optiondata>
+	<optiondata id="15895">
+		<!-- Шанс: Дает шанс увеличить Ваше Уклонение, когда Вы получаете повреждения. -->
+		<skill id="3221" level="8" />
+	</optiondata>
+	<optiondata id="15896">
+		<!-- Шанс: Дает шанс вызвать кровотечение цели, повреждающей Вас. -->
+		<skill id="3235" level="8" />
+	</optiondata>
+	<optiondata id="15897">
+		<!-- Шанс: Дает шанс регенерировать CP, когда Вы получаете повреждения. -->
+		<skill id="3213" level="8" />
+	</optiondata>
+	<optiondata id="15898">
+		<!-- Шанс: Дает шанс увеличить шанс критической атаки, когда Вы получаете повреждения. -->
+		<skill id="3223" level="8" />
+	</optiondata>
+	<optiondata id="15899">
+		<!-- Шанс: Дает шанс уменьшить агрессию цели по отношению к персонажу при получении повреждений. -->
+		<skill id="3225" level="8" />
+	</optiondata>
+</list>

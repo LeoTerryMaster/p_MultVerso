@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+    <npc id="25653" name="Kanadis Herald" title="Invading Forces">
+        <set name="aggroRange" value="0"/>
+        <set name="ai_type" value="custom.GvGBoss"/>
+        <set name="baseAtkRange" value="400"/>
+        <set name="baseCON" value="57"/>
+        <set name="baseCritRate" value="40"/>
+        <set name="baseDEX" value="73"/>
+        <set name="baseHpMax" value="2500000"/>
+        <set name="baseHpRate" value="0.5"/>
+        <set name="baseHpReg" value="180.826"/>
+        <set name="baseINT" value="76"/>
+        <set name="baseMAtk" value="1956"/>
+        <set name="baseMAtkSpd" value="333"/>
+        <set name="baseMDef" value="977"/>
+        <set name="baseMEN" value="80"/>
+        <set name="baseMpMax" value="1708.8"/>
+        <set name="baseMpReg" value="3"/>
+        <set name="basePAtk" value="3588"/>
+        <set name="basePAtkSpd" value="253"/>
+        <set name="basePDef" value="1804"/>
+        <set name="baseRunSpd" value="180"/>
+        <set name="baseSTR" value="60"/>
+        <set name="baseShldDef" value="0"/>
+        <set name="baseShldRate" value="0"/>
+        <set name="baseWIT" value="70"/>
+        <set name="baseWalkSpd" value="110"/>
+        <set name="collision_height" value="33.0"/>
+        <set name="collision_radius" value="30.0"/>
+        <set name="level" value="81"/>
+        <set name="rewardExp" value="3006594"/>
+        <set name="rewardRp" value="338"/>
+        <set name="rewardSp" value="394141"/>
+        <set name="shots" value="NONE"/>
+        <set name="texture" value=""/>
+        <set name="type" value="Monster"/>
+        <skills>
+            <skill id="5466" level="1"/>
+            <!--Holy Attacks-->
+            <skill id="4408" level="9"/>
+            <!--HP Increase (1/2x)-->
+            <skill id="4409" level="1"/>
+            <!--MP Increase (1x)-->
+            <skill id="4410" level="11"/>
+            <!--Average P. Atk.-->
+            <skill id="4411" level="11"/>
+            <!--Average M. Atk.-->
+            <skill id="4412" level="8"/>
+            <!--Weak P. Def.-->
+            <skill id="4413" level="8"/>
+            <!--Weak M. Def.-->
+            <skill id="4414" level="2"/>
+            <!--Standard Type-->
+            <skill id="4415" level="11"/>
+            <!--Spears-->
+            <skill id="4045" level="1"/>
+            <!--Resist Full Magic Attack-->
+            <skill id="4416" level="8"/>
+            <!--Angels-->
+            <skill id="4458" level="2"/>
+            <!--Spear Weapon Weak Point-->
+            <skill id="5467" level="1"/>
+            <!--Dark Attacks-->
+        </skills>
+        <attributes>
+            <attack attribute="holy" value="0"/>
+            <defence attribute="fire" value="0"/>
+            <defence attribute="water" value="0"/>
+            <defence attribute="wind" value="0"/>
+            <defence attribute="earth" value="0"/>
+            <defence attribute="holy" value="0"/>
+            <defence attribute="unholy" value="0"/>
+        </attributes>
+    </npc>
+    <npc id="25655" name="Kanadis Herald" title="Invading Forces">
+        <set name="aggroRange" value="0"/>
+        <set name="ai_type" value="custom.GvGBoss"/>
+        <set name="baseAtkRange" value="700"/>
+        <set name="baseCON" value="57"/>
+        <set name="baseCritRate" value="40"/>
+        <set name="baseDEX" value="73"/>
+        <set name="baseHpMax" value="440657.535"/>
+        <set name="baseHpRate" value="0.5"/>
+        <set name="baseHpReg" value="188.169"/>
+        <set name="baseINT" value="76"/>
+        <set name="baseMAtk" value="2092"/>
+        <set name="baseMAtkSpd" value="333"/>
+        <set name="baseMDef" value="1023"/>
+        <set name="baseMEN" value="80"/>
+        <set name="baseMpMax" value="1846.8"/>
+        <set name="baseMpReg" value="3"/>
+        <set name="basePAtk" value="3734"/>
+        <set name="basePAtkSpd" value="253"/>
+        <set name="basePDef" value="1889"/>
+        <set name="baseRunSpd" value="180"/>
+        <set name="baseSTR" value="60"/>
+        <set name="baseShldDef" value="0"/>
+        <set name="baseShldRate" value="0"/>
+        <set name="baseWIT" value="70"/>
+        <set name="baseWalkSpd" value="110"/>
+        <set name="collision_height" value="40.0"/>
+        <set name="collision_radius" value="24.0"/>
+        <set name="level" value="85"/>
+        <set name="rewardExp" value="310045"/>
+        <set name="rewardRp" value="361"/>
+        <set name="rewardSp" value="41069"/>
+        <set name="shots" value="SOUL_BSPIRIT"/>
+        <set name="texture" value=""/>
+        <set name="displayId" value="25054"/>
+        <set name="type" value="GvGBoss"/>
+        <skills>
+            <skill id="4408" level="9"/>
+            <!--HP Increase (1/2x)-->
+            <skill id="4409" level="1"/>
+            <!--MP Increase (1x)-->
+            <skill id="4410" level="11"/>
+            <!--Average P. Atk.-->
+            <skill id="4411" level="11"/>
+            <!--Average M. Atk.-->
+            <skill id="4412" level="8"/>
+            <!--Weak P. Def.-->
+            <skill id="4413" level="8"/>
+            <!--Weak M. Def.-->
+            <skill id="4415" level="1"/>
+            <!--Bare Hands-->
+            <skill id="4045" level="1"/>
+            <!--Resist Full Magic Attack-->
+            <skill id="4089" level="1"/>
+            <!--NPC Bear Spirit Totem-->
+            <skill id="4414" level="3"/>
+            <!--Light Armor Type-->
+            <skill id="4416" level="8"/>
+            <!--Angels-->
+            <skill id="4460" level="2"/>
+            <!--Sword Weak Point-->
+            <skill id="4721" level="12"/>
+            <!--BOSS Strike-->
+            <skill id="4746" level="12"/>
+            <!--Stun-->
+        </skills>
+        <attributes>
+            <attack attribute="holy" value="0"/>
+            <defence attribute="fire" value="0"/>
+            <defence attribute="water" value="0"/>
+            <defence attribute="wind" value="0"/>
+            <defence attribute="earth" value="0"/>
+            <defence attribute="holy" value="0"/>
+            <defence attribute="unholy" value="0"/>
+        </attributes>
+    </npc>
+    <npc id="25656" name="Mutant Treasure Chest" title="">
+        <set name="aggroRange" value="0"/>
+        <set name="ai_type" value="custom.MutantChest"/>
+        <set name="baseAtkRange" value="40"/>
+        <set name="baseCON" value="43"/>
+        <set name="baseCritRate" value="40"/>
+        <set name="baseDEX" value="30"/>
+        <set name="baseHpMax" value="300000"/>
+        <set name="baseHpRate" value="1"/>
+        <set name="baseHpReg" value="8.5"/>
+        <set name="baseINT" value="21"/>
+        <set name="baseMAtk" value="1553"/>
+        <set name="baseMAtkSpd" value="333"/>
+        <set name="baseMDef" value="506"/>
+        <set name="baseMEN" value="20"/>
+        <set name="baseMpMax" value="1812"/>
+        <set name="baseMpReg" value="3"/>
+        <set name="basePAtk" value="2370"/>
+        <set name="basePAtkSpd" value="253"/>
+        <set name="basePDef" value="623"/>
+        <set name="baseRunSpd" value="180"/>
+        <set name="baseSTR" value="40"/>
+        <set name="baseShldDef" value="0"/>
+        <set name="baseShldRate" value="0"/>
+        <set name="baseWIT" value="20"/>
+        <set name="baseWalkSpd" value="110"/>
+        <set name="collision_height" value="8.0"/>
+        <set name="collision_radius" value="11.0"/>
+        <set name="level" value="85"/>
+        <set name="rewardExp" value="0"/>
+        <set name="rewardRp" value="0"/>
+        <set name="rewardSp" value="0"/>
+        <set name="shots" value="NONE"/>
+        <set name="texture" value=""/>
+        <set name="displayId" value="21822"/>
+        <set name="type" value="Monster"/>
+        <attributes>
+            <defence attribute="fire" value="0"/>
+            <defence attribute="water" value="0"/>
+            <defence attribute="wind" value="0"/>
+            <defence attribute="earth" value="0"/>
+            <defence attribute="holy" value="0"/>
+            <defence attribute="unholy" value="0"/>
+        </attributes>
+    </npc>
+</list>

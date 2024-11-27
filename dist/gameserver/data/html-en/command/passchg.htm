@@ -1,0 +1,55 @@
+<html>
+<title>Password</title>
+<body>
+<center>	
+	<table width=282 border=0 cellspacing=0 cellpadding=0>
+		<tr><td>
+			<table width=282 height=28 border=0 cellspacing=0 cellpadding=0>
+			<tr>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab2" fore="L2UI_CH3.inventory_tab2" value="Cfg" action="bypass -h user_cfg"></td>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab1" fore="L2UI_CH3.inventory_tab1" value="Password"></td>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab2" fore="L2UI_CH3.inventory_tab2" value="Repir" action="bypass -h user_repair"></td>
+			</tr>
+			</table>
+		</td></tr>
+		<tr><td>
+			<center>
+				<table width=280 height=280 border=0 cellspacing=0 cellpadding=5 bgcolor="333333">
+					<tr>
+						<td>
+							<table width=270 height=270 border=0 cellspacing=0 cellpadding=0 bgcolor="000000">
+								<tr>
+									<td width=270 height=270 valign="top" align="left">
+
+<center>
+<table width=270 border=0 cellspacing=2 cellpadding=0>
+    <tr>
+        <td width=100 align=right>Old password:</td>
+        <td width=150 align=left><edit var="old" width=140 height=14 length="18" TYPE="password"></td>
+        <td width=10 align=left>*</td>
+    </tr>
+    <tr>
+        <td width=100 align=right>New password:</td>
+        <td width=150 align=left><edit var="new" width=140 height=14 length="14" TYPE="password"></td>
+        <td width=10 align=left>*</td>
+    </tr>
+</table>
+<br>
+   <button value="OK" action="bypass -h user_password $old $new" back="L2UI_CH3.smallbutton1_down" width=47 height=21 fore="L2UI_CH3.smallbutton1">
+	&nbsp;* - 4-14 latin characters, numbers, _ and -<br><br>
+</center>
+<br>
+	
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</center>
+		</td></tr>
+	</table>
+</center>
+
+</body>
+</html>

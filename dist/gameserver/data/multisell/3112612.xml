@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Release the A-grade accessory seal." -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="false" notax="true" keepenchanted="true" npcid="31126" />
+
+    <!-- Sealed Phoenix's Necklace -> Phoenix's Necklace -->
+    <item>
+        <production id="933" count="1"/>
+        <ingredient id="6323" count="1"/>
+        <ingredient id="5575" count="855525"/>
+    </item>
+
+    <!-- Sealed Phoenix's Earing -> Phoenix's Earing -->
+    <item>
+        <production id="871" count="1"/>
+        <ingredient id="6324" count="1"/>
+        <ingredient id="5575" count="641644"/>
+    </item>
+
+    <!-- Sealed Phoenix's Ring -> Phoenix's Ring -->
+    <item>
+        <production id="902" count="1"/>
+        <ingredient id="6325" count="1"/>
+        <ingredient id="5575" count="427763"/>
+    </item>
+
+    <!-- Sealed Majestic Necklace -> Majestic Necklace -->
+    <item>
+        <production id="924" count="1"/>
+        <ingredient id="6326" count="1"/>
+        <ingredient id="5575" count="853669"/>
+    </item>
+
+    <!-- Sealed Majestic Earing -> Majestic Earing -->
+    <item>
+        <production id="862" count="1"/>
+        <ingredient id="6327" count="1"/>
+        <ingredient id="5575" count="640251"/>
+    </item>
+
+    <!-- Sealed Majestic Ring -> Majestic Ring -->
+    <item>
+        <production id="893" count="1"/>
+        <ingredient id="6328" count="1"/>
+        <ingredient id="5575" count="426834"/>
+    </item>
+</list>

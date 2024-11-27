@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "class_equip.dtd">
+<list>
+    <!-- Start Class -->
+    <class id="0">
+        <items grade="NONE">
+            <weapon item_id="2369"/>
+            <armor set_id="45"/>
+        </items>
+    </class>
+    <class id="10">
+        <items grade="NONE">
+            <weapon item_id="6"/>
+            <armor set_id="46"/>
+        </items>
+    </class>
+    <class id="18">
+        <items grade="NONE">
+            <weapon item_id="2369"/>
+            <armor set_id="45"/>
+        </items>
+    </class>
+    <class id="25">
+        <items grade="NONE">
+            <weapon item_id="6"/>
+            <armor set_id="46"/>
+        </items>
+    </class>
+    <class id="31">
+        <items grade="NONE">
+            <weapon item_id="2369"/>
+            <armor set_id="45"/>
+        </items>
+    </class>
+    <class id="38">
+        <items grade="NONE">
+            <weapon item_id="6"/>
+            <armor set_id="46"/>
+        </items>
+    </class>
+    <class id="44">
+        <items grade="NONE">
+            <weapon item_id="2368"/>
+            <armor set_id="45"/>
+        </items>
+    </class>
+    <class id="49">
+        <items grade="NONE">
+            <weapon item_id="6"/>
+            <armor set_id="46"/>
+        </items>
+    </class>
+    <class id="53">
+        <items grade="NONE">
+            <weapon item_id="2368"/>
+            <armor set_id="45"/>
+        </items>
+    </class>
+    <!-- First Prof-->
+    <class id="1">
+        <items grade="D">
+            <weapon item_id="297"/>
+            <weapon item_id="70"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+            <armor set_id="43"/>
+        </items>
+    </class>
+    <class id="4">
+        <items grade="D">
+            <weapon item_id="2499"/>
+            <armor set_id="42"/>
+            <shield item_id="2494"/>
+        </items>
+    </class>
+    <class id="7">
+        <items grade="D">
+            <weapon item_id="280"/>
+            <weapon item_id="225"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+        </items>
+    </class>
+    <class id="11">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="15">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="19">
+        <items grade="D">
+            <weapon item_id="2499"/>
+            <armor set_id="42"/>
+            <shield item_id="2494"/>
+        </items>
+    </class>
+    <class id="22">
+        <items grade="D">
+            <weapon item_id="280"/>
+            <weapon item_id="225"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+        </items>
+    </class>
+    <class id="26">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="29">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="32">
+        <items grade="D">
+            <weapon item_id="2499"/>
+            <armor set_id="42"/>
+            <shield item_id="2494"/>
+        </items>
+    </class>
+    <class id="35">
+        <items grade="D">
+            <weapon item_id="280"/>
+            <weapon item_id="225"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+        </items>
+    </class>
+    <class id="39">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="42">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="45">
+        <items grade="D">
+            <weapon item_id="5286"/>
+            <weapon item_id="299"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+            <armor set_id="43"/>
+        </items>
+    </class>
+    <class id="47">
+        <items grade="D">
+            <weapon item_id="266"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+        </items>
+    </class>
+    <class id="50">
+        <items grade="D">
+            <weapon item_id="189"/>
+            <weapon item_id="190"/>
+            <armor set_id="42"/>
+            <armor set_id="39"/>
+        </items>
+    </class>
+    <class id="54">
+        <items grade="D">
+            <weapon item_id="280"/>
+            <weapon item_id="225"/>
+            <weapon item_id="187"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+            <armor set_id="43"/>
+        </items>
+    </class>
+    <class id="56">
+        <items grade="D">
+            <weapon item_id="280"/>
+            <weapon item_id="225"/>
+            <weapon item_id="187"/>
+            <armor set_id="40"/>
+            <armor set_id="41"/>
+        </items>
+    </class>
+    <!-- 2nd Prof-->
+    <class id="3"> <!-- Warlord -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="97"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="2"> <!-- Duelist -->
+        <items grade="A">
+            <weapon item_id="8938"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="2571"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2555"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="5"> <!-- Paladin -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <armor set_id="15"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="142"/>
+            <armor set_id="24"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="6"> <!-- Dark Avenger -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <armor set_id="15"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="142"/>
+            <armor set_id="24"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="8"> <!-- Treasure Hunter -->
+        <items grade="A">
+            <weapon item_id="235"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="234"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="228"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="9"> <!-- Hawkeye -->
+        <items grade="A">
+            <weapon item_id="289"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="287"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="286"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="12"> <!-- Sorcerer -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="10"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="19"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="29"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="13"> <!-- Necromancer -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="10"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="19"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="29"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="14"> <!-- Warlock -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="16"> <!-- Bishop -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="17"> <!-- Prophet -->
+        <items grade="A">
+            <weapon item_id="5704"/>
+            <weapon item_id="5705"/>
+            <weapon item_id="8938"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="2568"/>
+            <weapon item_id="2571"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2551"/>
+            <weapon item_id="2563"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="20"> <!-- Temple Knight -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <armor set_id="15"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="142"/>
+            <armor set_id="24"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="21"> <!-- Swordsinger -->
+        <items grade="A">
+            <weapon item_id="8938"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="2571"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2555"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="23"> <!-- Plainswalker -->
+        <items grade="A">
+            <weapon item_id="235"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="234"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="228"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="24"> <!-- Silver Ranger -->
+        <items grade="A">
+            <weapon item_id="289"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="287"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="286"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="27"> <!-- Spellsinger -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="10"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="19"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="29"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="28"> <!-- Elemental Summoner -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="30"> <!-- Elven Elder -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="33"> <!-- Shillien Knight -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <armor set_id="15"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="142"/>
+            <armor set_id="24"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="34"> <!-- Swordsinger -->
+        <items grade="A">
+            <weapon item_id="8938"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="2571"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2555"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="36"> <!-- Abyss Walker -->
+        <items grade="A">
+            <weapon item_id="235"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="234"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="228"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="37"> <!-- Phantom Ranger -->
+        <items grade="A">
+            <weapon item_id="289"/>
+            <armor set_id="11"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="287"/>
+            <armor set_id="23"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="286"/>
+            <armor set_id="34"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="40"> <!-- Spellhowler -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="10"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="19"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="29"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="41"> <!-- Phantom Summoner -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="43"> <!-- Shillien Elder -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+        </items>
+    </class>
+    <class id="46"> <!-- Destroyer -->
+        <items grade="A">
+            <weapon item_id="305"/>
+            <weapon item_id="8682"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="97"/>
+            <weapon item_id="7883"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="299"/>
+            <weapon item_id="5286"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="48"> <!-- Tyrant -->
+        <items grade="A">
+            <weapon item_id="8685"/>
+            <armor set_id="11"/>
+            <armor set_id="15"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="268"/>
+            <armor set_id="24"/>
+            <armor set_id="26"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="266"/>
+            <armor set_id="35"/>
+            <armor set_id="31"/>
+        </items>
+    </class>
+    <class id="51"> <!-- Overlord -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="52"> <!-- Warcryer -->
+        <items grade="A">
+            <weapon item_id="8686"/>
+            <weapon item_id="8687"/>
+            <weapon item_id="8688"/>
+            <armor set_id="13"/>
+            <armor set_id="14"/>
+            <armor set_id="4"/>
+            <shield item_id="641"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="92"/>
+            <weapon item_id="7889"/>
+            <weapon item_id="148"/>
+            <armor set_id="16"/>
+            <armor set_id="26"/>
+            <armor set_id="22"/>
+            <shield item_id="673"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="206"/>
+            <weapon item_id="84"/>
+            <armor set_id="28"/>
+            <armor set_id="31"/>
+            <armor set_id="30"/>
+            <shield item_id="2497"/>
+        </items>
+    </class>
+    <class id="55"> <!-- Bounty Hunter -->
+        <items grade="A">
+            <weapon item_id="8681"/>
+            <weapon item_id="8683"/>
+            <armor set_id="15"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="7900"/>
+            <weapon item_id="79"/>
+            <armor set_id="24"/>
+            <armor set_id="23"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2503"/>
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <armor set_id="34"/>
+        </items>
+    </class>
+    <class id="57"> <!-- Warsmith -->
+        <items grade="A">
+            <weapon item_id="8681"/>
+            <weapon item_id="8683"/>
+            <armor set_id="15"/>
+            <armor set_id="14"/>
+        </items>
+        <items grade="B">
+            <weapon item_id="7900"/>
+            <weapon item_id="79"/>
+            <armor set_id="24"/>
+            <armor set_id="23"/>
+        </items>
+        <items grade="C">
+            <weapon item_id="2503"/>
+            <weapon item_id="299"/>
+            <armor set_id="35"/>
+            <armor set_id="34"/>
+        </items>
+    </class>
+    <!-- 3nd Prof -->
+    <class id="88">
+        <items grade="S">
+            <weapon item_id="6580"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="89">
+        <items grade="S">
+            <weapon item_id="306"/>
+            <weapon item_id="307"/>
+            <armor set_id="2"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+    <class id="90">
+        <items grade="S">
+            <weapon item_id="6583"/>
+            <armor set_id="3"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="91">
+        <items grade="S">
+            <weapon item_id="6583"/>
+            <armor set_id="3"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="92">
+        <items grade="S">
+            <weapon item_id="7575"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="93">
+        <items grade="S">
+            <weapon item_id="6592"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="94">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="95">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="96">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="97">
+        <items grade="S">
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="98">
+        <items grade="S">
+            <weapon item_id="6580"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="99">
+        <items grade="S">
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="100">
+        <items grade="S">
+            <weapon item_id="6580"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+    <class id="101">
+        <items grade="S">
+            <weapon item_id="6592"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="102">
+        <items grade="S">
+            <weapon item_id="7575"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="103">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="104">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="105">
+        <items grade="S">
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="106">
+        <items grade="S">
+            <weapon item_id="6583"/>
+            <armor set_id="3"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="107">
+        <items grade="S">
+            <weapon item_id="6580"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="108">
+        <items grade="S">
+            <weapon item_id="6592"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="109">
+        <items grade="S">
+            <weapon item_id="7575"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="110">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+        </items>
+    </class>
+    <class id="111">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <armor set_id="2"/>
+        </items>
+    </class>
+    <class id="112">
+        <items grade="S">
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="113">
+        <items grade="S">
+            <weapon item_id="6605"/>
+            <weapon item_id="307"/>
+            <armor set_id="2"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+    <class id="114">
+        <items grade="S">
+            <weapon item_id="6371"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+    <class id="115">
+        <items grade="S">
+            <weapon item_id="6366"/>
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <armor set_id="2"/>
+            <armor set_id="3"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="116">
+        <items grade="S">
+            <weapon item_id="6579"/>
+            <armor set_id="1"/>
+            <shield item_id="6377"/>
+        </items>
+    </class>
+    <class id="117">
+        <items grade="S">
+            <weapon item_id="306"/>
+            <weapon item_id="307"/>
+            <weapon item_id="6365"/>
+            <armor set_id="2"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+    <class id="118">
+        <items grade="S">
+            <weapon item_id="306"/>
+            <weapon item_id="307"/>
+            <weapon item_id="6365"/>
+            <armor set_id="2"/>
+            <armor set_id="3"/>
+        </items>
+    </class>
+</list>

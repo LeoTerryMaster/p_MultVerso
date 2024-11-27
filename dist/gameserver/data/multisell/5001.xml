@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- 5001_armor Luxery Shop -->
+
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="true" keepenchanted="false" />
+
+  <!-- Chain Mail Shirt for 127 C-Cry + 635 D-Cry -->
+  <item id="1">
+    <ingredient id="1459" count="127"/>
+    <ingredient id="1458" count="635"/>
+    <production id="354" count="1"/>
+  </item>
+
+  <!-- Chain Gaiters for 79 C-Cry + 395 D-Cry -->
+  <item id="2">
+    <ingredient id="1459" count="79"/>
+    <ingredient id="1458" count="395"/>
+    <production id="381" count="1"/>
+  </item>
+
+  <!-- Composite Armor for 380 C-Cry + 1800 D-Cry -->
+  <item id="3">
+    <ingredient id="1459" count="380"/>
+    <ingredient id="1458" count="1800"/>
+    <production id="60" count="1"/>
+  </item>
+
+  <!-- Tempered Mithril Shirt for 95 C-Cry + 475 D-Cry -->
+  <item id="4">
+    <ingredient id="1459" count="95"/>
+    <ingredient id="1458" count="475"/>
+    <production id="397" count="1"/>
+  </item>
+
+  <!-- Tempered Mithril Gaiters for 59 C-Cry + 295 D-Cry -->
+  <item id="5">
+    <ingredient id="1459" count="59"/>
+    <ingredient id="1458" count="295"/>
+    <production id="2387" count="1"/>
+  </item>
+
+  <!-- Theca Leather Mail for 207 C-Cry + 1035 D-Cry -->
+  <item id="6">
+    <ingredient id="1459" count="207"/>
+    <ingredient id="1458" count="1035"/>
+    <production id="400" count="1"/>
+  </item>
+
+  <!-- Theca Leather Gaiters for 129 C-Cry + 645 D-Cry -->
+  <item id="7">
+    <ingredient id="1459" count="129"/>
+    <ingredient id="1458" count="645"/>
+    <production id="420" count="1"/>
+  </item>
+
+  <!-- Karmian Tunic for 95 C-Cry + 475 D-Cry -->
+  <item id="8">
+    <ingredient id="1459" count="95"/>
+    <ingredient id="1458" count="475"/>
+    <production id="439" count="1"/>
+  </item>
+
+  <!-- Karmian Stockings for 59 C-Cry + 295 D-Cry -->
+  <item id="9">
+    <ingredient id="1459" count="59"/>
+    <ingredient id="1458" count="295"/>
+    <production id="471" count="1"/>
+  </item>
+
+  <!-- Demon's Tunic for 184 C-Cry + 920 D-Cry -->
+  <item id="10">
+    <ingredient id="1459" count="184"/>
+    <ingredient id="1458" count="920"/>
+    <production id="441" count="1"/>
+  </item>
+
+  <!-- Demon's Stockings for 115 C-Cry + 575 D-Cry -->
+  <item id="11">
+    <ingredient id="1459" count="115"/>
+    <ingredient id="1458" count="575"/>
+    <production id="472" count="1"/>
+  </item>
+
+  <!-- Chain Boots for 32 C-Cry + 160 D-Cry -->
+  <item id="12">
+    <ingredient id="1459" count="32"/>
+    <ingredient id="1458" count="160"/>
+    <production id="2429" count="1"/>
+  </item>
+
+  <!-- Composite Boots for 62 C-Cry + 310 D-Cry -->
+  <item id="13">
+    <ingredient id="1459" count="62"/>
+    <ingredient id="1458" count="310"/>
+    <production id="64" count="1"/>
+  </item>
+
+  <!-- Reinforced Mithril Gloves for 32 C-Cry + 160 D-Cry -->
+  <item id="14">
+    <ingredient id="1459" count="32"/>
+    <ingredient id="1458" count="160"/>
+    <production id="2452" count="1"/>
+  </item>
+
+  <!-- Mithril Gauntlets for 62 C-Cry + 310 D-Cry -->
+  <item id="15">
+    <ingredient id="1459" count="62"/>
+    <ingredient id="1458" count="310"/>
+    <production id="608" count="1"/>
+  </item>
+
+  <!-- Eldarake for 34 C-Cry + 170 D-Cry -->
+  <item id="1">
+    <ingredient id="1459" count="34"/>
+    <ingredient id="1458" count="170"/>
+    <production id="631" count="1"/>
+  </item>
+
+  <!-- Tower Shield for 65 C-Cry + 325 D-Cry -->
+  <item id="2">
+    <ingredient id="1459" count="65"/>
+    <ingredient id="1458" count="325"/>
+    <production id="103" count="1"/>
+  </item>
+
+  <!-- Moonstone Earring for 45 C-Cry + 195 D-Cry -->
+  <item id="1">
+    <ingredient id="1459" count="45"/>
+    <ingredient id="1458" count="195"/>
+    <production id="852" count="1"/>
+  </item>
+
+  <!-- Earring of Binding for 74 C-Cry + 370 D-Cry -->
+  <item id="2">
+    <ingredient id="1459" count="74"/>
+    <ingredient id="1458" count="370"/>
+    <production id="854" count="1"/>
+  </item>
+
+  <!-- Aquastone Ring for 26 C-Cry + 130 D-Cry -->
+  <item id="3">
+    <ingredient id="1459" count="26"/>
+    <ingredient id="1458" count="130"/>
+    <production id="883" count="1"/>
+  </item>
+
+  <!-- Ring of Ages for 49 C-Cry + 245 D-Cry -->
+  <item id="4">
+    <ingredient id="1459" count="49"/>
+    <ingredient id="1458" count="245"/>
+    <production id="885" count="1"/>
+  </item>
+
+  <!-- Aquastone Necklace for 52 C-Cry + 260 D-Cry -->
+  <item id="5">
+    <ingredient id="1459" count="52"/>
+    <ingredient id="1458" count="260"/>
+    <production id="915" count="1"/>
+  </item>
+
+  <!-- Necklace of Mermaid for 99 C-Cry + 495 D-Cry -->
+  <item id="6">
+    <ingredient id="1459" count="99"/>
+    <ingredient id="1458" count="495"/>
+    <production id="917" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="tetrarch_exec_creed" type="LOOP" is_running="true">
+		<node x="23436" y="11164" z="-3720" />
+		<node x="20256" y="11104" z="-3720" />
+		<node x="17330" y="13579" z="-3728" />
+		<node x="17415" y="13044" z="-3736" chat_type="ALL" msg_addr="THE_MASS_OF_DARKNESS_WILL_START_IN_A_COUPLE_OF_DAYS" delay="10000" />
+		<node x="20153" y="12880" z="-3712" />
+		<node x="21621" y="13349" z="-3624" />
+		<node x="20686" y="10432" z="-3712" />
+		<node x="22426" y="10260" z="-3648" />
+		<node x="23436" y="11164" z="-3720" />
+	</moveroute>
+</list>

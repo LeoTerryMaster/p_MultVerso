@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "phrases.dtd">
+<list>
+    <phrase text="Hello" type="TELL" chance="70"/>
+    <phrase text="leave me alone!" type="TELL"/>
+    <phrase text="f1ck off" type="TELL"/>
+    <phrase text="Nice server" type="ALL" />
+    <phrase text="Hello every one" type="ALL" />
+    <phrase text="Hello every one" type="SHOUT" />
+    <phrase text="WTB Draconic Leatger set" type="TRADE" />
+    <phrase text="WTS A Grade jewelery" type="TRADE" />
+    <phrase text="WTB craft armor peaces" type="TRADE" />
+</list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+
+<list>
+	<moveroute name="lost_57" type="CIRCLE" is_running="true">
+		<node x="20892" y="-14308" z="-3048" delay="5000"/>
+		<node x="20617" y="-14020" z="-2992" delay="5000"/>
+		<node x="20858" y="-13524" z="-2936" delay="5000"/>
+		<node x="21125" y="-13833" z="-3072" delay="5000"/>
+		<node x="20468" y="-14269" z="-2984" delay="5000"/>
+		<node x="21014" y="-14673" z="-3056" delay="5000"/>
+		<node x="20641" y="-14959" z="-3048" delay="5000"/>
+	</moveroute>
+</list>

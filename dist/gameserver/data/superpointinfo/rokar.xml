@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="flame_keeper_lokar" type="CIRCLE">
+		<node x="-46516" y="-117700" z="-240" />
+		<node x="-45550" y="-115420" z="-240" />
+		<node x="-44052" y="-114575" z="-240" />
+		<node x="-44024" y="-112688" z="-240" />
+		<node x="-45748" y="-111665" z="-240" />
+		<node x="-46512" y="-109390" z="-208" delay="5000" />
+	</moveroute>
+</list>

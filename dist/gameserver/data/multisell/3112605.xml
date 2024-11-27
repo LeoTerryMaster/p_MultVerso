@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Blacksmith of Mammon: "Manufacture an S-grade sword." -->
+
+<list>
+    <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+    <!-- ignoreprice не работает с keepencahnted -->
+    <config showall="true" notax="true" keepenchanted="false" npcid="31126" />
+    <!-- Ингрейдиенты неточные, взяты от Tallum Blade*Dark Legion's Edge -->
+    <!-- Tallum Blade*Dark Legion's Edge -->
+    <item>
+        <ingredient id="80" count="1"/>
+        <ingredient id="2500" count="1"/>
+        <ingredient id="5126" count="1"/>
+        <ingredient id="5575" count="3600000"/>
+        <production id="6580" count="1"/>
+    </item>
+
+</list>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="bard_casiel" type="CIRCLE">
+		<node x="43932" y="51096" z="-2992" />
+		<node x="43304" y="50364" z="-2992" />
+		<node x="43041" y="49312" z="-2992" />
+		<node x="43612" y="48322" z="-2992" />
+		<node x="44009" y="47645" z="-2992" />
+		<node x="45309" y="47341" z="-2992" chat_type="ALL" msg_addr="THE_MOTHER_TREE_IS_ALWAYS_SO_GORGEOUS" delay="5000" />
+		<node x="46726" y="47762" z="-2992" />
+		<node x="47509" y="49004" z="-2992" />
+		<node x="47443" y="50456" z="-2992" />
+		<node x="47013" y="51287" z="-2992" chat_type="ALL" msg_addr="LADY_MIRABEL_MAY_THE_PEACE_OF_THE_LAKE_BE_WITH_YOU" delay="60000" />
+	</moveroute>
+</list>

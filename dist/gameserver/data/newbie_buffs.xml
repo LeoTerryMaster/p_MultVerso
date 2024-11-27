@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+    <warrior max_level="25">
+        <buff skill_id="4322" skill_level="1" min_level="8" />
+        <buff skill_id="4323" skill_level="1" min_level="11" />
+        <buff skill_id="4324" skill_level="1" min_level="12" />
+        <buff skill_id="4325" skill_level="1" min_level="13" />
+        <buff skill_id="4326" skill_level="1" min_level="14" />
+        <buff skill_id="4327" skill_level="1" min_level="15" />
+        <buff skill_id="4338" skill_level="1" min_level="16" />
+    </warrior>
+    <mage max_level="25">
+        <buff skill_id="4322" skill_level="1" min_level="8" />
+        <buff skill_id="4323" skill_level="1" min_level="11" />
+        <buff skill_id="4328" skill_level="1" min_level="12" />
+        <buff skill_id="4329" skill_level="1" min_level="13" />
+        <buff skill_id="4330" skill_level="1" min_level="14" />
+        <buff skill_id="4331" skill_level="1" min_level="15" />
+        <buff skill_id="4338" skill_level="1" min_level="16" />
+    </mage>
+</list>

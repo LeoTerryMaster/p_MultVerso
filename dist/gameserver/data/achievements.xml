@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE achievements SYSTEM "achievements.dtd">
+<achievements enabled="false" voice_commands="achiv">
+
+    <!-- Starter Category -->
+    <category name="starter" title_address="starter_login_title" />
+    <achievement id="1" name_address="starter_login_name" category="starter" type="LOGIN" icon="L2UI_CH3.menuicon1">
+        <stage level="1" value="1" desc_address="starter_login_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="2" name_address="starter_quest_complite" category="starter" type="QUEST_STATE" icon="l2ui_ch3.mainwndtabicon5">
+        <conds>
+            <cond name="self_quest_state_is" value="Completed" />
+            <!--  <cond name="self_quest_id_in" value="1" /> -->  <!-- Example: Finish Quest Letters Of Love -->
+        </conds>
+        <stage level="1" value="5" desc_address="starter_quest_complite_stage1"> <!-- Finish any 5 quests-->
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="20" desc_address="starter_quest_complite_stage2"> <!-- Finish any 20 quests-->
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="3" name_address="starter_level_name" category="starter" type="LEVEL" icon="Icon.skill4416_none">
+        <conds>
+            <cond name="self_level_in_range" value="20-81" />
+        </conds>
+        <stage level="1" value="20" desc_address="starter_level_stage_1_desc">
+            <conds>
+                <cond name="self_level_in_range" value="20-81" /> <!-- Get job level 20 -->
+            </conds>
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="40" desc_address="starter_level_stage_2_desc">
+            <conds>
+                <cond name="self_level_in_range" value="40-81" /> <!-- Get job level 40 -->
+            </conds>
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="3" value="76" desc_address="starter_level_stage_3_desc">
+            <conds>
+                <cond name="self_level_in_range" value="76-81" /> <!-- Get job level 76 -->
+            </conds>
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="4" name_address="starter_mobkill_name" category="starter" type="NPC_KILL" icon="Icon.skill4299">
+        <stage level="1" value="100" desc_address="starter.mobkill">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="5" name_address="starter_die_name" category="starter" type="DEATH" icon="icon.skill5076_a">
+        <stage level="1" value="10" desc_address="starter.die">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+
+    <!-- Daily -->
+    <category name="daily" title_address="daily_title" />
+    <achievement id="6" name_address="daily_login_name" category="daily" type="LOGIN" metric_stage_notify_delay="600" expire_cron="30 6 * * *" icon="l2ui_ch3.systemicon6">
+        <stage level="1" value="1" desc_address="daily_login_desc">
+            <conds>
+                <cond name="self_min_online_time" value="599"/>
+            </conds>
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="7" name_address="daily_game_time_name" category="daily" type="LOGIN" metric_stage_notify_delay="3600" expire_cron="30 6 * * *" icon="Icon.skill1248">
+        <stage level="1" value="1" desc_address="daily_game_time_desc">
+            <conds>
+                <cond name="self_min_online_time" value="3599"/>
+            </conds>
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="8" name_address="daily_mob_killer" category="daily" type="NPC_KILL" expire_cron="30 6 * * *" icon="Icon.skill4299">
+        <conds>
+            <cond name="self_target_max_lvl_diff" value="9" /> <!-- Maximum level diff for mob kill -->
+        </conds>
+        <stage level="1" value="100" desc_address="daily_mob_killer_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="1000" desc_address="daily_mob_killer_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="9" name_address="daily_raid_killer" category="daily" type="RAID_PARTICIPATION" expire_cron="30 6 * * *" icon="Icon.skill4111">
+        <conds>
+            <cond name="is_raid_boss" value="true" /> <!-- Condition: only raid boss -->
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage to Achievement get-->
+        </conds>
+        <stage level="1" value="10" desc_address="daily_raid_killer_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="100" desc_address="daily_raid_killer_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+
+    <!-- PvP -->
+    <category name="pvp" title_address="player_killer_title" />
+    <achievement id="10" name_address="player_killer_name" category="pvp" type="PVP_KILL" expire_cron="30 6 * * *" icon="Icon.skill0297">
+        <stage level="1" value="10" desc_address="player_killer_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="100" desc_address="player_killer_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="11" name_address="pk_player_killer_name" category="pvp" type="PVP_KILL" expire_cron="30 6 * * *" icon="Icon.skill4336">
+        <conds>
+            <cond name="is_karma_player" value="true" />
+        </conds>
+        <stage level="1" value="10" desc_address="pk_player_killer_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="100" desc_address="pk_player_killer_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+
+    <!-- Olympiad -->
+    <category name="olympiad" title_address="olympiad_event_title" />
+
+    <achievement id="12" name_address="oly_reg_name" category="olympiad" type="OLYMPIAD" expire_cron="30 6 * * *" icon="L2UI_CH3.bloodhood_icon03">
+        <stage level="1" value="10" desc_address="oly_reg_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="20" desc_address="oly_reg_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="13" name_address="oly_winner_name" category="olympiad" type="OLYMPIAD" expire_cron="30 6 * * *" icon="L2UI_CH3.bloodhood_icon04">
+        <conds>
+            <cond name="is_oly_winner" value="true" />
+        </conds>
+        <stage level="1" value="10" desc_address="oly_winner_stage1">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+        <stage level="2" value="20" desc_address="oly_winner_stage2" >
+            <rewards>
+                <reward item_id="57" min="200" max="2000" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+
+    <!-- Epic and Raids -->
+    <category name="epic" title_address="epic_title" />
+    <achievement id="14" name_address="queen_ant_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_ring_of_queen_ant_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29001" />
+        </conds>
+        <stage level="1" value="1" desc_address="queen_ant_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="15" name_address="core_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_ring_of_core_i00">
+        <conds>
+            <cond name="target_npc_min_damage_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29006" />
+        </conds>
+        <stage level="1" value="1" desc_address="core_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="16" name_address="orfen_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_earring_of_orfen_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29014" />
+        </conds>
+        <stage level="1" value="1" desc_address="orfen_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="17" name_address="zaken_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_earring_of_zaken_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29022" />
+        </conds>
+        <stage level="1" value="1" desc_address="zaken_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="18" name_address="baium_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_ring_of_baium_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29020" />
+        </conds>
+        <stage level="1" value="1" desc_address="baium_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="19" name_address="antharas_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_earring_of_antaras_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29068" />
+        </conds>
+        <stage level="1" value="1" desc_address="antharas_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="20" name_address="valakas_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_necklace_of_valakas_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29028" />
+        </conds>
+        <stage level="1" value="1" desc_address="valakas_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+    <achievement id="21" name_address="frintezza_epic_killer" category="epic" type="RAID_PARTICIPATION" icon="icon.accessory_necklace_of_frintessa_i00">
+        <conds>
+            <cond name="target_npc_min_hate_to_me" value="1000" /> <!-- Minimum damage for Achievement get-->
+            <cond name="npc_id_in_list" value="29047" />
+        </conds>
+        <stage level="1" value="1" desc_address="frintezza_kill_desc">
+            <rewards>
+                <reward item_id="57" min="1" max="100" chance="100"/>
+            </rewards>
+        </stage>
+    </achievement>
+
+</achievements>

@@ -1,0 +1,16 @@
+<!ELEMENT list (skill)*>
+<!ELEMENT skill (route)*>
+<!ATTLIST skill
+        id CDATA #REQUIRED>
+<!ELEMENT route (enchant)*>
+<!ATTLIST route
+        id CDATA #REQUIRED>
+<!ELEMENT enchant (#PCDATA)>
+<!ATTLIST enchant
+        chances CDATA #REQUIRED
+        exp CDATA #REQUIRED
+        level CDATA #REQUIRED
+        neededItemCount CDATA #IMPLIED
+        neededItemId CDATA #IMPLIED
+        skillLvl CDATA #REQUIRED
+        sp CDATA #REQUIRED>

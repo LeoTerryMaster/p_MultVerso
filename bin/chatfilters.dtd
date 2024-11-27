@@ -1,0 +1,26 @@
+<!ELEMENT ChatFilters (ChatFilter)*>
+<!ELEMENT ChatFilter ((Channels?,ExcludePremium?,Words?,Maps?,Level?,JobLevel?,OnlineTime?,LiveTime?,Limit?,FloodLimit?,RecipientLimit?,(Or|And|Not|Xor)*)+,Action,(WarnMsg|ReplaceMsg|RedirectChannel|BanTime))>
+<!ELEMENT Or (Channels?,ExcludePremium?,Words?,Maps?,Level?,JobLevel?,OnlineTime?,LiveTime?,Limit?,FloodLimit?,RecipientLimit?,(Or|And|Not|Xor)*)+>
+<!ELEMENT And (Channels?,ExcludePremium?,Words?,Maps?,Level?,JobLevel?,OnlineTime?,LiveTime?,Limit?,FloodLimit?,RecipientLimit?,(Or|And|Not|Xor)*)+>
+<!ELEMENT Not (Channels?,ExcludePremium?,Words?,Maps?,Level?,JobLevel?,OnlineTime?,LiveTime?,Limit?,FloodLimit?,RecipientLimit?,(Or|And|Not|Xor)*)+>
+<!ELEMENT Xor (Channels?,ExcludePremium?,Words?,Maps?,Level?,JobLevel?,OnlineTime?,LiveTime?,Limit?,FloodLimit?,RecipientLimit?,(Or|And|Not|Xor)*)+>
+<!ELEMENT Channels (#PCDATA)>
+<!ELEMENT Words (#PCDATA)>
+<!ELEMENT Maps (#PCDATA)>
+<!ELEMENT Level (#PCDATA)>
+<!ELEMENT JobLevel (#PCDATA)>
+<!ELEMENT OnlineTime (#PCDATA)>
+<!ELEMENT LiveTime (#PCDATA)>
+<!ELEMENT Limit (Count,Time,Burst)>
+<!ELEMENT FloodLimit (Count,Time,Burst)>
+<!ELEMENT RecipientLimit (Count,Time,Burst)>
+<!ELEMENT Count (#PCDATA)>
+<!ELEMENT Time (#PCDATA)>
+<!ELEMENT Burst (#PCDATA)>
+<!ELEMENT Action (#PCDATA)>
+<!ELEMENT ExcludePremium (#PCDATA)>
+<!ELEMENT WarnMsg (#PCDATA)>
+<!ELEMENT ReplaceMsg (#PCDATA)>
+<!ELEMENT RedirectChannel (#PCDATA)>
+<!ELEMENT BanTime (#PCDATA)>
+

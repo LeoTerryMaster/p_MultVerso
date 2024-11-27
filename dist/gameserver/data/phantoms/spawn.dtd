@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+        <!ELEMENT list (spawn)*>
+        <!ELEMENT spawn (territory)*>
+        <!ATTLIST spawn
+                type CDATA #REQUIRED
+                count CDATA #REQUIRED
+                gradeMin CDATA #REQUIRED
+                gradeMax CDATA #REQUIRED>
+        <!ELEMENT territory (add)*>
+        <!ELEMENT add (#PCDATA)>
+        <!ATTLIST add
+                x CDATA #REQUIRED
+                y CDATA #REQUIRED
+                zmin CDATA #REQUIRED
+                zmax CDATA #REQUIRED>

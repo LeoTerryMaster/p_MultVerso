@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ChatFilters SYSTEM "chatfilters.dtd">
+<ChatFilters>
+	<!-- Prohibited for Niewbies chat, limit level, send Warning -->
+	<!--
+	<ChatFilter>
+	  <Channels>SHOUT,TRADE,L2FRIEND</Channels>
+	  <Level>20</Level>
+	  <Action>WarnMsg</Action>
+	  <WarnMsg>common.ChattingProhibitedForNiewbies</WarnMsg>
+	 </ChatFilter>
+	 -->
+	<!-- Shopping and the shout chat, limit level, to redirect in general chat -->
+	<!--
+	<ChatFilter>
+		<Channels>SHOUT,TRADE</Channels>
+		<Level>20</Level>
+		<Action>RedirectMsg</Action>
+		<RedirectChannel>ALL</RedirectChannel>
+	</ChatFilter>
+	-->
+	<!-- Auto redirection on purchase/sale from Shout to Trade chat -->
+	<!--
+	<ChatFilter>
+		<Channels>SHOUT</Channels>
+		<Words>
+			\bwtb\b
+			\bwtt\b
+			\bwts\b
+		</Words>
+		<Action>RedirectMsg</Action>
+		<RedirectChannel>TRADE</RedirectChannel>
+	</ChatFilter>
+	-->
+	<!-- censors for basic public channels -->
+	<ChatFilter>
+		<Channels>ALL,SHOUT,TELL,TRADE,HERO_VOICE</Channels>
+		<Words>
+			\bfuck\b
+			\bnigger\b
+		</Words>
+		<Action>ReplaceMsg</Action>
+		<ReplaceMsg>[censored]</ReplaceMsg>
+	</ChatFilter>	
+	<!-- Shopping and the main cities in the chat, limits on frequency of use -->
+	<!--
+	<ChatFilter>
+		<Channels>SHOUT,TRADE</Channels>
+		<Maps>19_21,20_22,22_22,21_23,22_19,24_18,23_24,24_16,21_16,22_13</Maps>
+		<Limit>
+			<Count>1</Count>
+			<Time>30</Time>
+			<Burst>3</Burst>
+		</Limit>
+		<Action>WarnMsg</Action>
+		<WarnMsg>common.ChattingFast</WarnMsg>
+	</ChatFilter>
+	-->
+	<!-- Shopping and shout -->
+	<ChatFilter>
+		<Channels>SHOUT,TRADE</Channels>
+		<Limit>
+			<Count>1</Count>
+			<Time>5</Time>
+			<Burst>2</Burst>
+		</Limit>
+		<Action>WarnMsg</Action>
+		<WarnMsg>common.ChattingFast</WarnMsg>
+	</ChatFilter>
+	<!-- Hero chat -->
+	<ChatFilter>
+		<Channels>HERO_VOICE</Channels>
+		<Limit>
+			<Count>1</Count>
+			<Time>10</Time>
+			<Burst>1</Burst>
+		</Limit>
+		<Action>WarnMsg</Action>
+		<WarnMsg>common.ChattingHero</WarnMsg>
+	</ChatFilter>	
+	<!-- Private chat filter from spam bots -->
+	<!--
+	<ChatFilter>
+		<Channels>TELL</Channels>
+		<RecipientLimit>
+			<Count>1</Count>
+			<Time>30</Time>
+			<Burst>5</Burst>
+		</RecipientLimit>
+		<Action>ReplaceMsg</Action>
+		<ReplaceMsg></ReplaceMsg>
+	</ChatFilter>
+	-->
+	<!-- General chat in the cities, the level of restriction -->
+	<!-- Shopping and the main cities in the chat, the limit on the level and total online time -->
+	<!--
+	<ChatFilter>
+		<ExcludePremium>True</ExcludePremium>
+		<Maps>19_21,20_22,22_22,21_23,22_19,24_18,23_24,24_16,21_16,22_13</Maps>
+		<Or>
+			<And>
+				<Channels>ALL</Channels>
+				<Level>30</Level>
+			</And>
+			<And>
+				<Channels>SHOUT,TRADE</Channels>
+				<Or>
+					<Level>40</Level>
+					<OnlineTime>10800</OnlineTime>
+				</Or>
+			</And>
+		</Or>
+		<Action>WarnMsg</Action>
+		<WarnMsg>common.ChattingProhibited</WarnMsg>
+	</ChatFilter>
+	-->
+	<!-- flood protect for the main public channels -->
+	<!--
+	<ChatFilter>
+		<Channels>ALL,SHOUT,TELL,TRADE</Channels>
+		<FloodLimit>
+			<Count>1</Count>
+			<Time>10</Time>
+			<Burst>5</Burst>
+		</FloodLimit>
+		<Action>BanChat</Action>
+		<BanTime>300</BanTime>
+	</ChatFilter>
+	-->
+</ChatFilters>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="tetrarch_agent_alhena" type="LOOP">
+		<node x="10968" y="14620" z="-4240" />
+		<node x="11308" y="15847" z="-4584" />
+		<node x="12119" y="16441" z="-4584" />
+		<node x="15104" y="15661" z="-4376" chat_type="ALL" msg_addr="YOURE_A_HARD_WORKER_RAYLA" delay="5000" />
+		<node x="15265" y="16288" z="-4376" />
+		<node x="12292" y="16934" z="-4584" />
+		<node x="11777" y="17669" z="-4584" />
+		<node x="11229" y="17650" z="-4568" />
+		<node x="10641" y="17282" z="-4584" />
+		<node x="7683" y="18034" z="-4376" chat_type="ALL" msg_addr="YOURE_A_HARD_WORKER" delay="5000" />
+		<node x="10551" y="16775" z="-4584" />
+		<node x="11004" y="15942" z="-4584" />
+		<node x="10827" y="14757" z="-4240" />
+		<node x="10968" y="14620" z="-4240" />
+	</moveroute>
+</list>

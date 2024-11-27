@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- 5004_weapon Luxery Shop -->
+
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="true" keepenchanted="false" />
+
+  <!-- Flamberge for 573 C-Cry + 2865 D-Cry -->
+  <item id="1">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="71" count="1"/>
+  </item>
+
+  <!-- Stormbringer for 573 C-Cry + 2865 D-Cry -->
+  <item id="2">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="72" count="1"/>
+  </item>
+
+  <!-- Sword of Delusion for 1075 C-Cry + 5375 D-Cry -->
+  <item id="3">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="76" count="1"/>
+  </item>
+
+  <!-- Silver Axe for 573 C-Cry + 2865 D-Cry -->
+  <item id="4">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="161" count="1"/>
+  </item>
+
+  <!-- War Axe for 1075 C-Cry + 5375 D-Cry -->
+  <item id="5">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="162" count="1"/>
+  </item>
+
+  <!-- Crystal Staff for 573 C-Cry + 2865 D-Cry -->
+  <item id="6">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="192" count="1"/>
+  </item>
+
+  <!-- Sages Staff for 1075 C-Cry + 5375 D-Cry -->
+  <item id="7">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="200" count="1"/>
+  </item>
+
+  <!-- Cursed Dagger for 573 C-Cry + 2865 D-Cry -->
+  <item id="8">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="226" count="1"/>
+  </item>
+
+  <!-- Dark Screamer for 1075 C-Cry + 5375 D-Cry -->
+  <item id="9">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="233" count="1"/>
+  </item>
+
+  <!-- Chakram for 573 C-Cry + 2865 D-Cry -->
+  <item id="10">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="263" count="1"/>
+  </item>
+
+  <!-- Fist Blade for 1075 C-Cry + 5375 D-Cry -->
+  <item id="11">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="265" count="1"/>
+  </item>
+
+  <!-- Crystalized Ice Bow for 573 C-Cry + 2865 D-Cry -->
+  <item id="12">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="281" count="1"/>
+  </item>
+
+  <!-- Akat Long Bow for 1075 C-Cry + 5375 D-Cry -->
+  <item id="13">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="283" count="1"/>
+  </item>
+
+  <!-- Orcish Glaive for 573 C-Cry + 2865 D-Cry -->
+  <item id="14">
+    <ingredient id="1459" count="573"/>
+    <ingredient id="1458" count="2865"/>
+    <production id="298" count="1"/>
+  </item>
+
+  <!-- Poleaxe for 1075 C-Cry + 5375 D-Cry -->
+  <item id="15">
+    <ingredient id="1459" count="1075"/>
+    <ingredient id="1458" count="5375"/>
+    <production id="95" count="1"/>
+  </item>
+</list>

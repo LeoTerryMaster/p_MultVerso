@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+        <!ELEMENT list (set)*>
+        <!ELEMENT set (item)*>
+        <!ATTLIST set
+                set_id CDATA #REQUIRED>
+        <!ELEMENT item (#PCDATA)>
+        <!ATTLIST item
+                id CDATA #REQUIRED>

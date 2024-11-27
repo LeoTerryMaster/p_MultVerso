@@ -1,0 +1,79 @@
+<html>
+<body>
+<center>
+<table cellspacing="0" cellpadding="2" border="0" width="610">
+<tr>
+     <td FIXWIDTH="116">
+	 <table height="465" bgcolor="909090"> <!-- 448 -->
+	<tr>
+		<td>
+		<br><br>
+			<button value="Главная" action="bypass _bbspage:index" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Магазин" action="bypass _bbspage:shop" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Телепортер" action="bypass _bbspage:teleport" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Профессии" action="bypass _cbbsquestsmain 0" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Баффер" action="bypass scripts_services.Buffer:actBBS reply=buff" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Информация" action="bypass _bbspage:rate" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Сервисы" action="bypass _bbspage:services" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Команды" action="bypass _bbspage:commands" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<button value="Ивенты" action="bypass _bbspage:events" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+			<!-- Форум -->
+			<button value="Личный Кабинет" action="bypass _bbscstats" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+		</td>
+	</tr>
+	</table>
+</td>
+<td>
+
+<table width="230" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td><button value="Stats" action="bypass _bbscstats" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+		<td><button value="Password" action="bypass _bbscpassword" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+		<td><button value="Repair" action="bypass _bbscrepair" width=50 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1></td>
+	</tr>
+</table>
+
+<table width="610" cellpadding="0" height=180 cellspacing="0" align="top" bgcolor="909090">
+	<tr>
+		<td FIXWIDTH=400>
+		<br>
+		<table BACKGROUND="L2UI_CT1.MISC_DF_SERVERSELECT_BACK" WIDTH=322 HEIGHT=335 border=0>
+		<tr><td ALIGN="center" height=40>
+			<font color="LEVEL">Change password:</font>
+		</td></tr>
+		<tr><td ALIGN="center" height=150>
+			<table border=0 cellspacing=0 cellpadding=0 WIDTH=290 >
+			<tr>
+				<td ALIGN="right">Current password:</td>
+				<td ALIGN="center" WIDTH=140 height=32><edit var="currpass" TYPE="password" width=130 height=14 length=18><br></td>
+				<td ALIGN="left">*</td>
+			</tr>
+			<tr>
+				<td ALIGN="right" >New password:</td>
+				<td ALIGN="center" WIDTH=150 height=26><edit var="newpass0" TYPE="password" width=130 height=14 length=18></td>
+				<td ALIGN="left">*</td>
+			</tr>
+			<tr>
+				<td ALIGN="right" >Confirm new password:</td>
+				<td ALIGN="center" WIDTH=150 height=26><edit var="newpass1" TYPE="password" width=130 height=14 length=18></td>
+				<td ALIGN="left">*</td>
+			</tr>
+			</table>
+			<br>
+			&nbsp;* - 4-14 english characters, digits, _ and -
+		</td></tr>
+		<tr><td ALIGN="center">
+			<button value="OK" action="bypass _bbscpassword $currpass $newpass0 $newpass1"  back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" width=100 height=22>
+		</td></tr>
+		</table>
+	</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+</center>
+</body>
+</html>
+
+

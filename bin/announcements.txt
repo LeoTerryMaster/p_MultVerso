@@ -1,0 +1,3 @@
+Lucera 2 Project.
+Please change announcements.txt file.
+

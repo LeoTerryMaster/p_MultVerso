@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- QUEST 351_BlackSwan_exchange -->
+
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="true" keepenchanted="false" />
+
+  <!-- 1 Bill = 700 Adena -->
+  <item id="1">
+    <ingredient id="4310" count="1"/>
+    <production id="57" count="700"/>
+  </item>
+
+  <!-- 3 Bills = Animal Skin -->
+  <item id="2">
+    <ingredient id="4310" count="3"/>
+    <production id="1867" count="1"/>
+  </item>
+
+  <!-- 3 Bills = Animal Bone -->
+  <item id="3">
+    <ingredient id="4310" count="3"/>
+    <production id="1872" count="1"/>
+  </item>
+
+  <!-- 2 Bills = 10 Coal -->
+  <item id="4">
+    <ingredient id="4310" count="2"/>
+    <production id="1870" count="10"/>
+  </item>
+
+  <!-- 2 Bills = 10 Charcoal -->
+  <item id="5">
+    <ingredient id="4310" count="2"/>
+    <production id="1871" count="10"/>
+  </item>
+
+  <!-- 3 Bills = 2 Coarse Bone Powder -->
+  <item id="6">
+    <ingredient id="4310" count="3"/>
+    <production id="1881" count="2"/>
+  </item>
+
+  <!-- 3 Bills = 1 Oriharukon Ore -->
+  <item id="7">
+    <ingredient id="4310" count="3"/>
+    <production id="1874" count="1"/>
+  </item>
+
+  <!-- 3 Bills = 1 Stone of Purity -->
+  <item id="8">
+    <ingredient id="4310" count="3"/>
+    <production id="1875" count="1"/>
+  </item>
+
+  <!-- 5 Bills = 1 Metal Hardener -->
+  <item id="9">
+    <ingredient id="4310" count="5"/>
+    <production id="5220" count="1"/>
+  </item>
+
+  <!-- 5 Bills = 6 Cokes -->
+  <item id="10">
+    <ingredient id="4310" count="5"/>
+    <production id="1879" count="6"/>
+  </item>
+
+  <!-- 6 Bills = 1 Crafted Leather -->
+  <item id="11">
+    <ingredient id="4310" count="6"/>
+    <production id="1879" count="1"/>
+  </item>
+
+  <!-- 7 Bills = 1 Synthetic Cokes -->
+  <item id="12">
+    <ingredient id="4310" count="7"/>
+    <production id="1888" count="1"/>
+  </item>
+
+  <!-- 9 Bills = 1 Varnish of Purity-->
+  <item id="13">
+    <ingredient id="4310" count="9"/>
+    <production id="1887" count="1"/>
+  </item>
+
+  <!-- 9 Bills = 10 Leather -->
+  <item id="14">
+    <ingredient id="4310" count="9"/>
+    <production id="1882" count="10"/>
+  </item>
+
+</list>

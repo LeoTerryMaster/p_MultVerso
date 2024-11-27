@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="64" name="Fortress of Dead" type="SIEGE_EVENT" impl="ClanHallSiege">
+		<parameter name="day_of_weak" value="4"/>
+		<parameter name="hour_of_day" value="18"/>
+		<on_init>
+			<init name="doors" />
+			<init name="siege_zones" />
+			<init name="flag_zones" />
+			<init name="zones" />
+			<if name="owner">
+				<spawn name="owner_list" />
+			</if>
+			<start name="registration" />
+		</on_init>
+		<on_start>
+			<refresh name="doors" />
+			<if name="old_owner">
+				<despawn name="owner_list" />
+			</if>
+			<spawn name="guards" />
+			<spawn name="boss" />
+			<active name="zones" />
+			<active name="siege_zones" />
+			<teleport_players id="attackers" />
+			<teleport_players id="spectators" />
+		</on_start>
+		<on_stop>
+			<refresh name="doors" />
+			<if name="owner">
+				<spawn name="owner_list" />
+			</if>
+			<despawn name="guards" />
+			<despawn name="boss" />
+			<teleport_players id="spectators" />
+			<deactive name="siege_zones" />
+			<deactive name="zones" />
+			<start name="registration" />
+		</on_stop>
+		<on_time>
+			<on time="-3600">
+				<stop name="registration" />
+			</on>
+			<on time="0">
+				<start name="event" />
+			</on>
+			<on time="7200">
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="doors">
+			<door id="21170001" />
+			<door id="21170002" />
+			<door id="21170003" />
+			<door id="21170004" />
+			<door id="21170005" />
+			<door id="21170006" />
+		</objects>
+		<objects name="siege_zones">
+			<zone name="[fortress_of_restless_siege]" />
+		</objects>
+		<objects name="owner_list">
+			<spawn_ex name="fortress_of_dead_owner" />
+		</objects>
+		<objects name="guards">
+			<spawn_ex name="fortress_of_dead_guards" />
+		</objects>
+		<objects name="zones">
+			<zone name="lidia_zone1" />
+			<zone name="lidia_zone2" />
+			<zone name="lidia_zone3" />
+		</objects>
+		<objects name="boss">
+			<spawn_ex name="fortress_of_dead_boss" />
+		</objects>
+		<objects name="flag_zones">
+			<zone name="[fortress_of_restless_hq]" />
+		</objects>
+	</event>
+</list>

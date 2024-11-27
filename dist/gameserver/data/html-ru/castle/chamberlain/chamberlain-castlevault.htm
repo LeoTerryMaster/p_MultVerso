@@ -1,0 +1,23 @@
+![Управляющий хранилищем замка]
+
+На данный момент в хранилище замка имеется <font color="00ffff">%Treasure% Аден</font>.
+
+Собрано налогов: <font color="CCFF00">%CollectedShops% Аден</font>. Доход от продажи семян за текущий период: <font color="CCFF00">%CollectedSeed% Аден</font>.
+
+Введите сумму, которую Вы желаете вложить или забрать.
+
+<center>
+
+<table height=27 width=280 bgColor="cccccc"><tbody><tr>
+<td align=middle width=40>Сумма</td>
+<td align=left width=190><edit width="180" var="amount" type="number"></td>
+<td align=left width=40>Аден</td>
+</tr></tbody></table>
+
+<button value="Забрать" action="bypass -h npc_%objectId%_TakeTreasure $amount" width=67 height=19 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton">
+
+<button value="Вложить" action="bypass -h npc_%objectId%_PutTreasure $amount" width=67 height=19 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton">
+
+<button value="Отмена" action="bypass -h npc_%objectId%_default" width=67 height=19 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton">
+
+</center>

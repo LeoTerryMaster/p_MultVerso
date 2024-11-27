@@ -1,0 +1,22 @@
+<!ELEMENT list (variation_data)*>
+<!ELEMENT variation_data (options)*>
+<!ATTLIST variation_data
+	mineralId CDATA #REQUIRED>
+
+
+<!ELEMENT options (variation1|variation2)*>
+<!ATTLIST options
+	type CDATA #REQUIRED>
+	
+<!ELEMENT variation1 (group)*>
+<!ELEMENT variation2 (group)*>
+	
+<!ELEMENT group (option)*>
+<!ATTLIST group
+	chance CDATA #REQUIRED>
+	
+<!ELEMENT option (#PCDATA)*>
+<!ATTLIST option
+	id CDATA #REQUIRED
+	chance CDATA #REQUIRED>
+	

@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `bbs_comteleport` (
+  `TpId` int(11) NOT NULL AUTO_INCREMENT,
+  `charId` int(11) DEFAULT NULL,
+  `Xpos` int(9) NOT NULL DEFAULT '0',
+  `Ypos` int(9) NOT NULL DEFAULT '0',
+  `Zpos` int(9) NOT NULL DEFAULT '0',
+  `name` varchar(250) NOT NULL DEFAULT '',
+  PRIMARY KEY (`TpId`)
+) ENGINE=MyISAM AUTO_INCREMENT=50 DEFAULT CHARSET=utf8;

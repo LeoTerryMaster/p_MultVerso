@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "optiondata.dtd">
+<list>
+	<optiondata id="7500">
+		<!-- 1) Макс. HP +22.08 2) Макс. CP +30.49 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="maxCp" value="30.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7501">
+		<!-- 1) Макс. HP +22.08 2) Физ. Атк. +2.68 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="pAtk" value="2.68" />
+		</for>
+	</optiondata>
+	<optiondata id="7502">
+		<!-- 1) Макс. HP +22.08 2) Маг. Атк. +3.08 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="mAtk" value="3.08" />
+		</for>
+	</optiondata>
+	<optiondata id="7503">
+		<!-- 1) Макс. HP +22.08 2) Восстановление HP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="regHp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7504">
+		<!-- 1) Макс. HP +22.08 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7505">
+		<!-- 1) Макс. HP +22.08 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7506">
+		<!-- 1) Макс. HP +22.08 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7507">
+		<!-- 1) Макс. HP +22.08 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7508">
+		<!-- 1) Макс. HP +22.08 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="22.08" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7509">
+		<!-- 1) Макс. MP +6.96 2) Макс. CP +30.49 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="maxCp" value="30.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7510">
+		<!-- 1) Макс. MP +6.96 2) Физ. Атк. +2.68 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="pAtk" value="2.68" />
+		</for>
+	</optiondata>
+	<optiondata id="7511">
+		<!-- 1) Макс. MP +6.96 2) Маг. Атк. +3.08 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="mAtk" value="3.08" />
+		</for>
+	</optiondata>
+	<optiondata id="7512">
+		<!-- 1) Макс. MP +6.96 2) Восстановление HP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="regHp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7513">
+		<!-- 1) Макс. MP +6.96 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7514">
+		<!-- 1) Макс. MP +6.96 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7515">
+		<!-- 1) Макс. MP +6.96 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7516">
+		<!-- 1) Макс. MP +6.96 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7517">
+		<!-- 1) Макс. MP +6.96 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="6.96" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7518">
+		<!-- 1) Макс. CP +30.49 2) Физ. Атк. +2.68 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="pAtk" value="2.68" />
+		</for>
+	</optiondata>
+	<optiondata id="7519">
+		<!-- 1) Макс. CP +30.49 2) Маг. Атк. +3.08 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="mAtk" value="3.08" />
+		</for>
+	</optiondata>
+	<optiondata id="7520">
+		<!-- 1) Макс. CP +30.49 2) Восстановление HP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="regHp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7521">
+		<!-- 1) Макс. CP +30.49 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7522">
+		<!-- 1) Макс. CP +30.49 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7523">
+		<!-- 1) Макс. CP +30.49 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7524">
+		<!-- 1) Макс. CP +30.49 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7525">
+		<!-- 1) Макс. CP +30.49 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="30.49" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7526">
+		<!-- 1) Физ. Атк. +2.68 2) Маг. Атк. +3.08 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="mAtk" value="3.08" />
+		</for>
+	</optiondata>
+	<optiondata id="7527">
+		<!-- 1) Физ. Атк. +2.68 2) Восстановление HP +0.13 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="regHp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7528">
+		<!-- 1) Физ. Атк. +2.68 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7529">
+		<!-- 1) Физ. Атк. +2.68 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7530">
+		<!-- 1) Физ. Атк. +2.68 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7531">
+		<!-- 1) Физ. Атк. +2.68 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7532">
+		<!-- 1) Физ. Атк. +2.68 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="2.68" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7533">
+		<!-- 1) Маг. Атк. +3.08 2) Восстановление HP +0.13 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="regHp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7534">
+		<!-- 1) Маг. Атк. +3.08 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7535">
+		<!-- 1) Маг. Атк. +3.08 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7536">
+		<!-- 1) Маг. Атк. +3.08 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7537">
+		<!-- 1) Маг. Атк. +3.08 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7538">
+		<!-- 1) Маг. Атк. +3.08 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="3.08" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7539">
+		<!-- 1) Восстановление HP +0.13 2) Восстановление MP +0.06 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.13" />
+			<add order="0x40" stat="regMp" value="0.06" />
+		</for>
+	</optiondata>
+	<optiondata id="7540">
+		<!-- 1) Восстановление HP +0.13 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.13" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7541">
+		<!-- 1) Восстановление HP +0.13 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.13" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7542">
+		<!-- 1) Восстановление HP +0.13 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.13" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7543">
+		<!-- 1) Восстановление HP +0.13 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.13" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7544">
+		<!-- 1) Восстановление MP +0.06 2) Восстановление CP +0.13 -->
+		<for>
+			<add order="0x40" stat="regMp" value="0.06" />
+			<add order="0x40" stat="regCp" value="0.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7545">
+		<!-- 1) Восстановление MP +0.06 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="regMp" value="0.06" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7546">
+		<!-- 1) Восстановление MP +0.06 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="regMp" value="0.06" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7547">
+		<!-- 1) Восстановление MP +0.06 2) Крит. +5,61 -->
+		<for>
+			<add order="0x40" stat="regMp" value="0.06" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7548">
+		<!-- 1) Восстановление CP +0.13 2) Уворот + 0.52 -->
+		<for>
+			<add order="0x40" stat="regCp" value="0.13" />
+			<add order="0x40" stat="rEvas" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7549">
+		<!-- 1) Восстановление CP +0.13 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="regCp" value="0.13" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7550">
+		<!-- 1) Восстановление CP +0.13 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="regCp" value="0.13" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7551">
+		<!-- 1) Уворот + 0.52 2) Точность +0.52 -->
+		<for>
+			<add order="0x40" stat="rEvas" value="0.52" />
+			<add order="0x40" stat="accCombat" value="0.52" />
+		</for>
+	</optiondata>
+	<optiondata id="7552">
+		<!-- 1) Уворот + 0.52 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="rEvas" value="0.52" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7553">
+		<!-- 1) Точность +0.52 2) Крит. +5.61 -->
+		<for>
+			<add order="0x40" stat="accCombat" value="0.52" />
+			<add order="0x40" stat="rCrit" value="5.61" />
+		</for>
+	</optiondata>
+	<optiondata id="7554">
+		<!-- 1) Физ. Защ. +11.46 -->
+		<for>
+			<add order="0x40" stat="pDef" value="11.46" />
+		</for>
+	</optiondata>
+	<optiondata id="7555">
+		<!-- 1) Маг. Защ. +9.13 -->
+		<for>
+			<add order="0x40" stat="mDef" value="9.13" />
+		</for>
+	</optiondata>
+	<optiondata id="7556">
+		<!-- 1) Макс. HP +45.83 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="45.83" />
+		</for>
+	</optiondata>
+	<optiondata id="7557">
+		<!-- 1) Макс. MP +14.55 -->
+		<for>
+			<add order="0x40" stat="maxMp" value="14.55" />
+		</for>
+	</optiondata>
+	<optiondata id="7558">
+		<!-- 1) Макс. CP +63.29 -->
+		<for>
+			<add order="0x40" stat="maxCp" value="63.29" />
+		</for>
+	</optiondata>
+	<optiondata id="7559">
+		<!-- 1) Физ. Атк. +5.83 -->
+		<for>
+			<add order="0x40" stat="pAtk" value="5.83" />
+		</for>
+	</optiondata>
+	<optiondata id="7560">
+		<!-- 1) Маг. Атк. +6.7 -->
+		<for>
+			<add order="0x40" stat="mAtk" value="6.7" />
+		</for>
+	</optiondata>
+	<optiondata id="7561">
+		<!-- 1) Восстановление HP +0.25 -->
+		<for>
+			<add order="0x40" stat="regHp" value="0.25" />
+		</for>
+	</optiondata>
+	<optiondata id="7562">
+		<!-- 1) Восстановление MP +0.11 -->
+		<for>
+			<add order="0x40" stat="regMp" value="0.11" />
+		</for>
+	</optiondata>
+	<optiondata id="7563">
+		<!-- 1) Восстановление CP +0.25 -->
+		<for>
+			<add order="0x40" stat="regCp" value="0.25" />
+		</for>
+	</optiondata>
+	<optiondata id="7564">
+		<!-- 1) Уворот + 1.04 -->
+		<for>
+			<add order="0x40" stat="rEvas" value="1.04" />
+		</for>
+	</optiondata>
+	<optiondata id="7565">
+		<!-- 1) Точность +1.04 -->
+		<for>
+			<add order="0x40" stat="accCombat" value="1.04" />
+		</for>
+	</optiondata>
+	<optiondata id="7566">
+		<!-- 1) Крит. +11.22 -->
+		<for>
+			<add order="0x40" stat="rCrit" value="11.22" />
+		</for>
+	</optiondata>
+	<optiondata id="7567">
+		<!-- 1) Физ. Защ. +6.07 2) Маг. Защ. +4.3 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="mDef" value="4.3" />
+		</for>
+	</optiondata>
+	<optiondata id="7568">
+		<!-- 1) Физ. Защ. +6.07 2) Макс. HP +21.57 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="maxHp" value="21.57" />
+		</for>
+	</optiondata>
+	<optiondata id="7569">
+		<!-- 1) Физ. Защ. +6.07 2) Макс. MP +6.85 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="maxMp" value="6.85" />
+		</for>
+	</optiondata>
+	<optiondata id="7570">
+		<!-- 1) Физ. Защ. +6.07 2) Макс. CP +29.79 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="maxCp" value="29.79" />
+		</for>
+	</optiondata>
+	<optiondata id="7571">
+		<!-- 1) Физ. Защ. +6.07 2) Физ. Атк. +2.74 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="pAtk" value="2.74" />
+		</for>
+	</optiondata>
+	<optiondata id="7572">
+		<!-- 1) Физ. Защ. +6.07 2) Маг. Атк. +3.15 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="mAtk" value="3.15" />
+		</for>
+	</optiondata>
+	<optiondata id="7573">
+		<!-- 1) Физ. Защ. +6.07 2) Восстановление HP +0.12 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="regHp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7574">
+		<!-- 1) Физ. Защ. +6.07 2) Восстановление MP +0.05 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="regMp" value="0.05" />
+		</for>
+	</optiondata>
+	<optiondata id="7575">
+		<!-- 1) Физ. Защ. +6.07 2) Восстановление CP +0.12 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="regCp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7576">
+		<!-- 1) Физ. Защ. +6.07 2) Уворот + 0.49 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="rEvas" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7577">
+		<!-- 1) Физ. Защ. +6.07 2) Точность +0.49 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="accCombat" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7578">
+		<!-- 1) Физ. Защ. +6.07 2) Крит. +5.33 -->
+		<for>
+			<add order="0x40" stat="pDef" value="6.07" />
+			<add order="0x40" stat="rCrit" value="5.33" />
+		</for>
+	</optiondata>
+	<optiondata id="7579">
+		<!-- 1) Маг. Защ. +4.83 2) Макс. HP +21.57 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="maxHp" value="21.57" />
+		</for>
+	</optiondata>
+	<optiondata id="7580">
+		<!-- 1) Маг. Защ. +4.83 2) Макс. MP +6.85 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="maxMp" value="6.85" />
+		</for>
+	</optiondata>
+	<optiondata id="7581">
+		<!-- 1) Маг. Защ. +4.83 2) Макс. CP +29.79 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="maxCp" value="29.79" />
+		</for>
+	</optiondata>
+	<optiondata id="7582">
+		<!-- 1) Маг. Защ. +4.83 2) Физ. Атк. +2.74 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="pAtk" value="2.74" />
+		</for>
+	</optiondata>
+	<optiondata id="7583">
+		<!-- 1) Маг. Защ. +4.83 2) Маг. Атк. +3.15 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="mAtk" value="3.15" />
+		</for>
+	</optiondata>
+	<optiondata id="7584">
+		<!-- 1) Маг. Защ. +4.83 2) Восстановление HP +0.12 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="regHp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7585">
+		<!-- 1) Маг. Защ. +4.83 2) Восстановление MP +0.05 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="regMp" value="0.05" />
+		</for>
+	</optiondata>
+	<optiondata id="7586">
+		<!-- 1) Маг. Защ. +4.83 2) Восстановление CP +0.12 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="regCp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7587">
+		<!-- 1) Маг. Защ. +4.83 2) Уворот + 0.49 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="rEvas" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7588">
+		<!-- 1) Маг. Защ. +4.83 2) Точность +0.49 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="accCombat" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7589">
+		<!-- 1) Маг. Защ. +4.83 2) Крит. +5.33 -->
+		<for>
+			<add order="0x40" stat="mDef" value="4.83" />
+			<add order="0x40" stat="rCrit" value="5.33" />
+		</for>
+	</optiondata>
+	<optiondata id="7590">
+		<!-- 1) Макс. HP +24.26 2) Макс. MP +6.85 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="maxMp" value="6.85" />
+		</for>
+	</optiondata>
+	<optiondata id="7591">
+		<!-- 1) Макс. HP +24.26 2) Макс. CP +29.79 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="maxCp" value="29.79" />
+		</for>
+	</optiondata>
+	<optiondata id="7592">
+		<!-- 1) Макс. HP +24.26 2) Физ. Атк. +2.74 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="pAtk" value="2.74" />
+		</for>
+	</optiondata>
+	<optiondata id="7593">
+		<!-- 1) Макс. HP +24.26 2) Маг. Атк. +3.15 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="mAtk" value="3.15" />
+		</for>
+	</optiondata>
+	<optiondata id="7594">
+		<!-- 1) Макс. HP +24.26 2) Восстановление HP +0.12 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="regHp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7595">
+		<!-- 1) Макс. HP +24.26 2) Восстановление MP +0.05 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="regMp" value="0.05" />
+		</for>
+	</optiondata>
+	<optiondata id="7596">
+		<!-- 1) Макс. HP +24.26 2) Восстановление CP +0.12 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="regCp" value="0.12" />
+		</for>
+	</optiondata>
+	<optiondata id="7597">
+		<!-- 1) Макс. HP +24.26 2) Уворот + 0.49 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="rEvas" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7598">
+		<!-- 1) Макс. HP +24.26 2) Точность +0.49 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="accCombat" value="0.49" />
+		</for>
+	</optiondata>
+	<optiondata id="7599">
+		<!-- 1) Макс. HP +24.26 2) Крит. +5.33 -->
+		<for>
+			<add order="0x40" stat="maxHp" value="24.26" />
+			<add order="0x40" stat="rCrit" value="5.33" />
+		</for>
+	</optiondata>
+</list>

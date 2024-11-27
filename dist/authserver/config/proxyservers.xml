@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "proxyservers.dtd">
+<list>
+    <!--
+    Usage: <proxyServer origId="<original_server_id>" proxyId="<proxy_server_id>" proxyHost="<proxy_host>" proxyPort="<proxy_port>" />
+    Where:
+        <original_server_id>    - Original server id
+        <proxy_server_id>       - Server ID used as a proxy server
+        <proxy_host>            - Host address (IP) of the proxy server
+        <proxy_port>            - Proxy servers port
+    Example:
+        <proxyServer origId="1" proxyId="2" proxyHost="127.0.0.1" proxyPort="7777" />
+    -->
+</list>

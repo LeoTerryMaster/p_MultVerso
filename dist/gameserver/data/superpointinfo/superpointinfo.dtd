@@ -1,0 +1,15 @@
+<!ELEMENT list (moveroute)*>
+<!ELEMENT moveroute (node)*>
+<!ATTLIST moveroute
+	name CDATA #REQUIRED
+	type CDATA #REQUIRED
+	is_running CDATA #IMPLIED>
+<!ELEMENT node (#PCDATA)>
+<!ATTLIST node
+	chat_type CDATA #IMPLIED
+	delay CDATA #IMPLIED
+	msg_addr CDATA #IMPLIED
+	social CDATA #IMPLIED
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	z CDATA #REQUIRED>

@@ -1,0 +1,112 @@
+<html>
+<title>Cfg</title>
+<body>
+<center>
+	<table width=282 border=0 cellspacing=0 cellpadding=0>
+		<tr><td>
+			<table width=282 height=28 border=0 cellspacing=0 cellpadding=0>
+			<tr>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab1" fore="L2UI_CH3.inventory_tab1" value="Cfg"></td>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab2" fore="L2UI_CH3.inventory_tab2" value="Password" action="bypass -h user_password"></td>
+				<td fixwidth=94><button width=94 height=28 back="L2UI_CH3.inventory_tab2" fore="L2UI_CH3.inventory_tab2" value="Repir" action="bypass -h user_repair"></td>
+			</tr>
+			</table>
+		</td></tr>
+		<tr><td>
+			<center>
+				<table width=280 height=280 border=0 cellspacing=0 cellpadding=5 bgcolor="333333">
+					<tr>
+						<td>
+							<table width=270 height=270 border=0 cellspacing=0 cellpadding=0 bgcolor="000000">
+								<tr>
+									<td width=270 height=270 valign="top" align="left">
+										
+										
+<table width=260>
+<tr>
+<td width=140>Translit:</td>
+<td width=30>%translit%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit of" value="Off"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg translit la" value="Lt"></td>
+</tr>
+<tr>
+<td width=140>Block experience:</td>
+<td width=30>%noe%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noe on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noe of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Do not show traders:</td>
+<td width=30>%notraders%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg notraders on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg notraders of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>Buffs Distance (0-100%):</td>
+<td width=30>%buffAnimRange%</td>
+<td width=30><edit var="ani" width=30 height=12 type="number" length="3"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg buffAnimRange $ani" value="Set"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg buffAnimRange -1" value="Off"></td>
+</tr>
+<tr>
+<td width=140>Classic Shift:</td>
+<td width=30>%noShift%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noShift on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noShift of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>No Carrier:</td>
+<td width=30>%noCarrier%</td>
+<td width=30><edit var="set" width=30 height=12 type="number" length="3"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg noCarrier $set" value="Set"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=130>Autoloot:</td>
+<td width=40>%autoloot%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot on" value="All"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot ad" value="Ad"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg autoloot of" value="Off"></td>
+</tr>
+<tr>
+<td width=140>Language:</td>
+<td width=30>%lang%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg lang en" value="En"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg lang ru" value="Ru"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>HWID Lock:</td>
+<td width=30>%hwidlock%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg hwidlock on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg hwidlock of" value="Off"></td>
+<td width=30></td>
+</tr>
+<tr>
+<td width=140>IP Lock:</td>
+<td width=30>%iplock%</td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg iplock on" value="On"></td>
+<td width=30><button width=30 height=15 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" action="bypass -h user_cfg iplock of" value="Off"></td>
+<td width=30></td>
+</tr>
+</table>
+										
+										
+										
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</center>
+		</td></tr>
+	</table>
+</center>
+
+</body>
+</html>

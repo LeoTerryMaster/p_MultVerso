@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- Shamshir*Caliburs-->
+  <item id="1">
+    <ingredient id="73" count="1"/>
+    <ingredient id="75" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2576" count="1"/>
+  </item>
+
+  <!-- Shamshir*Sword of Nightmare-->
+  <item id="2">
+    <ingredient id="73" count="1"/>
+    <ingredient id="134" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2579" count="1"/>
+  </item>
+
+  <!-- Shamshir*Tsurugi-->
+  <item id="3">
+    <ingredient id="73" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2580" count="1"/>
+  </item>
+
+  <!-- Katana*Caliburs-->
+  <item id="4">
+    <ingredient id="74" count="1"/>
+    <ingredient id="75" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2585" count="1"/>
+  </item>
+
+  <!-- Katana*Sword of Nightmare-->
+  <item id="5">
+    <ingredient id="74" count="1"/>
+    <ingredient id="134" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2588" count="1"/>
+  </item>
+
+  <!-- Katana*Tsurugi-->
+  <item id="6">
+    <ingredient id="74" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2589" count="1"/>
+  </item>
+
+  <!-- Spirit Sword*Caliburs-->
+  <item id="7">
+    <ingredient id="131" count="1"/>
+    <ingredient id="75" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2593" count="1"/>
+  </item>
+
+  <!-- Spirit Sword*Sword of Nightmare-->
+  <item id="8">
+    <ingredient id="131" count="1"/>
+    <ingredient id="134" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2596" count="1"/>
+  </item>
+
+  <!-- Spirit Sword*Tsurugi-->
+  <item id="9">
+    <ingredient id="131" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2597" count="1"/>
+  </item>
+
+  <!-- Raid Sword*Caliburs-->
+  <item id="10">
+    <ingredient id="133" count="1"/>
+    <ingredient id="75" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2600" count="1"/>
+  </item>
+
+  <!-- Raid Sword*Sword of Nightmare-->
+  <item id="11">
+    <ingredient id="133" count="1"/>
+    <ingredient id="134" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2603" count="1"/>
+  </item>
+
+  <!-- Raid Sword*Tsurugi-->
+  <item id="12">
+    <ingredient id="133" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="353"/>
+    <production id="2604" count="1"/>
+  </item>
+
+  <!-- Caliburs*Caliburs-->
+  <item id="13">
+    <ingredient id="75" count="2"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2606" count="1"/>
+  </item>
+
+  <!-- Caliburs*Sword of Nightmare-->
+  <item id="14">
+    <ingredient id="75" count="1"/>
+    <ingredient id="134" count="1"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2609" count="1"/>
+  </item>
+
+  <!-- Caliburs*Tsurugi-->
+  <item id="15">
+    <ingredient id="75" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2610" count="1"/>
+  </item>
+
+  <!-- Sword of Nightmare*Sword of Nightmare-->
+  <item id="16">
+    <ingredient id="134" count="2"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2621" count="1"/>
+  </item>
+
+  <!-- Sword of Nightmare*Tsurugi-->
+  <item id="17">
+    <ingredient id="134" count="1"/>
+    <ingredient id="77" count="1"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2622" count="1"/>
+  </item>
+
+  <!-- Tsurugi*Tsurugi-->
+  <item id="18">
+    <ingredient id="77" count="2"/>
+    <ingredient id="1875" count="45"/>
+    <production id="2624" count="1"/>
+  </item>
+
+  <!-- Shamshir*Samurai Long Sword-->
+  <item id="19">
+    <ingredient id="73" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="292"/>
+    <production id="2581" count="1"/>
+  </item>
+
+  <!-- Katana*Samurai Long Sword-->
+  <item id="20">
+    <ingredient id="74" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="292"/>
+    <production id="2590" count="1"/>
+  </item>
+
+  <!-- Spirit Sword*Samurai Long Sword-->
+  <item id="21">
+    <ingredient id="131" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="292"/>
+    <production id="2598" count="1"/>
+  </item>
+
+  <!-- Raid Sword*Samurai Long Sword-->
+  <item id="22">
+    <ingredient id="133" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="292"/>
+    <production id="2605" count="1"/>
+  </item>
+
+  <!-- Caliburs*Samurai Long Sword-->
+  <item id="23">
+    <ingredient id="75" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="490"/>
+    <production id="2611" count="1"/>
+  </item>
+
+  <!-- Sword of Nightmare*Samurai Long Sword-->
+  <item id="24">
+    <ingredient id="134" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="490"/>
+    <production id="2623" count="1"/>
+  </item>
+
+  <!-- Tsurugi*Samurai Long Sword-->
+  <item id="25">
+    <ingredient id="77" count="1"/>
+    <ingredient id="135" count="1"/>
+    <ingredient id="1875" count="490"/>
+    <production id="2625" count="1"/>
+  </item>
+
+  <!-- Samurai Long Sword*Samurai Long Sword-->
+  <item id="26">
+    <ingredient id="135" count="2"/>
+    <ingredient id="1875" count="500"/>
+    <production id="2626" count="1"/>
+  </item>
+
+</list>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="scribe_leandro" type="CIRCLE">
+		<node x="-82428" y="245204" z="-3712" />
+		<node x="-82198" y="245361" z="-3712" />
+		<node x="-82091" y="245028" z="-3720" />
+		<node x="-82381" y="244911" z="-3720" />
+		<node x="-82935" y="244481" z="-3728" />
+		<node x="-83980" y="242776" z="-3728" chat_type="ALL" msg_addr="WHERE_HAS_HE_GONE" delay="10000" />
+		<node x="-85966" y="241371" z="-3728" />
+		<node x="-86079" y="240868" z="-3720" chat_type="ALL" msg_addr="HAVE_YOU_SEEN_WINDAWOOD" delay="5000" />
+		<node x="-86076" y="240392" z="-3712" />
+		<node x="-86519" y="240706" z="-3704" />
+		<node x="-86343" y="241130" z="-3728" chat_type="ALL" msg_addr="WHERE_DID_HE_GO" delay="60000" />
+	</moveroute>
+</list>

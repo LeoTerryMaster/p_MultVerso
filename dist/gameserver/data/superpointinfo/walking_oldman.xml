@@ -1,0 +1,12 @@
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+    <moveroute name="walking_oldman" type="CIRCLE">
+        <node x="84416" y="-144052" z="-1528" />
+        <node x="84460" y="-142495" z="-1536" />
+        <node x="85242" y="-140949" z="-1536" />
+        <node x="87362" y="-140059" z="-1536" />
+        <node x="89350" y="-140750" z="-1536" />
+        <node x="90607" y="-143176" z="-1536" />
+        <node x="90267" y="-143883" z="-1536" />
+    </moveroute>
+</list>

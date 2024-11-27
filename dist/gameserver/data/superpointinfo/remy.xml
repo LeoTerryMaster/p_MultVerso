@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "superpointinfo.dtd">
+<list>
+	<moveroute name="porter_remy" type="LOOP" is_running="true">
+		<node x="-81926" y="243894" z="-3712" delay="3000" />
+		<node x="-82134" y="243600" z="-3728" />
+		<node x="-83182" y="243723" z="-3728" />
+		<node x="-84486" y="243236" z="-3728" chat_type="ALL" msg_addr="I_NEED_A_BREAK" delay="5000" />
+		<node x="-85205" y="243187" z="-3728" />
+		<node x="-86152" y="242898" z="-3728" />
+		<node x="-86360" y="242984" z="-3720" />
+		<node x="-86352" y="243207" z="-3720" chat_type="ALL" msg_addr="HELLO_MR_LECTOR_LONG_TIME_NO_SEE_MR_JACKSON" delay="5000" />
+		<node x="-86501" y="242762" z="-3720" />
+		<node x="-86500" y="242615" z="-3728" />
+		<node x="-86123" y="241606" z="-3728" />
+		<node x="-85207" y="240698" z="-3728" />
+		<node x="-84066" y="241285" z="-3728" chat_type="ALL" msg_addr="LULU" delay="5000" />
+		<node x="-83215" y="241170" z="-3728" />
+		<node x="-82408" y="242984" z="-3720" /> <!-- DS: эта точка изменена для нормального прохождения маршрута -->
+		<node x="-81674" y="243391" z="-3712" chat_type="ALL" msg_addr="A_DELIVERY_FOR_MR_LECTOR__VERY_GOOD" delay="60000" />
+		<node x="-81926" y="243894" z="-3712" />
+	</moveroute>
+</list>
